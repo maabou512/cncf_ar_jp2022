@@ -1488,8 +1488,8 @@
       <tuv lang="en-US">
         <seg>Despite the collective challenges we've faced, and continue to tackle, the cloud native ecosystem has soared.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T110334Z" creationid="tani" creationdate="20230104T111355Z">
-        <seg>私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウド ネイティブ エコシステムは躍進しつづけています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222046Z" creationid="tani" creationdate="20230104T111355Z">
+        <seg>私たちが直面し、取り組み続けている集合的な課題にもかかわらず、クラウド ネイティブ エコシステムは急増しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,14 +1642,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224239Z" creationid="tani" creationdate="20230104T113311Z">
         <seg>同様に重要なのは、プロジェクトとコミュニティの中立的な拠点が、この種のポジティブ サムの考え方を助長し、成長と多様性を促進することです。これは、成功するオープン ソース プロジェクトのコア要素であると私たちは信じています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Events</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035359Z" creationid="tani" creationdate="20220124T101401Z">
-        <seg>イベント</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,14 +1842,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222907Z" creationid="tani" creationdate="20230104T105009Z">
         <seg>ドイツ 2,463</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Get Involved</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032857Z" creationid="tani" creationdate="20220124T101258Z">
-        <seg>参加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -4320,8 +4304,8 @@
       <tuv lang="en-US">
         <seg>When I look back on 2022, it's with a deep sense of pride for what we have overcome and achieved together.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T110002Z" creationid="tani" creationdate="20230104T111358Z">
-        <seg>2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222044Z" creationid="tani" creationdate="20230104T111358Z">
+        <seg>2022 年を振り返ると、私たちが共に乗り越え、達成したことを誇りに思います。</seg>
       </tuv>
     </tu>
     <tu>

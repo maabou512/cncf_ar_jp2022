@@ -216,7 +216,7 @@
 </trans-unit>
 <trans-unit id="tu54" resname="menu-item-71628-id" restype="x-li">
 <source xml:lang="en-US">Get Involved</source>
-<target xml:lang="ja-JP">Get Involved</target>
+<target xml:lang="ja-JP">参加する</target>
 </trans-unit>
 <trans-unit id="tu55" resname="menu-item-71629-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp102]">Contribute<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</g></g></source>
@@ -732,7 +732,7 @@
 </trans-unit>
 <trans-unit id="tu181">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント</target>
 </trans-unit>
 <trans-unit id="tu185" restype="x-title">
 <source xml:lang="en-US">Jump to Training section</source>
@@ -788,7 +788,7 @@
 </trans-unit>
 <trans-unit id="tu197" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">When I look back on 2022, it's with a deep sense of pride for what we have overcome and achieved together. Despite the collective challenges we've faced, and continue to tackle, the cloud native ecosystem has soared. We've welcomed new industries, projects, and swelled our community to 7.1 million cloud native developers, surpassing the population of Denmark!</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">2022 年を振り返ると、私たちが共に乗り越え、達成したことを誇りに思います。私たちが直面し、取り組み続けている集合的な課題にもかかわらず、クラウド ネイティブ エコシステムは急増しています。私たちは新しい産業やプロジェクトを歓迎し、コミュニティをデンマークの人口を超える 710 万人のクラウド ネイティブ デベロッパーにまで拡大しました。</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウド ネイティブ エコシステムは躍進しつづけています。新しい産業やプロジェクトを受け入れながら、 710 万人ものクラウド ネイティブ デベロッパーを擁するコミュニティにまで大きくなりました。なんとデンマークの人口を超えるほどです！</g></target>
 </trans-unit>
 <trans-unit id="tu198" restype="x-paragraph">
 <source xml:lang="en-US">Cloud native has crossed the chasm and more organizations than ever before are becoming software companies. This was reflected at our KubeCon + CloudNativeCon events, where businesses like Mercedes Benz and Boeing headlined keynotes alongside well-known tech brands.</source>
@@ -1604,7 +1604,7 @@
 </trans-unit>
 <trans-unit id="tu401" restype="x-h2">
 <source xml:lang="en-US">Events</source>
-<target xml:lang="ja-JP">Events</target>
+<target xml:lang="ja-JP">イベント</target>
 </trans-unit>
 <trans-unit id="tu402">
 <source xml:lang="en-US">2/6</source>
@@ -3300,7 +3300,7 @@
 </trans-unit>
 <trans-unit id="tu825">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></target>
+<target xml:lang="ja-JP">574イベント<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu827" restype="x-alt">
 <source xml:lang="en-US">Chapters icon</source>

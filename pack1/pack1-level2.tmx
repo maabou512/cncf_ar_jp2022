@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Accept</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T113655Z" creationid="tani" creationdate="20230111T113655Z">
+        <seg>承諾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Accessibility Statement Submit an issue with this page</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T224645Z" creationid="tani" creationdate="20230104T113700Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T113611Z" creationid="tani" creationdate="20230104T113611Z">
         <seg>お知らせ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Annual Report  CNCF Annual Report 2022  December 15, 2022</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111334Z" creationid="tani" creationdate="20230111T111334Z">
+        <seg>Annual Report  CNCF アニュアルレポート 2022  2022年12月15日</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,30 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223552Z" creationid="tani" creationdate="20230104T105654Z">
         <seg>2022 年末までにテストされていないエンドポイントは 10 個 (2.5%) だけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CNCF Annual Report 2022</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111254Z" creationid="tani" creationdate="20230111T111254Z">
+        <seg>CNCF アニュアルレポート 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CNCF Annual Report 2022 - Building for the road ahead</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T113219Z" creationid="tani" creationdate="20230111T112850Z">
+        <seg>CNCF Aアニュアルレポート2022 〜 この先にある道へ築いていくこと 〜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CNCF Annual Report 2022 | Cloud Native Computing Foundation</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111220Z" creationid="tani" creationdate="20230111T111220Z">
+        <seg>CNCF アニュアルレポート 2022 | Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1342,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Community</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T114000Z" creationid="tani" creationdate="20230111T114000Z">
+        <seg>コミュニティ（Community）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Community &amp; Diversity Engagement</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223745Z" creationid="tani" creationdate="20230104T105847Z">
@@ -1566,6 +1614,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Ecosystem</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111627Z" creationid="tani" creationdate="20230111T111627Z">
+        <seg>エコシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Email address*</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T224323Z" creationid="tani" creationdate="20230104T113357Z">
@@ -1648,8 +1704,8 @@
       <tuv xml:lang="en-US">
         <seg>Events</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20220429T035359Z" creationid="tani" creationdate="20220124T101401Z">
-        <seg>イベント</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111729Z" creationid="tani" creationdate="20220124T101401Z">
+        <seg>イベント（Event）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1770,14 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223805Z" creationid="tani" creationdate="20230104T105907Z">
         <seg>女性と非バイナリの人のアイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Find out how we use cookies and how to change your settings.</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T113522Z" creationid="tani" creationdate="20230111T113522Z">
+        <seg>クッキー情報の使い方、設定の変更方法はこちらで確認ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,14 +1914,6 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222907Z" creationid="tani" creationdate="20230104T105009Z">
         <seg>ドイツ 2,463</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Get Involved</seg>
-      </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20220429T032857Z" creationid="tani" creationdate="20220124T101258Z">
-        <seg>参加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2406,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Jump to section:</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111637Z" creationid="tani" creationdate="20230111T111637Z">
+        <seg>各セクションへジャンプ：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>KCD Evolution</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T104834Z" creationid="tani" creationdate="20230104T104834Z">
@@ -2798,6 +2862,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Momentum</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111721Z" creationid="tani" creationdate="20230111T111533Z">
+        <seg>その勢い（Momentum）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Need-Based Applicants  attended KubeCon + CloudNativeCons and CNCF hosted co-located events</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223824Z" creationid="tani" creationdate="20230104T112930Z">
@@ -3190,6 +3262,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T113909Z" creationid="tani" creationdate="20230111T113909Z">
+        <seg>プロジェクト（Project）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Projects Accepted Over Time</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223241Z" creationid="tani" creationdate="20230104T112324Z">
@@ -3426,6 +3506,38 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T224053Z" creationid="tani" creationdate="20230104T110155Z">
         <seg>今年、CNCF 用語集の 7 つの新しい翻訳が寄贈されました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Share</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111925Z" creationid="tani" creationdate="20230111T111925Z">
+        <seg>共有しよう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Share by Email</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111848Z" creationid="tani" creationdate="20230111T111848Z">
+        <seg>メールでシェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Share on Linkedin</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111856Z" creationid="tani" creationdate="20230111T111856Z">
+        <seg>Linkedinでシェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Share on Twitter</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111906Z" creationid="tani" creationdate="20230111T111906Z">
+        <seg>Twitterでシェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,6 +3958,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This website uses cookies to offer you a better browsing experience</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T113423Z" creationid="tani" creationdate="20230111T113423Z">
+        <seg>本サイトではよりよいブラウザ体験を提供するためにクッキーを使用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This year CNCF helped launch two documentary films that supported our mission to humanize developers by telling their story of development in this dynamic medium.</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223729Z" creationid="tani" creationdate="20230104T112834Z">
@@ -3970,6 +4090,14 @@
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T105000Z" creationid="tani" creationdate="20230104T105000Z">
         <seg>合計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230111T111736Z" creationid="tani" creationdate="20230111T111546Z">
+        <seg>トレーニング（Training）</seg>
       </tuv>
     </tu>
     <tu>

@@ -4,11 +4,11 @@
 <body>
 <trans-unit id="tu1" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022 | Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022 | Cloud Native Computing Foundation</target>
+<target xml:lang="ja-JP">CNCF アニュアルレポート 2022 | Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu2" restype="x-content">
 <source xml:lang="en-US">CNCF Annual Report 2022 | Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022 | Cloud Native Computing Foundation</target>
+<target xml:lang="ja-JP">CNCF アニュアルレポート 2022 | Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu3">
 <source xml:lang="en-US"><g id="1" ctype="x-iframe" equiv-text="&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KNXFWV&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;"/></source>
@@ -16,11 +16,11 @@
 </trans-unit>
 <trans-unit id="tu4" restype="x-paragraph">
 <source xml:lang="en-US">This website uses cookies to offer you a better browsing experience</source>
-<target xml:lang="ja-JP">This website uses cookies to offer you a better browsing experience</target>
+<target xml:lang="ja-JP">本サイトではよりよいブラウザ体験を提供するためにクッキーを使用しています。</target>
 </trans-unit>
 <trans-unit id="tu5" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp13]">Find out how we use cookies and how to change your settings.</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp13]">Find out how we use cookies and how to change your settings.</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp13]">クッキー情報の使い方、設定の変更方法はこちらで確認ください。</g></target>
 </trans-unit>
 <trans-unit id="tu6">
 <source xml:lang="en-US"><bx id="1" ctype="x-button" equiv-text="&lt;button id=&quot;cookie-banner-button&quot; class=&quot;wp-block-button__link cookie-banner-button has-black-background-color has-background&quot; tabindex=&quot;0&quot;&gt;"/></source>
@@ -28,7 +28,7 @@
 </trans-unit>
 <trans-unit id="tu7">
 <source xml:lang="en-US">Accept <ex id="1" equiv-text="&lt;/button&gt;"/></source>
-<target xml:lang="ja-JP">Accept <ex id="1" equiv-text="&lt;/button&gt;"/></target>
+<target xml:lang="ja-JP">承諾<ex id="1" equiv-text="&lt;/button&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu8">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp18]">Skip to content</g> <g id="2" ctype="link" equiv-text="[#$dp19]">Accessibility help</g></source>
@@ -100,11 +100,11 @@
 </trans-unit>
 <trans-unit id="tu26" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
+<target xml:lang="ja-JP">CNCF アニュアルレポート 2022</target>
 </trans-unit>
 <trans-unit id="tu27" restype="x-alt">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
+<target xml:lang="ja-JP">CNCF アニュアルレポート 2022</target>
 </trans-unit>
 <trans-unit id="tu25">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp59]"> <x id="2" ctype="image" equiv-text="[#$dp60]"/> </g></source>
@@ -116,11 +116,11 @@
 </trans-unit>
 <trans-unit id="tu30" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
+<target xml:lang="ja-JP">CNCF アニュアルレポート 2022</target>
 </trans-unit>
 <trans-unit id="tu28">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp62]">Annual Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp63]">CNCF Annual Report 2022</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 15, 2022</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp62]">Annual Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp63]">CNCF Annual Report 2022</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 15, 2022</g></target>
+<target xml:lang="ja-JP">Annual Report  CNCF アニュアルレポート 2022  2022年12月15日<g id="1" ctype="link" equiv-text="[#$dp62]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp63]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu32" restype="x-title">
 <source xml:lang="en-US">KubeCon + CloudNativeCon North America 2022 Transparency Report</source>
@@ -192,7 +192,7 @@
 </trans-unit>
 <trans-unit id="tu48" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Projects</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">プロジェクト（Project）</g></g></target>
 </trans-unit>
 <trans-unit id="tu49" resname="menu-item-71623-id" restype="x-li">
 <source xml:lang="en-US">CNCF Projects</source>
@@ -216,7 +216,7 @@
 </trans-unit>
 <trans-unit id="tu54" resname="menu-item-71628-id" restype="x-li">
 <source xml:lang="en-US">Get Involved</source>
-<target xml:lang="ja-JP">参加する</target>
+<target xml:lang="ja-JP">Get Involved</target>
 </trans-unit>
 <trans-unit id="tu55" resname="menu-item-71629-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp102]">Contribute<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</g></g></source>
@@ -316,7 +316,7 @@
 </trans-unit>
 <trans-unit id="tu79" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Training</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Training</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">トレーニング（Training）</g></g></target>
 </trans-unit>
 <trans-unit id="tu80" resname="menu-item-71634-id" restype="x-li">
 <source xml:lang="en-US">Get Certified</source>
@@ -400,7 +400,7 @@
 </trans-unit>
 <trans-unit id="tu100" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Community</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Community</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">コミュニティ（Community）</g></g></target>
 </trans-unit>
 <trans-unit id="tu101" resname="menu-item-71644-id" restype="x-li">
 <source xml:lang="en-US">Take Part</source>
@@ -656,7 +656,7 @@
 </trans-unit>
 <trans-unit id="tu165" restype="x-alt">
 <source xml:lang="en-US">CNCF Annual Report 2022 - Building for the road ahead</source>
-<target xml:lang="ja-JP">CNCF Annual Report 2022 - Building for the road ahead</target>
+<target xml:lang="ja-JP">CNCF Aアニュアルレポート2022 〜 この先にある道へ築いていくこと 〜</target>
 </trans-unit>
 <trans-unit id="tu164">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp305]"/></source>
@@ -664,15 +664,15 @@
 </trans-unit>
 <trans-unit id="tu166" restype="x-paragraph">
 <source xml:lang="en-US">Share</source>
-<target xml:lang="ja-JP">Share</target>
+<target xml:lang="ja-JP">共有しよう</target>
 </trans-unit>
 <trans-unit id="tu168" restype="x-aria-label">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">Share on Twitter</target>
+<target xml:lang="ja-JP">Twitterでシェア</target>
 </trans-unit>
 <trans-unit id="tu169" restype="x-title">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">Share on Twitter</target>
+<target xml:lang="ja-JP">Twitterでシェア</target>
 </trans-unit>
 <trans-unit id="tu167">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp309]"/></source>
@@ -680,11 +680,11 @@
 </trans-unit>
 <trans-unit id="tu171" restype="x-aria-label">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Share on Linkedin</target>
+<target xml:lang="ja-JP">Linkedinでシェア</target>
 </trans-unit>
 <trans-unit id="tu172" restype="x-title">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Share on Linkedin</target>
+<target xml:lang="ja-JP">Linkedinでシェア</target>
 </trans-unit>
 <trans-unit id="tu170">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- linkedin --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp311]"/></source>
@@ -692,11 +692,11 @@
 </trans-unit>
 <trans-unit id="tu174" restype="x-aria-label">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">Share by Email</target>
+<target xml:lang="ja-JP">メールでシェア</target>
 </trans-unit>
 <trans-unit id="tu175" restype="x-title">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">Share by Email</target>
+<target xml:lang="ja-JP">メールでシェア</target>
 </trans-unit>
 <trans-unit id="tu173">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- sendto email --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp313]"/></source>
@@ -708,7 +708,7 @@
 </trans-unit>
 <trans-unit id="tu177">
 <source xml:lang="en-US">Jump to section:</source>
-<target xml:lang="ja-JP">Jump to section:</target>
+<target xml:lang="ja-JP">各セクションへジャンプ：:</target>
 </trans-unit>
 <trans-unit id="tu179" restype="x-title">
 <source xml:lang="en-US">Jump to Momentum section</source>
@@ -720,7 +720,7 @@
 </trans-unit>
 <trans-unit id="tu178">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>Momentum</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>Momentum</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>その勢い（Momentum）</target>
 </trans-unit>
 <trans-unit id="tu182" restype="x-title">
 <source xml:lang="en-US">Jump to Events section</source>
@@ -732,7 +732,7 @@
 </trans-unit>
 <trans-unit id="tu181">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント（Event）</target>
 </trans-unit>
 <trans-unit id="tu185" restype="x-title">
 <source xml:lang="en-US">Jump to Training section</source>
@@ -744,7 +744,7 @@
 </trans-unit>
 <trans-unit id="tu184">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>Training</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>Training</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>トレーニング（Training）</target>
 </trans-unit>
 <trans-unit id="tu188" restype="x-title">
 <source xml:lang="en-US">Jump to Projects section</source>
@@ -756,7 +756,7 @@
 </trans-unit>
 <trans-unit id="tu187">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>Projects</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>Projects</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>プロジェクト（Project）</target>
 </trans-unit>
 <trans-unit id="tu191" restype="x-title">
 <source xml:lang="en-US">Jump to Community section</source>
@@ -768,7 +768,7 @@
 </trans-unit>
 <trans-unit id="tu190">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>Community</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>Community</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>コミュニティ（Community）</target>
 </trans-unit>
 <trans-unit id="tu194" restype="x-title">
 <source xml:lang="en-US">Jump to Ecosystem section</source>
@@ -780,7 +780,7 @@
 </trans-unit>
 <trans-unit id="tu193">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>Ecosystem</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>Ecosystem</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>エコシステム</target>
 </trans-unit>
 <trans-unit id="tu196" restype="x-h2">
 <source xml:lang="en-US">Welcome! It's been a <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>year to remember</source>
@@ -1236,7 +1236,7 @@
 </trans-unit>
 <trans-unit id="tu309" restype="x-h2">
 <source xml:lang="en-US">2022 <x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/> Momentum</source>
-<target xml:lang="ja-JP">2022年Momentum<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">2022年その勢い（Momentum）<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu310">
 <source xml:lang="en-US">1/6</source>
@@ -1304,7 +1304,7 @@
 </trans-unit>
 <trans-unit id="tu326">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">Projects</target>
+<target xml:lang="ja-JP">プロジェクト（Project）</target>
 </trans-unit>
 <trans-unit id="tu327" restype="x-h2">
 <source xml:lang="en-US">Membership</source>
@@ -1604,7 +1604,7 @@
 </trans-unit>
 <trans-unit id="tu401" restype="x-h2">
 <source xml:lang="en-US">Events</source>
-<target xml:lang="ja-JP">イベント</target>
+<target xml:lang="ja-JP">イベント（Event）</target>
 </trans-unit>
 <trans-unit id="tu402">
 <source xml:lang="en-US">2/6</source>
@@ -3300,7 +3300,7 @@
 </trans-unit>
 <trans-unit id="tu825">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></source>
-<target xml:lang="ja-JP">574イベント<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">574イベント（Event）<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu827" restype="x-alt">
 <source xml:lang="en-US">Chapters icon</source>
@@ -3624,11 +3624,11 @@
 </trans-unit>
 <trans-unit id="tu907" restype="x-aria-label">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Share on Linkedin</target>
+<target xml:lang="ja-JP">Linkedinでシェア</target>
 </trans-unit>
 <trans-unit id="tu908" restype="x-title">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Share on Linkedin</target>
+<target xml:lang="ja-JP">Linkedinでシェア</target>
 </trans-unit>
 <trans-unit id="tu906">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp1303]"/></source>
@@ -3636,11 +3636,11 @@
 </trans-unit>
 <trans-unit id="tu910" restype="x-aria-label">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">Share on Twitter</target>
+<target xml:lang="ja-JP">Twitterでシェア</target>
 </trans-unit>
 <trans-unit id="tu911" restype="x-title">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">Share on Twitter</target>
+<target xml:lang="ja-JP">Twitterでシェア</target>
 </trans-unit>
 <trans-unit id="tu909">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- twitter --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp1305]"/></source>
@@ -3648,11 +3648,11 @@
 </trans-unit>
 <trans-unit id="tu913" restype="x-aria-label">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">Share by Email</target>
+<target xml:lang="ja-JP">メールでシェア</target>
 </trans-unit>
 <trans-unit id="tu914" restype="x-title">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">Share by Email</target>
+<target xml:lang="ja-JP">メールでシェア</target>
 </trans-unit>
 <trans-unit id="tu912">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- sendto email --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp1307]"/></source>
@@ -3832,7 +3832,7 @@
 </trans-unit>
 <trans-unit id="tu958" resname="menu-item-71679-id" restype="x-li">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">Projects</target>
+<target xml:lang="ja-JP">プロジェクト（Project）</target>
 </trans-unit>
 <trans-unit id="tu959" resname="menu-item-71680-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1374]">Contribute</g></source>
@@ -3928,7 +3928,7 @@
 </trans-unit>
 <trans-unit id="tu982" resname="menu-item-71697-id" restype="x-li">
 <source xml:lang="en-US">Community</source>
-<target xml:lang="ja-JP">Community</target>
+<target xml:lang="ja-JP">コミュニティ（Community）</target>
 </trans-unit>
 <trans-unit id="tu983" resname="menu-item-71698-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1444]">End User Community</g></source>

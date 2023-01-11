@@ -4,11 +4,11 @@
 <body>
 <trans-unit id="tu1" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022 | Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">CNCF 年次報告書 2022 |クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022 | Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu2" restype="x-content">
 <source xml:lang="en-US">CNCF Annual Report 2022 | Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">CNCF 年次報告書 2022 |クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022 | Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu3">
 <source xml:lang="en-US"><g id="1" ctype="x-iframe" equiv-text="&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KNXFWV&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;"/></source>
@@ -16,11 +16,11 @@
 </trans-unit>
 <trans-unit id="tu4" restype="x-paragraph">
 <source xml:lang="en-US">This website uses cookies to offer you a better browsing experience</source>
-<target xml:lang="ja-JP">この Web サイトでは、より良いブラウジング体験を提供するために Cookie を使用しています</target>
+<target xml:lang="ja-JP">This website uses cookies to offer you a better browsing experience</target>
 </trans-unit>
 <trans-unit id="tu5" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp13]">Find out how we use cookies and how to change your settings.</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp13]">Cookie の使用方法と設定の変更方法をご覧ください。</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp13]">Find out how we use cookies and how to change your settings.</g></target>
 </trans-unit>
 <trans-unit id="tu6">
 <source xml:lang="en-US"><bx id="1" ctype="x-button" equiv-text="&lt;button id=&quot;cookie-banner-button&quot; class=&quot;wp-block-button__link cookie-banner-button has-black-background-color has-background&quot; tabindex=&quot;0&quot;&gt;"/></source>
@@ -28,19 +28,19 @@
 </trans-unit>
 <trans-unit id="tu7">
 <source xml:lang="en-US">Accept <ex id="1" equiv-text="&lt;/button&gt;"/></source>
-<target xml:lang="ja-JP">承認<ex id="1" equiv-text="&lt;/button&gt;"/></target>
+<target xml:lang="ja-JP">Accept <ex id="1" equiv-text="&lt;/button&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu8">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp18]">Skip to content</g> <g id="2" ctype="link" equiv-text="[#$dp19]">Accessibility help</g></source>
-<target xml:lang="ja-JP">コンテンツへスキップ アクセシビリティのヘルプ<g id="1" ctype="link" equiv-text="[#$dp18]"></g><g id="2" ctype="link" equiv-text="[#$dp19]"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp18]">Skip to content</g> <g id="2" ctype="link" equiv-text="[#$dp19]">Accessibility help</g></target>
 </trans-unit>
 <trans-unit id="tu10" restype="x-title">
 <source xml:lang="en-US">Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu11" restype="x-alt">
 <source xml:lang="en-US">Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu9">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp21]"> <x id="2" ctype="image" equiv-text="[#$dp22]"/> </g></source>
@@ -48,63 +48,63 @@
 </trans-unit>
 <trans-unit id="tu12" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp24]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">About</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp24]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">だいたい</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp24]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">About</g></g></target>
 </trans-unit>
 <trans-unit id="tu13" resname="menu-item-71611-id" restype="x-li">
 <source xml:lang="en-US">Discover CNCF</source>
-<target xml:lang="ja-JP">CNCFを発見</target>
+<target xml:lang="ja-JP">Discover CNCF</target>
 </trans-unit>
 <trans-unit id="tu14" resname="menu-item-71615-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp28]">Who We Are<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp28]">当社についてCNCF は、クラウド ネイティブ コンピューティングのベンダー中立ハブであり、クラウド ネイティブをユビキタスにすることに専念しています<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp28]">Who We Are<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous</g></g></target>
 </trans-unit>
 <trans-unit id="tu15" resname="menu-item-71616-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp31]">Members<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">From tech icons to innovative startups, meet our members driving cloud native computing</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp31]">メンバーテクノロジのアイコンから革新的なスタートアップまで、クラウド ネイティブ コンピューティングを推進するメンバーに会いましょう<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp31]">Members<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">From tech icons to innovative startups, meet our members driving cloud native computing</g></g></target>
 </trans-unit>
 <trans-unit id="tu16" resname="menu-item-71617-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp34]">Technical Oversight Committee<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">The TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp34]">技術監視委員会TOC は、CNCF の技術的ビジョンを定義し、経験豊富な技術的リーダーシップをクラウド ネイティブ コミュニティに提供します。<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp34]">Technical Oversight Committee<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">The TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community</g></g></target>
 </trans-unit>
 <trans-unit id="tu17" resname="menu-item-71618-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp37]">Governing Board<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">The GB is responsible for marketing, business oversight, and budget decisions for CNCF</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp37]">理事会 GB は、CNCF のマーケティング、ビジネス監視、および予算決定を担当します。<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp37]">Governing Board<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">The GB is responsible for marketing, business oversight, and budget decisions for CNCF</g></g></target>
 </trans-unit>
 <trans-unit id="tu18" resname="menu-item-72396-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp40]">Ambassadors<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Meet our Ambassadors—experienced practitioners passionate about helping others learn about cloud native technologies</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp40]">アンバサダーアンバサダーをご紹介します—他の人がクラウド ネイティブ テクノロジについて学ぶのを支援することに熱心な経験豊富な実践者です<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp40]">Ambassadors<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Meet our Ambassadors—experienced practitioners passionate about helping others learn about cloud native technologies</g></g></target>
 </trans-unit>
 <trans-unit id="tu19" resname="menu-item-71619-id" restype="x-li">
 <source xml:lang="en-US">Additional Info</source>
-<target xml:lang="ja-JP">追加情報</target>
+<target xml:lang="ja-JP">Additional Info</target>
 </trans-unit>
 <trans-unit id="tu20" resname="menu-item-74274-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp45]">Code of Conduct</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp45]">行動規範</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp45]">Code of Conduct</g></target>
 </trans-unit>
 <trans-unit id="tu21" resname="menu-item-71620-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp48]">Staff</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp48]">スタッフ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp48]">Staff</g></target>
 </trans-unit>
 <trans-unit id="tu22" resname="menu-item-71621-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp51]">FAQ</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp51]">よくある質問</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp51]">FAQ</g></target>
 </trans-unit>
 <trans-unit id="tu23" resname="menu-item-71622-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp54]">Contact Us</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp54]">お問い合わせ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp54]">Contact Us</g></target>
 </trans-unit>
 <trans-unit id="tu24" restype="x-li">
 <source xml:lang="en-US">Featured Reads</source>
-<target xml:lang="ja-JP">おすすめの読み物</target>
+<target xml:lang="ja-JP">Featured Reads</target>
 </trans-unit>
 <trans-unit id="tu26" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCFアニュアルレポート2022</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
 </trans-unit>
 <trans-unit id="tu27" restype="x-alt">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCFアニュアルレポート2022</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
 </trans-unit>
 <trans-unit id="tu25">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp59]"> <x id="2" ctype="image" equiv-text="[#$dp60]"/> </g></source>
@@ -112,23 +112,23 @@
 </trans-unit>
 <trans-unit id="tu29" restype="x-title">
 <source xml:lang="en-US">See more in Annual category</source>
-<target xml:lang="ja-JP">年次カテゴリでもっと見る</target>
+<target xml:lang="ja-JP">See more in Annual category</target>
 </trans-unit>
 <trans-unit id="tu30" restype="x-title">
 <source xml:lang="en-US">CNCF Annual Report 2022</source>
-<target xml:lang="ja-JP">CNCFアニュアルレポート2022</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022</target>
 </trans-unit>
 <trans-unit id="tu28">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp62]">Annual Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp63]">CNCF Annual Report 2022</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 15, 2022</g></source>
-<target xml:lang="ja-JP">アニュアルレポート CNCF アニュアルレポート 2022 2022 年 12 月 15 日<g id="1" ctype="link" equiv-text="[#$dp62]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp63]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp62]">Annual Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp63]">CNCF Annual Report 2022</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 15, 2022</g></target>
 </trans-unit>
 <trans-unit id="tu32" restype="x-title">
 <source xml:lang="en-US">KubeCon + CloudNativeCon North America 2022 Transparency Report</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon 北米 2022 透明性レポート</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 Transparency Report</target>
 </trans-unit>
 <trans-unit id="tu33" restype="x-alt">
 <source xml:lang="en-US">KubeCon + CloudNativeCon North America 2022 Transparency Report</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon 北米 2022 透明性レポート</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 Transparency Report</target>
 </trans-unit>
 <trans-unit id="tu31">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp65]"> <x id="2" ctype="image" equiv-text="[#$dp66]"/> </g></source>
@@ -136,19 +136,19 @@
 </trans-unit>
 <trans-unit id="tu35" restype="x-title">
 <source xml:lang="en-US">See more in Conference Transparency category</source>
-<target xml:lang="ja-JP">会議の透明性カテゴリでもっと見る</target>
+<target xml:lang="ja-JP">See more in Conference Transparency category</target>
 </trans-unit>
 <trans-unit id="tu36" restype="x-title">
 <source xml:lang="en-US">KubeCon + CloudNativeCon North America 2022 Transparency Report</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon 北米 2022 透明性レポート</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 Transparency Report</target>
 </trans-unit>
 <trans-unit id="tu34">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp68]">Conference Transparency Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp69]">KubeCon + CloudNativeCon North America 2022 Transparency Report</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 9, 2022</g></source>
-<target xml:lang="ja-JP">Conference Transparency Report KubeCon + CloudNativeCon North America 2022 透明性レポート 2022 年 12 月 9 日<g id="1" ctype="link" equiv-text="[#$dp68]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp69]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp68]">Conference Transparency Report</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp69]">KubeCon + CloudNativeCon North America 2022 Transparency Report</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 9, 2022</g></target>
 </trans-unit>
 <trans-unit id="tu38" restype="x-title">
 <source xml:lang="en-US">KubeCon + CloudNativeCon Europe 2023</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon ヨーロッパ 2023</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2023</target>
 </trans-unit>
 <trans-unit id="tu37">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp71]"/> <x id="2" ctype="x-comment" equiv-text="&lt;!-- event start  --&gt;"/></source>
@@ -156,7 +156,7 @@
 </trans-unit>
 <trans-unit id="tu40" restype="x-alt">
 <source xml:lang="en-US">KubeCon + CloudNativeCon Europe 2023</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon ヨーロッパ 2023</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2023</target>
 </trans-unit>
 <trans-unit id="tu39">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp73]"/></source>
@@ -164,7 +164,7 @@
 </trans-unit>
 <trans-unit id="tu42" restype="x-alt">
 <source xml:lang="en-US">KubeCon + CloudNativeCon Europe 2023</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon ヨーロッパ 2023</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2023</target>
 </trans-unit>
 <trans-unit id="tu41">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp75]"/></source>
@@ -172,7 +172,7 @@
 </trans-unit>
 <trans-unit id="tu43" restype="x-h4">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__event-city&quot;&gt;">Amsterdam, Netherlands</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__event-city&quot;&gt;">オランダ、アムステルダム</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__event-city&quot;&gt;">Amsterdam, Netherlands</g></target>
 </trans-unit>
 <trans-unit id="tu44">
 <source xml:lang="en-US"><ex id="1" equiv-text="&lt;/a&gt;"/></source>
@@ -180,67 +180,67 @@
 </trans-unit>
 <trans-unit id="tu46" restype="x-title">
 <source xml:lang="en-US">See more in Events</source>
-<target xml:lang="ja-JP">イベントでもっと見る</target>
+<target xml:lang="ja-JP">See more in Events</target>
 </trans-unit>
 <trans-unit id="tu47" restype="x-title">
 <source xml:lang="en-US">KubeCon + CloudNativeCon Europe 2023</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon ヨーロッパ 2023</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2023</target>
 </trans-unit>
 <trans-unit id="tu45">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp79]">Next Event</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp80]">KubeCon + CloudNativeCon Europe 2023</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"> April 17-21, 2023</g></source>
-<target xml:lang="ja-JP">次のイベント KubeCon + CloudNativeCon Europe 2023 2023 年 4 月 17 ～ 21 日<g id="1" ctype="link" equiv-text="[#$dp79]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp80]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp79]">Next Event</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp80]">KubeCon + CloudNativeCon Europe 2023</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"> April 17-21, 2023</g></target>
 </trans-unit>
 <trans-unit id="tu48" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">プロジェクト</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Projects</g></g></target>
 </trans-unit>
 <trans-unit id="tu49" resname="menu-item-71623-id" restype="x-li">
 <source xml:lang="en-US">CNCF Projects</source>
-<target xml:lang="ja-JP">CNCF プロジェクト</target>
+<target xml:lang="ja-JP">CNCF Projects</target>
 </trans-unit>
 <trans-unit id="tu50" resname="menu-item-71624-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp88]">Graduated<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects considered stable, widely adopted, and production ready, attracting thousands of contributors</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp88]">GraduatedProjects は、安定しており、広く採用されており、本番環境に対応していると考えられており、何千人もの貢献者を引き付けています<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp88]">Graduated<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects considered stable, widely adopted, and production ready, attracting thousands of contributors</g></g></target>
 </trans-unit>
 <trans-unit id="tu51" resname="menu-item-71625-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp91]">Incubating<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects used successfully in production by a small number users with a healthy pool of contributors</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp91]">IncubatingProjects は、貢献者の健全なプールを持つ少数のユーザーによって実稼働環境で正常に使用されています<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp91]">Incubating<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects used successfully in production by a small number users with a healthy pool of contributors</g></g></target>
 </trans-unit>
 <trans-unit id="tu52" resname="menu-item-71626-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp94]">Sandbox<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Experimental projects not yet widely tested in production on the bleeding edge of technology</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp94]">サンドボックス技術の最先端での本番環境でまだ広くテストされていない実験的プロジェクト<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp94]">Sandbox<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Experimental projects not yet widely tested in production on the bleeding edge of technology</g></g></target>
 </trans-unit>
 <trans-unit id="tu53" resname="menu-item-71627-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp97]">Archived<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects that have reached the end of their lifecycle and have become inactive</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp97]">ライフサイクルの終わりに達し、非アクティブになった ArchivedProjects<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp97]">Archived<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Projects that have reached the end of their lifecycle and have become inactive</g></g></target>
 </trans-unit>
 <trans-unit id="tu54" resname="menu-item-71628-id" restype="x-li">
 <source xml:lang="en-US">Get Involved</source>
-<target xml:lang="ja-JP">参加する</target>
+<target xml:lang="ja-JP">Get Involved</target>
 </trans-unit>
 <trans-unit id="tu55" resname="menu-item-71629-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp102]">Contribute<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp102]">貢献CNCF がホストするプロジェクトに専門知識を提供した #TeamCloudNative の 15 万人以上の人々に参加しましょう<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp102]">Contribute<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</g></g></target>
 </trans-unit>
 <trans-unit id="tu56" resname="menu-item-71630-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp105]">Services for CNCF Projects<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF services for our open source projects – from marketing to legal services</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp105]">CNCF プロジェクト向けサービスCNCF のオープン ソース プロジェクト向けサービス – マーケティングから法務サービスまで<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp105]">Services for CNCF Projects<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF services for our open source projects – from marketing to legal services</g></g></target>
 </trans-unit>
 <trans-unit id="tu57" resname="menu-item-71632-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp108]">Cloud Native Landscape<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">A comprehensive categorical overview of projects and product offerings in the cloud native space</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp108]">クラウド ネイティブ ランドスケープクラウド ネイティブ空間におけるプロジェクトと製品の包括的なカテゴリ概要<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp108]">Cloud Native Landscape<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">A comprehensive categorical overview of projects and product offerings in the cloud native space</g></g></target>
 </trans-unit>
 <trans-unit id="tu58" resname="menu-item-71631-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp111]">Project Journey Reports<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Showing how CNCF has impacted the progress and growth of various graduated projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp111]">プロジェクト ジャーニー レポートCNCF がさまざまな卒業プロジェクトの進行と成長にどのような影響を与えたかを示します<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp111]">Project Journey Reports<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Showing how CNCF has impacted the progress and growth of various graduated projects</g></g></target>
 </trans-unit>
 <trans-unit id="tu59" resname="menu-item-71633-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp114]">Project Tools<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Quick links to tools and resources for your CNCF project</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp114]">プロジェクト ツールCNCF プロジェクトのツールとリソースへのクイック リンク<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp114]">Project Tools<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Quick links to tools and resources for your CNCF project</g></g></target>
 </trans-unit>
 <trans-unit id="tu60" restype="x-li">
 <source xml:lang="en-US">Latest Tech Radars</source>
-<target xml:lang="ja-JP">最新の技術レーダー</target>
+<target xml:lang="ja-JP">Latest Tech Radars</target>
 </trans-unit>
 <trans-unit id="tu62" restype="x-title">
 <source xml:lang="en-US">DevSecOps</source>
@@ -256,7 +256,7 @@
 </trans-unit>
 <trans-unit id="tu65" restype="x-title">
 <source xml:lang="en-US">See more tech radars</source>
-<target xml:lang="ja-JP">テクノロジーレーダーをもっと見る</target>
+<target xml:lang="ja-JP">See more tech radars</target>
 </trans-unit>
 <trans-unit id="tu66" restype="x-title">
 <source xml:lang="en-US">DevSecOps</source>
@@ -264,15 +264,15 @@
 </trans-unit>
 <trans-unit id="tu64">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp122]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp123]">DevSecOps</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">September 2021</g></source>
-<target xml:lang="ja-JP">Tech Radar DevSecOps 2021 年 9 月<g id="1" ctype="link" equiv-text="[#$dp122]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp123]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp122]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp123]">DevSecOps</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">September 2021</g></target>
 </trans-unit>
 <trans-unit id="tu68" restype="x-title">
 <source xml:lang="en-US">Multicluster Management</source>
-<target xml:lang="ja-JP">マルチクラスタ管理</target>
+<target xml:lang="ja-JP">Multicluster Management</target>
 </trans-unit>
 <trans-unit id="tu69" restype="x-alt">
 <source xml:lang="en-US">Multicluster Management</source>
-<target xml:lang="ja-JP">マルチクラスタ管理</target>
+<target xml:lang="ja-JP">Multicluster Management</target>
 </trans-unit>
 <trans-unit id="tu67">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp125]"> <x id="2" ctype="image" equiv-text="[#$dp126]"/> </g></source>
@@ -280,23 +280,23 @@
 </trans-unit>
 <trans-unit id="tu71" restype="x-title">
 <source xml:lang="en-US">See more tech radars</source>
-<target xml:lang="ja-JP">テクノロジーレーダーをもっと見る</target>
+<target xml:lang="ja-JP">See more tech radars</target>
 </trans-unit>
 <trans-unit id="tu72" restype="x-title">
 <source xml:lang="en-US">Multicluster Management</source>
-<target xml:lang="ja-JP">マルチクラスタ管理</target>
+<target xml:lang="ja-JP">Multicluster Management</target>
 </trans-unit>
 <trans-unit id="tu70">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp128]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp129]">Multicluster Management</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">June 2021</g></source>
-<target xml:lang="ja-JP">Tech Radar マルチクラスター管理 2021 年 6 月<g id="1" ctype="link" equiv-text="[#$dp128]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp129]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp128]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp129]">Multicluster Management</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">June 2021</g></target>
 </trans-unit>
 <trans-unit id="tu74" restype="x-title">
 <source xml:lang="en-US">Secret Management</source>
-<target xml:lang="ja-JP">秘密管理</target>
+<target xml:lang="ja-JP">Secret Management</target>
 </trans-unit>
 <trans-unit id="tu75" restype="x-alt">
 <source xml:lang="en-US">Secret Management</source>
-<target xml:lang="ja-JP">秘密管理</target>
+<target xml:lang="ja-JP">Secret Management</target>
 </trans-unit>
 <trans-unit id="tu73">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp131]"> <x id="2" ctype="image" equiv-text="[#$dp132]"/> </g></source>
@@ -304,31 +304,31 @@
 </trans-unit>
 <trans-unit id="tu77" restype="x-title">
 <source xml:lang="en-US">See more tech radars</source>
-<target xml:lang="ja-JP">テクノロジーレーダーをもっと見る</target>
+<target xml:lang="ja-JP">See more tech radars</target>
 </trans-unit>
 <trans-unit id="tu78" restype="x-title">
 <source xml:lang="en-US">Secret Management</source>
-<target xml:lang="ja-JP">秘密管理</target>
+<target xml:lang="ja-JP">Secret Management</target>
 </trans-unit>
 <trans-unit id="tu76">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp134]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp135]">Secret Management</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">February 2021</g></source>
-<target xml:lang="ja-JP">Tech Radar 秘密管理 2021 年 2 月<g id="1" ctype="link" equiv-text="[#$dp134]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp135]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp134]">Tech Radar</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp135]">Secret Management</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">February 2021</g></target>
 </trans-unit>
 <trans-unit id="tu79" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Training</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">トレーニング</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp139]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Training</g></g></target>
 </trans-unit>
 <trans-unit id="tu80" resname="menu-item-71634-id" restype="x-li">
 <source xml:lang="en-US">Get Certified</source>
-<target xml:lang="ja-JP">認定を受ける</target>
+<target xml:lang="ja-JP">Get Certified</target>
 </trans-unit>
 <trans-unit id="tu81" resname="menu-item-71635-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp143]">CKA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Certified Kubernetes Administrator</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp143]">CKAC認定Kubernetes管理者<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp143]">CKA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Certified Kubernetes Administrator</g></g></target>
 </trans-unit>
 <trans-unit id="tu82" resname="menu-item-71636-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp146]">CKAD<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Certified Kubernetes Application Developer</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp146]">CKAD 認定 Kubernetes アプリケーション開発者<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp146]">CKAD<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Certified Kubernetes Application Developer</g></g></target>
 </trans-unit>
 <trans-unit id="tu83" resname="menu-item-71637-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp149]">CKS<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Certified Kubernetes Security Specialist</g></g></source>
@@ -336,47 +336,47 @@
 </trans-unit>
 <trans-unit id="tu84" resname="menu-item-71639-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp152]">KCNA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Kubernetes and Cloud Native Associate</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp152]">KCNAKubernetes と Cloud Native Associate<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp152]">KCNA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Kubernetes and Cloud Native Associate</g></g></target>
 </trans-unit>
 <trans-unit id="tu85" resname="menu-item-72637-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp155]">PCA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Prometheus Certified Associate</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp155]">PCAPrometheus 認定アソシエイト<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp155]">PCA<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Prometheus Certified Associate</g></g></target>
 </trans-unit>
 <trans-unit id="tu86" resname="menu-item-72393-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp158]">Courses<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Training courses for cloud native certifications</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp158]">コースクラウド ネイティブ認定のトレーニング コース<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp158]">Courses<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Training courses for cloud native certifications</g></g></target>
 </trans-unit>
 <trans-unit id="tu87" resname="menu-item-71638-id" restype="x-li">
 <source xml:lang="en-US">Partner Support</source>
-<target xml:lang="ja-JP">パートナー サポート</target>
+<target xml:lang="ja-JP">Partner Support</target>
 </trans-unit>
 <trans-unit id="tu88" resname="menu-item-71640-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp163]">Certified Kubernetes<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Software conformance ensures your versions of CNCF projects support the required APIs</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp163]">認定された KubernetesSoftware 適合性により、お使いのバージョンの CNCF プロジェクトが必要な API をサポートすることが保証されます<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp163]">Certified Kubernetes<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Software conformance ensures your versions of CNCF projects support the required APIs</g></g></target>
 </trans-unit>
 <trans-unit id="tu89" resname="menu-item-71642-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp166]">Kubernetes Training Partners<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Find a qualified KTP to prepare for your next certification</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp166]">Kubernetes トレーニング パートナー資格のある KTP を見つけて、次の認定に備える<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp166]">Kubernetes Training Partners<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Find a qualified KTP to prepare for your next certification</g></g></target>
 </trans-unit>
 <trans-unit id="tu90" resname="menu-item-71643-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp169]">Kubernetes Certified Service Provider<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">KCSPs have deep experience helping enterprises successfully adopt cloud native technologies</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp169]">Kubernetes 認定サービス プロバイダーKCSP は、企業がクラウド ネイティブ テクノロジーをうまく採用するのを支援した豊富な経験を持っています<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp169]">Kubernetes Certified Service Provider<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">KCSPs have deep experience helping enterprises successfully adopt cloud native technologies</g></g></target>
 </trans-unit>
 <trans-unit id="tu91" resname="menu-item-72609-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp172]">Cloud Native Network Function Certification (Beta)<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNF Certification ensures applications demonstrate cloud native best practices</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp172]">クラウド ネイティブ ネットワーク機能認定 (ベータ)CNF 認定は、アプリケーションがクラウド ネイティブのベスト プラクティスを実証することを保証します<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp172]">Cloud Native Network Function Certification (Beta)<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNF Certification ensures applications demonstrate cloud native best practices</g></g></target>
 </trans-unit>
 <trans-unit id="tu92" restype="x-li">
 <source xml:lang="en-US">Recommended Links</source>
-<target xml:lang="ja-JP">おすすめのリンク</target>
+<target xml:lang="ja-JP">Recommended Links</target>
 </trans-unit>
 <trans-unit id="tu94" restype="x-title">
 <source xml:lang="en-US">Save $10K on Cloud Native</source>
-<target xml:lang="ja-JP">クラウド ネイティブで $10,000 節約</target>
+<target xml:lang="ja-JP">Save $10K on Cloud Native</target>
 </trans-unit>
 <trans-unit id="tu95" restype="x-alt">
 <source xml:lang="en-US">Save $10K on Cloud Native</source>
-<target xml:lang="ja-JP">クラウド ネイティブで $10,000 節約</target>
+<target xml:lang="ja-JP">Save $10K on Cloud Native</target>
 </trans-unit>
 <trans-unit id="tu93">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp177]"> <x id="2" ctype="image" equiv-text="[#$dp178]"/> </g></source>
@@ -384,151 +384,151 @@
 </trans-unit>
 <trans-unit id="tu97" restype="x-title">
 <source xml:lang="en-US">Save $10K on Cloud Native</source>
-<target xml:lang="ja-JP">クラウド ネイティブで $10,000 節約</target>
+<target xml:lang="ja-JP">Save $10K on Cloud Native</target>
 </trans-unit>
 <trans-unit id="tu96">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="2" ctype="link" equiv-text="[#$dp180]">Save $10K on Cloud Native</g> </g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="2" ctype="link" equiv-text="[#$dp180]">クラウド ネイティブで $10,000 節約</g> </g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="2" ctype="link" equiv-text="[#$dp180]">Save $10K on Cloud Native</g> </g></target>
 </trans-unit>
 <trans-unit id="tu98" restype="x-paragraph">
 <source xml:lang="en-US">Enroll your company as a CNCF End User and save more than $10K in training and conference costs</source>
-<target xml:lang="ja-JP">あなたの会社を CNCF エンド ユーザーとして登録し、トレーニングと会議の費用を 10,000 ドル以上節約しましょう</target>
+<target xml:lang="ja-JP">Enroll your company as a CNCF End User and save more than $10K in training and conference costs</target>
 </trans-unit>
 <trans-unit id="tu99" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp183]">Become an End User</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp183]">エンドユーザーになる</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp183]">Become an End User</g></target>
 </trans-unit>
 <trans-unit id="tu100" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Community</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">コミュニティ</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp188]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Community</g></g></target>
 </trans-unit>
 <trans-unit id="tu101" resname="menu-item-71644-id" restype="x-li">
 <source xml:lang="en-US">Take Part</source>
-<target xml:lang="ja-JP">参加する</target>
+<target xml:lang="ja-JP">Take Part</target>
 </trans-unit>
 <trans-unit id="tu102" resname="menu-item-71645-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp192]">End User Community<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join our vendor-neutral community using cloud native technologies to build products and services</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp192]">エンド ユーザー コミュニティクラウド ネイティブ テクノロジーを使用して製品やサービスを構築する、ベンダーに依存しないコミュニティに参加する<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp192]">End User Community<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join our vendor-neutral community using cloud native technologies to build products and services</g></g></target>
 </trans-unit>
 <trans-unit id="tu103" resname="menu-item-71646-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp195]">Events<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Meet #TeamCloudNative and CNCF staff at events around the world</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp195]">イベント世界中のイベントで #TeamCloudNative と CNCF のスタッフに会う<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp195]">Events<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Meet #TeamCloudNative and CNCF staff at events around the world</g></g></target>
 </trans-unit>
 <trans-unit id="tu104" resname="menu-item-71648-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp198]">Case Studies<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read real-world case studies about the impact cloud native projects are having on organizations around the world</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp198]">ケース スタディクラウド ネイティブ プロジェクトが世界中の組織に与える影響について、実際のケース スタディを読む<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp198]">Case Studies<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read real-world case studies about the impact cloud native projects are having on organizations around the world</g></g></target>
 </trans-unit>
 <trans-unit id="tu105" resname="menu-item-71649-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp201]">最终用户案例研究<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">了解有关云原生对世界各企业的影响的真实案例</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp201]">最终用户案例研究了解有关云原生対世界各企業业的影响的実例<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp201]">最终用户案例研究<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">了解有关云原生对世界各企业的影响的真实案例</g></g></target>
 </trans-unit>
 <trans-unit id="tu106" resname="menu-item-72634-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp204]">Humans of Cloud Native<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read stories of amazing individuals and their contributions</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp204]">ヒューマン オブ クラウド ネイティブ素晴らしい個人のストーリーとその貢献を読む<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp204]">Humans of Cloud Native<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read stories of amazing individuals and their contributions</g></g></target>
 </trans-unit>
 <trans-unit id="tu107" resname="menu-item-71651-id" restype="x-li">
 <source xml:lang="en-US">Community Content</source>
-<target xml:lang="ja-JP">コミュニティ コンテンツ</target>
+<target xml:lang="ja-JP">Community Content</target>
 </trans-unit>
 <trans-unit id="tu108" resname="menu-item-72395-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp209]">Online Programs<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Watch our free online programs for the latest insights into cloud native technologies and projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp209]">オンライン プログラム無料のオンライン プログラムを視聴して、クラウド ネイティブのテクノロジーとプロジェクトに関する最新の情報を入手してください<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp209]">Online Programs<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Watch our free online programs for the latest insights into cloud native technologies and projects</g></g></target>
 </trans-unit>
 <trans-unit id="tu109" resname="menu-item-71652-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp212]">KubeWeekly<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Sign up for a weekly dose of all things Kubernetes, curated by #TeamCloudNative</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp212]">KubeWeeklyサインアップして、#TeamCloudNative によってキュレーションされた Kubernetes のすべてを毎週配信します<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp212]">KubeWeekly<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Sign up for a weekly dose of all things Kubernetes, curated by #TeamCloudNative</g></g></target>
 </trans-unit>
 <trans-unit id="tu110" resname="menu-item-71653-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp215]">Community Groups<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join #TeamCloudNative at events and meetups near you</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp215]">コミュニティ グループ近くのイベントやミートアップで #TeamCloudNative に参加<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp215]">Community Groups<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join #TeamCloudNative at events and meetups near you</g></g></target>
 </trans-unit>
 <trans-unit id="tu111" resname="menu-item-71654-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp218]">Phippy and Friends<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Phippy explains core cloud native concepts in simple terms through stories perfect for all ages</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp218]">Phippy とフレンズPhippy は、すべての年齢層に最適なストーリーを通じて、コア クラウド ネイティブの概念を簡単な言葉で説明します<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp218]">Phippy and Friends<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Phippy explains core cloud native concepts in simple terms through stories perfect for all ages</g></g></target>
 </trans-unit>
 <trans-unit id="tu112" resname="menu-item-71655-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp221]">Cloud Native Glossary<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Explore cloud native concepts in clear and simple language – no technical knowledge required!</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp221]">クラウド ネイティブ用語集クラウド ネイティブの概念を明確でシンプルな言葉で説明します。技術的な知識は必要ありません。<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp221]">Cloud Native Glossary<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Explore cloud native concepts in clear and simple language – no technical knowledge required!</g></g></target>
 </trans-unit>
 <trans-unit id="tu113" resname="menu-item-71656-id" restype="x-li">
 <source xml:lang="en-US">Additional Resources</source>
-<target xml:lang="ja-JP">その他のリソース</target>
+<target xml:lang="ja-JP">Additional Resources</target>
 </trans-unit>
 <trans-unit id="tu114" resname="menu-item-71657-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp226]">Job Board</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp226]">ジョブボード</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp226]">Job Board</g></target>
 </trans-unit>
 <trans-unit id="tu115" resname="menu-item-71658-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp229]">Slack</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp229]">スラック</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp229]">Slack</g></target>
 </trans-unit>
 <trans-unit id="tu116" resname="menu-item-71659-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp232]">Mailing Lists</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp232]">メーリングリスト</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp232]">Mailing Lists</g></target>
 </trans-unit>
 <trans-unit id="tu117" resname="menu-item-71660-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp235]">Store</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp235]">店</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp235]">Store</g></target>
 </trans-unit>
 <trans-unit id="tu118" resname="menu-item-71661-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp238]">Calendar</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp238]">カレンダー</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp238]">Calendar</g></target>
 </trans-unit>
 <trans-unit id="tu119" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp243]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Blog &amp; News</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp243]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">ブログ＆ニュース</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp243]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Blog &amp; News</g></g></target>
 </trans-unit>
 <trans-unit id="tu120" resname="menu-item-71662-id" restype="x-li">
 <source xml:lang="en-US">All the news</source>
-<target xml:lang="ja-JP">すべてのニュース</target>
+<target xml:lang="ja-JP">All the news</target>
 </trans-unit>
 <trans-unit id="tu121" resname="menu-item-71663-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp247]">Blog<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Catch up on the latest happenings and technical insights from #TeamCloudNative</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp247]">ブログ #TeamCloudNative からの最新の出来事と技術的洞察に追いつく<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp247]">Blog<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Catch up on the latest happenings and technical insights from #TeamCloudNative</g></g></target>
 </trans-unit>
 <trans-unit id="tu122" resname="menu-item-71664-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp250]">Announcements<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Media releases and official CNCF announcements</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp250]">お知らせメディア リリースと CNCF の公式発表<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp250]">Announcements<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Media releases and official CNCF announcements</g></g></target>
 </trans-unit>
 <trans-unit id="tu123" resname="menu-item-71665-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp253]">News<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF projects and #TeamCloudNative in the media</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp253]">NewsCNCF プロジェクトとメディアでの #TeamCloudNative<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp253]">News<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">CNCF projects and #TeamCloudNative in the media</g></g></target>
 </trans-unit>
 <trans-unit id="tu124" resname="menu-item-71666-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp256]">Reports<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read transparent, in-depth reports on our organization, events, and projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp256]">レポート当社の組織、イベント、プロジェクトに関する透明性の高い詳細なレポートを読む<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;"></g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp256]">Reports<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Read transparent, in-depth reports on our organization, events, and projects</g></g></target>
 </trans-unit>
 <trans-unit id="tu125" resname="menu-item-71667-id" restype="x-li">
 <source xml:lang="en-US">Media Resources</source>
-<target xml:lang="ja-JP">メディア リソース</target>
+<target xml:lang="ja-JP">Media Resources</target>
 </trans-unit>
 <trans-unit id="tu126" resname="menu-item-75049-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp261]">Brand Guidelines</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp261]">ブランドガイドライン</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp261]">Brand Guidelines</g></target>
 </trans-unit>
 <trans-unit id="tu127" resname="menu-item-71668-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp264]">Project Logos</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp264]">プロジェクトのロゴ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp264]">Project Logos</g></target>
 </trans-unit>
 <trans-unit id="tu128" resname="menu-item-71669-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp267]">Videos</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp267]">動画</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp267]">Videos</g></target>
 </trans-unit>
 <trans-unit id="tu129" resname="menu-item-71670-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp270]">Pictures</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp270]">ピクチャー</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp270]">Pictures</g></target>
 </trans-unit>
 <trans-unit id="tu130" restype="x-li">
 <source xml:lang="en-US">Latest Blog Posts</source>
-<target xml:lang="ja-JP">最新のブログ投稿</target>
+<target xml:lang="ja-JP">Latest Blog Posts</target>
 </trans-unit>
 <trans-unit id="tu132" restype="x-title">
 <source xml:lang="en-US">Prometheus roadmap and latest updates</source>
-<target xml:lang="ja-JP">Prometheus のロードマップと最新のアップデート</target>
+<target xml:lang="ja-JP">Prometheus roadmap and latest updates</target>
 </trans-unit>
 <trans-unit id="tu133" restype="x-alt">
 <source xml:lang="en-US">Prometheus roadmap and latest updates</source>
-<target xml:lang="ja-JP">Prometheus のロードマップと最新のアップデート</target>
+<target xml:lang="ja-JP">Prometheus roadmap and latest updates</target>
 </trans-unit>
 <trans-unit id="tu131">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp275]"> <x id="2" ctype="image" equiv-text="[#$dp276]"/> </g></source>
@@ -536,23 +536,23 @@
 </trans-unit>
 <trans-unit id="tu135" restype="x-title">
 <source xml:lang="en-US">See more in Project category</source>
-<target xml:lang="ja-JP">プロジェクトカテゴリでもっと見る</target>
+<target xml:lang="ja-JP">See more in Project category</target>
 </trans-unit>
 <trans-unit id="tu136" restype="x-title">
 <source xml:lang="en-US">Prometheus roadmap and latest updates</source>
-<target xml:lang="ja-JP">Prometheus のロードマップと最新のアップデート</target>
+<target xml:lang="ja-JP">Prometheus roadmap and latest updates</target>
 </trans-unit>
 <trans-unit id="tu134">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp278]">Project Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp279]">Prometheus roadmap and latest updates</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">January 3, 2023</g></source>
-<target xml:lang="ja-JP">Project Post Prometheus ロードマップと最新アップデート 2023 年 1 月 3 日<g id="1" ctype="link" equiv-text="[#$dp278]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp279]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp278]">Project Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp279]">Prometheus roadmap and latest updates</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">January 3, 2023</g></target>
 </trans-unit>
 <trans-unit id="tu138" restype="x-title">
 <source xml:lang="en-US">Argo and Flux: grown-up GitOps for cloud native generation</source>
-<target xml:lang="ja-JP">Argo と Flux: クラウド ネイティブ世代向けの成熟した GitOps</target>
+<target xml:lang="ja-JP">Argo and Flux: grown-up GitOps for cloud native generation</target>
 </trans-unit>
 <trans-unit id="tu139" restype="x-alt">
 <source xml:lang="en-US">Argo and Flux: grown-up GitOps for cloud native generation</source>
-<target xml:lang="ja-JP">Argo と Flux: クラウド ネイティブ世代向けの成熟した GitOps</target>
+<target xml:lang="ja-JP">Argo and Flux: grown-up GitOps for cloud native generation</target>
 </trans-unit>
 <trans-unit id="tu137">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp281]"> <x id="2" ctype="image" equiv-text="[#$dp282]"/> </g></source>
@@ -560,23 +560,23 @@
 </trans-unit>
 <trans-unit id="tu141" restype="x-title">
 <source xml:lang="en-US">See more in Staff category</source>
-<target xml:lang="ja-JP">スタッフカテゴリーでもっと見る</target>
+<target xml:lang="ja-JP">See more in Staff category</target>
 </trans-unit>
 <trans-unit id="tu142" restype="x-title">
 <source xml:lang="en-US">Argo and Flux: grown-up GitOps for cloud native generation</source>
-<target xml:lang="ja-JP">Argo と Flux: クラウド ネイティブ世代向けの成熟した GitOps</target>
+<target xml:lang="ja-JP">Argo and Flux: grown-up GitOps for cloud native generation</target>
 </trans-unit>
 <trans-unit id="tu140">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp284]">Staff Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp285]">Argo and Flux: grown-up GitOps for cloud native generation</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 27, 2022</g></source>
-<target xml:lang="ja-JP">スタッフ投稿 Argo と Flux: クラウド ネイティブ世代向けの大人の GitOps 2022 年 12 月 27 日<g id="1" ctype="link" equiv-text="[#$dp284]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp285]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp284]">Staff Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp285]">Argo and Flux: grown-up GitOps for cloud native generation</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 27, 2022</g></target>
 </trans-unit>
 <trans-unit id="tu144" restype="x-title">
 <source xml:lang="en-US">A DevOps reset for a multi-cloud world</source>
-<target xml:lang="ja-JP">マルチクラウドの世界に向けた DevOps のリセット</target>
+<target xml:lang="ja-JP">A DevOps reset for a multi-cloud world</target>
 </trans-unit>
 <trans-unit id="tu145" restype="x-alt">
 <source xml:lang="en-US">A DevOps reset for a multi-cloud world</source>
-<target xml:lang="ja-JP">マルチクラウドの世界に向けた DevOps のリセット</target>
+<target xml:lang="ja-JP">A DevOps reset for a multi-cloud world</target>
 </trans-unit>
 <trans-unit id="tu143">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp287]"> <x id="2" ctype="image" equiv-text="[#$dp288]"/> </g></source>
@@ -584,23 +584,23 @@
 </trans-unit>
 <trans-unit id="tu147" restype="x-title">
 <source xml:lang="en-US">See more in Member category</source>
-<target xml:lang="ja-JP">会員カテゴリーでもっと見る</target>
+<target xml:lang="ja-JP">See more in Member category</target>
 </trans-unit>
 <trans-unit id="tu148" restype="x-title">
 <source xml:lang="en-US">A DevOps reset for a multi-cloud world</source>
-<target xml:lang="ja-JP">マルチクラウドの世界に向けた DevOps のリセット</target>
+<target xml:lang="ja-JP">A DevOps reset for a multi-cloud world</target>
 </trans-unit>
 <trans-unit id="tu146">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp290]">Member Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp291]">A DevOps reset for a multi-cloud world</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 20, 2022</g></source>
-<target xml:lang="ja-JP">メンバー投稿 マルチクラウドの世界に向けた DevOps のリセット 2022 年 12 月 20 日<g id="1" ctype="link" equiv-text="[#$dp290]"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"><g id="3" ctype="link" equiv-text="[#$dp291]"></g></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp290]">Member Post</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__title&quot;&gt;"> <g id="3" ctype="link" equiv-text="[#$dp291]">A DevOps reset for a multi-cloud world</g> </g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;main-menu-item__date&quot;&gt;">December 20, 2022</g></target>
 </trans-unit>
 <trans-unit id="tu149">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp295]">Join</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp295]">加入</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp295]">Join</g></target>
 </trans-unit>
 <trans-unit id="tu151" restype="x-aria-label">
 <source xml:lang="en-US">Search</source>
-<target xml:lang="ja-JP">検索</target>
+<target xml:lang="ja-JP">Search</target>
 </trans-unit>
 <trans-unit id="tu150">
 <source xml:lang="en-US"><bx id="1" ctype="x-button" equiv-text="&lt;button class=&quot;header__search_open search-toggle button-reset show-over-1000&quot; type=&quot;button&quot; [#$tu151]&gt;"/></source>
@@ -612,23 +612,23 @@
 </trans-unit>
 <trans-unit id="tu154" restype="x-placeholder">
 <source xml:lang="en-US">I'm looking for...</source>
-<target xml:lang="ja-JP">を探しています...</target>
+<target xml:lang="ja-JP">I'm looking for...</target>
 </trans-unit>
 <trans-unit id="tu155" restype="x-title">
 <source xml:lang="en-US">Search CNCF site</source>
-<target xml:lang="ja-JP">CNCF サイトを検索</target>
+<target xml:lang="ja-JP">Search CNCF site</target>
 </trans-unit>
 <trans-unit id="tu156" restype="x-value">
 <source xml:lang="en-US">Search</source>
-<target xml:lang="ja-JP">検索</target>
+<target xml:lang="ja-JP">Search</target>
 </trans-unit>
 <trans-unit id="tu153">
 <source xml:lang="en-US"><g id="1" ctype="x-label" equiv-text="&lt;label for=&quot;search-bar&quot; class=&quot;screen-reader-text&quot;&gt;">Search CNCF</g> <x id="2" ctype="x-input" equiv-text="&lt;input class=&quot;search-input&quot; type=&quot;search&quot; id=&quot;search-bar&quot; value=&quot;&quot; name=&quot;s&quot; [#$tu154] [#$tu155] autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; maxlength=&quot;98&quot; required=&quot;&quot;&gt;"/> <x id="3" ctype="x-input" equiv-text="&lt;input class=&quot;search-input-button wp-block-button__link has-no-padding&quot; type=&quot;submit&quot; [#$tu156]&gt;"/></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-label" equiv-text="&lt;label for=&quot;search-bar&quot; class=&quot;screen-reader-text&quot;&gt;">CNCFを検索</g> <x id="2" ctype="x-input" equiv-text="&lt;input class=&quot;search-input&quot; type=&quot;search&quot; id=&quot;search-bar&quot; value=&quot;&quot; name=&quot;s&quot; [#$tu154] [#$tu155] autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; maxlength=&quot;98&quot; required=&quot;&quot;&gt;"/> <x id="3" ctype="x-input" equiv-text="&lt;input class=&quot;search-input-button wp-block-button__link has-no-padding&quot; type=&quot;submit&quot; [#$tu156]&gt;"/></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-label" equiv-text="&lt;label for=&quot;search-bar&quot; class=&quot;screen-reader-text&quot;&gt;">Search CNCF</g> <x id="2" ctype="x-input" equiv-text="&lt;input class=&quot;search-input&quot; type=&quot;search&quot; id=&quot;search-bar&quot; value=&quot;&quot; name=&quot;s&quot; [#$tu154] [#$tu155] autocapitalize=&quot;off&quot; spellcheck=&quot;false&quot; maxlength=&quot;98&quot; required=&quot;&quot;&gt;"/> <x id="3" ctype="x-input" equiv-text="&lt;input class=&quot;search-input-button wp-block-button__link has-no-padding&quot; type=&quot;submit&quot; [#$tu156]&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu158" restype="x-aria-label">
 <source xml:lang="en-US">Close</source>
-<target xml:lang="ja-JP">近い</target>
+<target xml:lang="ja-JP">Close</target>
 </trans-unit>
 <trans-unit id="tu157">
 <source xml:lang="en-US"><bx id="1" ctype="x-button" equiv-text="&lt;button class=&quot;button-reset search-toggle show-over-1000&quot; type=&quot;button&quot; [#$tu158]&gt;"/></source>
@@ -640,7 +640,7 @@
 </trans-unit>
 <trans-unit id="tu161" restype="x-aria-label">
 <source xml:lang="en-US">Toggle Menu</source>
-<target xml:lang="ja-JP">トグルメニュー</target>
+<target xml:lang="ja-JP">Toggle Menu</target>
 </trans-unit>
 <trans-unit id="tu160">
 <source xml:lang="en-US"><g id="1" ctype="x-button" equiv-text="&lt;button class=&quot;hamburger&quot; type=&quot;button&quot; [#$tu161]&gt;"> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;hamburger-box&quot;&gt;"> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;hamburger-inner&quot;&gt;"/> </g> </g></source>
@@ -648,7 +648,7 @@
 </trans-unit>
 <trans-unit id="tu163" restype="x-alt">
 <source xml:lang="en-US">A cloud network graphic</source>
-<target xml:lang="ja-JP">クラウド ネットワーク グラフィック</target>
+<target xml:lang="ja-JP">A cloud network graphic</target>
 </trans-unit>
 <trans-unit id="tu162">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp303]"/></source>
@@ -656,7 +656,7 @@
 </trans-unit>
 <trans-unit id="tu165" restype="x-alt">
 <source xml:lang="en-US">CNCF Annual Report 2022 - Building for the road ahead</source>
-<target xml:lang="ja-JP">CNCF 年次報告書 2022 - 未来の建設</target>
+<target xml:lang="ja-JP">CNCF Annual Report 2022 - Building for the road ahead</target>
 </trans-unit>
 <trans-unit id="tu164">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp305]"/></source>
@@ -664,15 +664,15 @@
 </trans-unit>
 <trans-unit id="tu166" restype="x-paragraph">
 <source xml:lang="en-US">Share</source>
-<target xml:lang="ja-JP">共有</target>
+<target xml:lang="ja-JP">Share</target>
 </trans-unit>
 <trans-unit id="tu168" restype="x-aria-label">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">ツイッターでシェア</target>
+<target xml:lang="ja-JP">Share on Twitter</target>
 </trans-unit>
 <trans-unit id="tu169" restype="x-title">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">ツイッターでシェア</target>
+<target xml:lang="ja-JP">Share on Twitter</target>
 </trans-unit>
 <trans-unit id="tu167">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp309]"/></source>
@@ -680,11 +680,11 @@
 </trans-unit>
 <trans-unit id="tu171" restype="x-aria-label">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Linkedinで共有する</target>
+<target xml:lang="ja-JP">Share on Linkedin</target>
 </trans-unit>
 <trans-unit id="tu172" restype="x-title">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Linkedinで共有する</target>
+<target xml:lang="ja-JP">Share on Linkedin</target>
 </trans-unit>
 <trans-unit id="tu170">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- linkedin --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp311]"/></source>
@@ -692,11 +692,11 @@
 </trans-unit>
 <trans-unit id="tu174" restype="x-aria-label">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">メールで共有</target>
+<target xml:lang="ja-JP">Share by Email</target>
 </trans-unit>
 <trans-unit id="tu175" restype="x-title">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">メールで共有</target>
+<target xml:lang="ja-JP">Share by Email</target>
 </trans-unit>
 <trans-unit id="tu173">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- sendto email --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp313]"/></source>
@@ -708,83 +708,83 @@
 </trans-unit>
 <trans-unit id="tu177">
 <source xml:lang="en-US">Jump to section:</source>
-<target xml:lang="ja-JP">セクションにジャンプ:</target>
+<target xml:lang="ja-JP">Jump to section:</target>
 </trans-unit>
 <trans-unit id="tu179" restype="x-title">
 <source xml:lang="en-US">Jump to Momentum section</source>
-<target xml:lang="ja-JP">モメンタムセクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Momentum section</target>
 </trans-unit>
 <trans-unit id="tu180" restype="x-alt">
 <source xml:lang="en-US">Upward trend chart icon</source>
-<target xml:lang="ja-JP">上昇トレンド チャート アイコン</target>
+<target xml:lang="ja-JP">Upward trend chart icon</target>
 </trans-unit>
 <trans-unit id="tu178">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>Momentum</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>勢い</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp317]"/> <x id="2" ctype="image" equiv-text="[#$dp318]"/>Momentum</target>
 </trans-unit>
 <trans-unit id="tu182" restype="x-title">
 <source xml:lang="en-US">Jump to Events section</source>
-<target xml:lang="ja-JP">イベントセクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Events section</target>
 </trans-unit>
 <trans-unit id="tu183" restype="x-alt">
 <source xml:lang="en-US">Lanyard icon</source>
-<target xml:lang="ja-JP">ストラップ アイコン</target>
+<target xml:lang="ja-JP">Lanyard icon</target>
 </trans-unit>
 <trans-unit id="tu181">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</target>
 </trans-unit>
 <trans-unit id="tu185" restype="x-title">
 <source xml:lang="en-US">Jump to Training section</source>
-<target xml:lang="ja-JP">トレーニングセクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Training section</target>
 </trans-unit>
 <trans-unit id="tu186" restype="x-alt">
 <source xml:lang="en-US">Teacher icon</source>
-<target xml:lang="ja-JP">先生のアイコン</target>
+<target xml:lang="ja-JP">Teacher icon</target>
 </trans-unit>
 <trans-unit id="tu184">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>Training</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>トレーニング</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp323]"/> <x id="2" ctype="image" equiv-text="[#$dp324]"/>Training</target>
 </trans-unit>
 <trans-unit id="tu188" restype="x-title">
 <source xml:lang="en-US">Jump to Projects section</source>
-<target xml:lang="ja-JP">プロジェクトセクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Projects section</target>
 </trans-unit>
 <trans-unit id="tu189" restype="x-alt">
 <source xml:lang="en-US">Smiling face icon</source>
-<target xml:lang="ja-JP">笑顔のアイコン</target>
+<target xml:lang="ja-JP">Smiling face icon</target>
 </trans-unit>
 <trans-unit id="tu187">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>Projects</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>プロジェクト</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>Projects</target>
 </trans-unit>
 <trans-unit id="tu191" restype="x-title">
 <source xml:lang="en-US">Jump to Community section</source>
-<target xml:lang="ja-JP">コミュニティセクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Community section</target>
 </trans-unit>
 <trans-unit id="tu192" restype="x-alt">
 <source xml:lang="en-US">Multiple directions icon</source>
-<target xml:lang="ja-JP">複数の方向アイコン</target>
+<target xml:lang="ja-JP">Multiple directions icon</target>
 </trans-unit>
 <trans-unit id="tu190">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>Community</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>コミュニティ</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp329]"/> <x id="2" ctype="image" equiv-text="[#$dp330]"/>Community</target>
 </trans-unit>
 <trans-unit id="tu194" restype="x-title">
 <source xml:lang="en-US">Jump to Ecosystem section</source>
-<target xml:lang="ja-JP">生態系セクションへジャンプ</target>
+<target xml:lang="ja-JP">Jump to Ecosystem section</target>
 </trans-unit>
 <trans-unit id="tu195" restype="x-alt">
 <source xml:lang="en-US">Relationship icon</source>
-<target xml:lang="ja-JP">関係アイコン</target>
+<target xml:lang="ja-JP">Relationship icon</target>
 </trans-unit>
 <trans-unit id="tu193">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>Ecosystem</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>生態系</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp332]"/> <x id="2" ctype="image" equiv-text="[#$dp333]"/>Ecosystem</target>
 </trans-unit>
 <trans-unit id="tu196" restype="x-h2">
 <source xml:lang="en-US">Welcome! It's been a <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>year to remember</source>
-<target xml:lang="ja-JP">いらっしゃいませ！思い出に残る年になりました<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">ようこそ！記憶に残る一年となりました<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu197" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">When I look back on 2022, it's with a deep sense of pride for what we have overcome and achieved together. Despite the collective challenges we've faced, and continue to tackle, the cloud native ecosystem has soared. We've welcomed new industries, projects, and swelled our community to 7.1 million cloud native developers, surpassing the population of Denmark!</g></source>
@@ -1236,7 +1236,7 @@
 </trans-unit>
 <trans-unit id="tu309" restype="x-h2">
 <source xml:lang="en-US">2022 <x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/> Momentum</source>
-<target xml:lang="ja-JP">2022年勢い<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">2022年Momentum<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu310">
 <source xml:lang="en-US">1/6</source>
@@ -1304,7 +1304,7 @@
 </trans-unit>
 <trans-unit id="tu326">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">プロジェクト</target>
+<target xml:lang="ja-JP">Projects</target>
 </trans-unit>
 <trans-unit id="tu327" restype="x-h2">
 <source xml:lang="en-US">Membership</source>
@@ -1604,7 +1604,7 @@
 </trans-unit>
 <trans-unit id="tu401" restype="x-h2">
 <source xml:lang="en-US">Events</source>
-<target xml:lang="ja-JP">イベント</target>
+<target xml:lang="ja-JP">Events</target>
 </trans-unit>
 <trans-unit id="tu402">
 <source xml:lang="en-US">2/6</source>
@@ -1644,7 +1644,7 @@
 </trans-unit>
 <trans-unit id="tu412" restype="x-alt">
 <source xml:lang="en-US">Lanyard icon</source>
-<target xml:lang="ja-JP">ストラップ アイコン</target>
+<target xml:lang="ja-JP">Lanyard icon</target>
 </trans-unit>
 <trans-unit id="tu411">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp602]"/></source>
@@ -3300,7 +3300,7 @@
 </trans-unit>
 <trans-unit id="tu825">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></source>
-<target xml:lang="ja-JP">574イベント<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></target>
 </trans-unit>
 <trans-unit id="tu827" restype="x-alt">
 <source xml:lang="en-US">Chapters icon</source>
@@ -3456,7 +3456,7 @@
 </trans-unit>
 <trans-unit id="tu864" restype="x-paragraph">
 <source xml:lang="en-US">Staff</source>
-<target xml:lang="ja-JP">スタッフ</target>
+<target xml:lang="ja-JP">Staff</target>
 </trans-unit>
 <trans-unit id="tu866" restype="x-alt">
 <source xml:lang="en-US">Chart of CNCF staff - showing 61% women, 39% men</source>
@@ -3624,11 +3624,11 @@
 </trans-unit>
 <trans-unit id="tu907" restype="x-aria-label">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Linkedinで共有する</target>
+<target xml:lang="ja-JP">Share on Linkedin</target>
 </trans-unit>
 <trans-unit id="tu908" restype="x-title">
 <source xml:lang="en-US">Share on Linkedin</source>
-<target xml:lang="ja-JP">Linkedinで共有する</target>
+<target xml:lang="ja-JP">Share on Linkedin</target>
 </trans-unit>
 <trans-unit id="tu906">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp1303]"/></source>
@@ -3636,11 +3636,11 @@
 </trans-unit>
 <trans-unit id="tu910" restype="x-aria-label">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">ツイッターでシェア</target>
+<target xml:lang="ja-JP">Share on Twitter</target>
 </trans-unit>
 <trans-unit id="tu911" restype="x-title">
 <source xml:lang="en-US">Share on Twitter</source>
-<target xml:lang="ja-JP">ツイッターでシェア</target>
+<target xml:lang="ja-JP">Share on Twitter</target>
 </trans-unit>
 <trans-unit id="tu909">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- twitter --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp1305]"/></source>
@@ -3648,11 +3648,11 @@
 </trans-unit>
 <trans-unit id="tu913" restype="x-aria-label">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">メールで共有</target>
+<target xml:lang="ja-JP">Share by Email</target>
 </trans-unit>
 <trans-unit id="tu914" restype="x-title">
 <source xml:lang="en-US">Share by Email</source>
-<target xml:lang="ja-JP">メールで共有</target>
+<target xml:lang="ja-JP">Share by Email</target>
 </trans-unit>
 <trans-unit id="tu912">
 <source xml:lang="en-US"><ex id="3" equiv-text="&lt;/a&gt;"/> <x id="1" ctype="x-comment" equiv-text="&lt;!-- sendto email --&gt;"/> <bx id="2" ctype="link" equiv-text="[#$dp1307]"/></source>
@@ -3816,23 +3816,23 @@
 </trans-unit>
 <trans-unit id="tu954" resname="menu-item-74275-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1360]">Code of Conduct</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1360]">行動規範</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1360]">Code of Conduct</g></target>
 </trans-unit>
 <trans-unit id="tu955" resname="menu-item-71676-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1363]">Staff</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1363]">スタッフ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1363]">Staff</g></target>
 </trans-unit>
 <trans-unit id="tu956" resname="menu-item-71677-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1366]">FAQ</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1366]">よくある質問</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1366]">FAQ</g></target>
 </trans-unit>
 <trans-unit id="tu957" resname="menu-item-71678-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1369]">Contact Us</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1369]">お問い合わせ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1369]">Contact Us</g></target>
 </trans-unit>
 <trans-unit id="tu958" resname="menu-item-71679-id" restype="x-li">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">プロジェクト</target>
+<target xml:lang="ja-JP">Projects</target>
 </trans-unit>
 <trans-unit id="tu959" resname="menu-item-71680-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1374]">Contribute</g></source>
@@ -3928,7 +3928,7 @@
 </trans-unit>
 <trans-unit id="tu982" resname="menu-item-71697-id" restype="x-li">
 <source xml:lang="en-US">Community</source>
-<target xml:lang="ja-JP">コミュニティ</target>
+<target xml:lang="ja-JP">Community</target>
 </trans-unit>
 <trans-unit id="tu983" resname="menu-item-71698-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1444]">End User Community</g></source>
@@ -3980,27 +3980,27 @@
 </trans-unit>
 <trans-unit id="tu995" resname="menu-item-71708-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1480]">Job Board</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1480]">ジョブボード</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1480]">Job Board</g></target>
 </trans-unit>
 <trans-unit id="tu996" resname="menu-item-71709-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1483]">Slack</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1483]">スラック</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1483]">Slack</g></target>
 </trans-unit>
 <trans-unit id="tu997" resname="menu-item-71710-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1486]">Mailing Lists</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1486]">メーリングリスト</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1486]">Mailing Lists</g></target>
 </trans-unit>
 <trans-unit id="tu998" resname="menu-item-71711-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1489]">Store</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1489]">店</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1489]">Store</g></target>
 </trans-unit>
 <trans-unit id="tu999" resname="menu-item-71712-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1492]">Calendar</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1492]">カレンダー</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1492]">Calendar</g></target>
 </trans-unit>
 <trans-unit id="tu1000" resname="menu-item-71713-id" restype="x-li">
 <source xml:lang="en-US">Blog &amp; News</source>
-<target xml:lang="ja-JP">ブログ＆ニュース</target>
+<target xml:lang="ja-JP">Blog &amp; News</target>
 </trans-unit>
 <trans-unit id="tu1001" resname="menu-item-71714-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1497]">Blog</g></source>
@@ -4024,19 +4024,19 @@
 </trans-unit>
 <trans-unit id="tu1006" resname="menu-item-75050-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1512]">Brand Guidelines</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1512]">ブランドガイドライン</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1512]">Brand Guidelines</g></target>
 </trans-unit>
 <trans-unit id="tu1007" resname="menu-item-71719-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1515]">Project Logos</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1515]">プロジェクトのロゴ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1515]">Project Logos</g></target>
 </trans-unit>
 <trans-unit id="tu1008" resname="menu-item-71720-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1518]">Videos</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1518]">動画</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1518]">Videos</g></target>
 </trans-unit>
 <trans-unit id="tu1009" resname="menu-item-71721-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1521]">Pictures</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1521]">ピクチャー</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1521]">Pictures</g></target>
 </trans-unit>
 <trans-unit id="tu1010">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1524]">Join Now</g></source>
@@ -4044,11 +4044,11 @@
 </trans-unit>
 <trans-unit id="tu1012" restype="x-title">
 <source xml:lang="en-US">Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu1013" restype="x-alt">
 <source xml:lang="en-US">Cloud Native Computing Foundation</source>
-<target xml:lang="ja-JP">クラウド ネイティブ コンピューティングの基盤</target>
+<target xml:lang="ja-JP">Cloud Native Computing Foundation</target>
 </trans-unit>
 <trans-unit id="tu1011">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1526]"> <x id="2" ctype="image" equiv-text="[#$dp1527]"/> </g></source>
@@ -4188,7 +4188,7 @@
 </trans-unit>
 <trans-unit id="tu1048" restype="x-aria-label">
 <source xml:lang="en-US">Slack</source>
-<target xml:lang="ja-JP">スラック</target>
+<target xml:lang="ja-JP">Slack</target>
 </trans-unit>
 <trans-unit id="tu1046" restype="x-li">
 <source xml:lang="en-US"><bx id="1" ctype="link" equiv-text="[#$dp1569]"/></source>

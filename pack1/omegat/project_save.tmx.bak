@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035452Z" creationid="tani" creationdate="20220124T101455Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1,187 Submissions</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222847Z" creationid="tani" creationdate="20230104T104949Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T112312Z" creationid="tani" creationdate="20230104T112312Z">
         <seg>14%増</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035451Z" creationid="tani" creationdate="20220124T101454Z">
+        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>86</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035451Z" creationid="tani" creationdate="20220124T101453Z">
+        <seg>86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A 15% increase of membership growth compared to 2021</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222423Z" creationid="tani" creationdate="20230104T104526Z">
@@ -342,14 +366,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>About</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221445Z" creationid="tani" creationdate="20230104T110813Z">
-        <seg>だいたい</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>About Us</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224339Z" creationid="tani" creationdate="20230104T110441Z">
@@ -358,26 +374,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Accept</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221437Z" creationid="tani" creationdate="20230104T103539Z">
-        <seg>承認</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Accessibility Statement Submit an issue with this page</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113700Z" creationid="tani" creationdate="20230104T113700Z">
-        <seg>アクセシビリティに関する声明このページに関する問題を送信します</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Additional Info</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110832Z" creationid="tani" creationdate="20230104T110832Z">
-        <seg>追加情報</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224645Z" creationid="tani" creationdate="20230104T113700Z">
+        <seg>アクセシビリティに関する声明 このページに関する問題を送信する</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="en-US">
         <seg>All rights reserved.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110736Z" creationid="tani" creationdate="20230104T110736Z">
-        <seg>無断複写・転載を禁じます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224634Z" creationid="tani" creationdate="20230104T110736Z">
+        <seg>全著作権所有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,22 +450,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110452Z" creationid="tani" creationdate="20230104T110452Z">
         <seg>アンバサダー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>AmbassadorsMeet our Ambassadors—experienced practitioners passionate about helping others learn about cloud native technologies</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221459Z" creationid="tani" creationdate="20230104T103601Z">
-        <seg>アンバサダーアンバサダーをご紹介します—他の人がクラウド ネイティブ テクノロジについて学ぶのを支援することに熱心な経験豊富な実践者です</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Amsterdam, Netherlands</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221543Z" creationid="tani" creationdate="20230104T103646Z">
-        <seg>オランダ、アムステルダム</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,14 +486,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Annual Report  CNCF Annual Report 2022  December 15, 2022</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221523Z" creationid="tani" creationdate="20230104T103626Z">
-        <seg>アニュアルレポート CNCF アニュアルレポート 2022 2022 年 12 月 15 日</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Aparna Subramanian</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222456Z" creationid="tani" creationdate="20230104T104559Z">
@@ -522,14 +498,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T113452Z" creationid="tani" creationdate="20230104T113452Z">
         <seg>アーカイブ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ArchivedProjects that have reached the end of their lifecycle and have become inactive</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221603Z" creationid="tani" creationdate="20230104T110911Z">
-        <seg>ライフサイクルの終わりに達し、非アクティブになった ArchivedProjects</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,14 +678,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Become an End User</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103838Z" creationid="tani" creationdate="20230104T103838Z">
-        <seg>エンドユーザーになる</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Blog</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T113608Z" creationid="tani" creationdate="20230104T113608Z">
@@ -798,66 +758,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>CKA</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110536Z" creationid="tani" creationdate="20230104T110536Z">
-        <seg>カ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CKACertified Kubernetes Administrator</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221658Z" creationid="tani" creationdate="20230104T111024Z">
-        <seg>CKAC認定Kubernetes管理者</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CKAD</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113513Z" creationid="tani" creationdate="20230104T113513Z">
-        <seg>キーボード</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CKADCertified Kubernetes Application Developer</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221700Z" creationid="tani" creationdate="20230104T111029Z">
-        <seg>CKAD 認定 Kubernetes アプリケーション開発者</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CKS</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113517Z" creationid="tani" creationdate="20230104T113517Z">
-        <seg>CKSキー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CNCF Annual Report 2022</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103617Z" creationid="tani" creationdate="20230104T103617Z">
-        <seg>CNCFアニュアルレポート2022</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>CNCF Annual Report 2022 - Building for the road ahead</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221940Z" creationid="tani" creationdate="20230104T104042Z">
         <seg>CNCF 年次報告書 2022 - 未来の建設</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CNCF Annual Report 2022 | Cloud Native Computing Foundation</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221428Z" creationid="tani" creationdate="20230104T103517Z">
-        <seg>CNCF 年次報告書 2022 |クラウド ネイティブ コンピューティングの基盤</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,14 +818,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223341Z" creationid="tani" creationdate="20230104T105444Z">
         <seg>CNCF プロジェクト ベロシティ チャート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CNCF Projects</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221554Z" creationid="tani" creationdate="20230104T110859Z">
-        <seg>CNCF プロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,14 +926,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>CNF</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113507Z" creationid="tani" creationdate="20230104T113507Z">
-        <seg>CNF群</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>CTO Summit</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T104632Z" creationid="tani" creationdate="20230104T104632Z">
@@ -1142,14 +1030,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Case StudiesRead real-world case studies about the impact cloud native projects are having on organizations around the world</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221747Z" creationid="tani" creationdate="20230104T111140Z">
-        <seg>ケース スタディクラウド ネイティブ プロジェクトが世界中の組織に与える影響について、実際のケース スタディを読む</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Catherine Paganini</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223922Z" creationid="tani" creationdate="20230104T110051Z">
@@ -1184,16 +1064,16 @@
       <tuv lang="en-US">
         <seg>Certification</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113455Z" creationid="tani" creationdate="20230104T113455Z">
-        <seg>資格認定</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224423Z" creationid="tani" creationdate="20230104T113455Z">
+        <seg>認証</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Certified Kubernetes</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113458Z" creationid="tani" creationdate="20230104T113458Z">
-        <seg>認定Kubernetes</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224425Z" creationid="tani" creationdate="20230104T113458Z">
+        <seg>認定済みの Kubernetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,14 +1098,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223215Z" creationid="tani" creationdate="20230104T112255Z">
         <seg>Certified Kubernetes Security Specialist (CKS) 試験の登録数は 18,000 件に達しました</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Certified KubernetesSoftware conformance ensures your versions of CNCF projects support the required APIs</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221714Z" creationid="tani" creationdate="20230104T111103Z">
-        <seg>認定された KubernetesSoftware 適合性により、お使いのバージョンの CNCF プロジェクトが必要な API をサポートすることが保証されます</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,90 +1270,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Cloud Native Computing Foundation</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221441Z" creationid="tani" creationdate="20230104T103544Z">
-        <seg>クラウド ネイティブ コンピューティングの基盤</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation Slack</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110729Z" creationid="tani" creationdate="20230104T110729Z">
-        <seg>Cloud Native Computing FoundationのSlack</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224627Z" creationid="tani" creationdate="20230104T110729Z">
+        <seg>クラウド ネイティブ コンピューティングの基盤 Slack</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on Facebook</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110720Z" creationid="tani" creationdate="20230104T110720Z">
-        <seg>Facebook上のCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224618Z" creationid="tani" creationdate="20230104T110720Z">
+        <seg>Facebook の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on Flickr</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113644Z" creationid="tani" creationdate="20230104T113644Z">
-        <seg>FlickrのCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224614Z" creationid="tani" creationdate="20230104T113644Z">
+        <seg>Flickr の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on Github</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110658Z" creationid="tani" creationdate="20230104T110658Z">
-        <seg>Github上のCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224556Z" creationid="tani" creationdate="20230104T110658Z">
+        <seg>Github の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on LinkedIn</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113627Z" creationid="tani" creationdate="20230104T113627Z">
-        <seg>LinkedInのCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224601Z" creationid="tani" creationdate="20230104T113627Z">
+        <seg>LinkedIn の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on Twitch</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110725Z" creationid="tani" creationdate="20230104T110725Z">
-        <seg>Twitch上のCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224623Z" creationid="tani" creationdate="20230104T110725Z">
+        <seg>Twitch のクラウド ネイティブ コンピューティング ファウンデーション</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on Twitter</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110654Z" creationid="tani" creationdate="20230104T110654Z">
-        <seg>Twitter上のCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224552Z" creationid="tani" creationdate="20230104T110654Z">
+        <seg>Twitter の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on WeChat</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110707Z" creationid="tani" creationdate="20230104T110707Z">
-        <seg>WeChat上のCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224605Z" creationid="tani" creationdate="20230104T110707Z">
+        <seg>WeChat のクラウド ネイティブ コンピューティング ファウンデーション</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Computing Foundation on YouTube</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110712Z" creationid="tani" creationdate="20230104T110712Z">
-        <seg>YouTubeのCloud Native Computing Foundation</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224609Z" creationid="tani" creationdate="20230104T110712Z">
+        <seg>YouTube の Cloud Native Computing Foundation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cloud Native Glossary</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113556Z" creationid="tani" creationdate="20230104T113556Z">
-        <seg>クラウドネイティブ用語集</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224512Z" creationid="tani" creationdate="20230104T113556Z">
+        <seg>クラウド ネイティブ用語集</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,22 +1366,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Cloud Native LandscapeA comprehensive categorical overview of projects and product offerings in the cloud native space</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221612Z" creationid="tani" creationdate="20230104T110925Z">
-        <seg>クラウド ネイティブ ランドスケープクラウド ネイティブ空間におけるプロジェクトと製品の包括的なカテゴリ概要</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Cloud Native Network Function Certification (Beta)CNF Certification ensures applications demonstrate cloud native best practices</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221720Z" creationid="tani" creationdate="20230104T111114Z">
-        <seg>クラウド ネイティブ ネットワーク機能認定 (ベータ)CNF 認定は、アプリケーションがクラウド ネイティブのベスト プラクティスを実証することを保証します</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Cloud native has crossed the chasm and more organizations than ever before are becoming software companies.</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222051Z" creationid="tani" creationdate="20230104T111402Z">
@@ -1530,14 +1378,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223157Z" creationid="tani" creationdate="20230104T105300Z">
         <seg>LF のクラウド ネイティブ トレーニング コース</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Code of Conduct</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221503Z" creationid="tani" creationdate="20230104T103606Z">
-        <seg>行動規範</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,14 +1402,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222556Z" creationid="tani" creationdate="20230104T104659Z">
         <seg>2023 年 1 月公開 KubeCon + CloudNativeCon 北米 CTO サミット レポート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Community</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103841Z" creationid="tani" creationdate="20230104T103841Z">
-        <seg>コミュニティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,14 +1470,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Conference Transparency Report  KubeCon + CloudNativeCon North America 2022 Transparency Report  December 9, 2022</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221534Z" creationid="tani" creationdate="20230104T103637Z">
-        <seg>Conference Transparency Report KubeCon + CloudNativeCon North America 2022 透明性レポート 2022 年 12 月 9 日</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Conformance test was added across the three release: 1.24 - 16 endpoints tested 1.25 - 23 endpoints tested 1.26 - 10 endpoints tested</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223543Z" creationid="tani" creationdate="20230104T112701Z">
@@ -1658,14 +1482,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223248Z" creationid="tani" creationdate="20230104T105350Z">
         <seg>CNCF プロジェクトの速度と上位のオープン ソース プロジェクトを常に調査することで、開発者とエンド ユーザーの共感を呼んでいる傾向を非常によく知ることができます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Contact Us</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221510Z" creationid="tani" creationdate="20230104T103612Z">
-        <seg>お問い合わせ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,14 +1526,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>ContributeJoin the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221607Z" creationid="tani" creationdate="20230104T110920Z">
-        <seg>貢献CNCF がホストするプロジェクトに専門知識を提供した #TeamCloudNative の 15 万人以上の人々に参加しましょう</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Contributor Growth</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222343Z" creationid="tani" creationdate="20230104T104446Z">
@@ -1736,8 +1544,8 @@
       <tuv lang="en-US">
         <seg>Copyright © 2023 The Linux Foundation®.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110734Z" creationid="tani" creationdate="20230104T110734Z">
-        <seg>Copyright©2023 The Linux Foundation®.</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224632Z" creationid="tani" creationdate="20230104T110734Z">
+        <seg>著作権 © 2023 The Linux Foundation®.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,14 +1562,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110550Z" creationid="tani" creationdate="20230104T110550Z">
         <seg>コース</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>CoursesTraining courses for cloud native certifications</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221709Z" creationid="tani" creationdate="20230104T103812Z">
-        <seg>コースクラウド ネイティブ認定のトレーニング コース</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,14 +1618,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222459Z" creationid="tani" creationdate="20230104T104601Z">
         <seg>Shopify、プロダクション エンジニアリング ディレクター</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Discover CNCF</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221448Z" creationid="tani" creationdate="20230104T110816Z">
-        <seg>CNCFを発見</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,14 +1710,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>End User CommunityJoin our vendor-neutral community using cloud native technologies to build products and services</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221742Z" creationid="tani" creationdate="20230104T103845Z">
-        <seg>エンド ユーザー コミュニティクラウド ネイティブ テクノロジーを使用して製品やサービスを構築する、ベンダーに依存しないコミュニティに参加する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>End User Members</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222516Z" creationid="tani" creationdate="20230104T111723Z">
@@ -1974,14 +1758,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Enroll your company as a CNCF End User and save more than $10K in training and conference costs</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221734Z" creationid="tani" creationdate="20230104T103836Z">
-        <seg>あなたの会社を CNCF エンド ユーザーとして登録し、トレーニングと会議の費用を 10,000 ドル以上節約しましょう</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Envoy Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223428Z" creationid="tani" creationdate="20230104T112538Z">
@@ -2010,14 +1786,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T113533Z" creationid="tani" creationdate="20230104T113533Z">
         <seg>私たちが参加するイベント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>EventsMeet #TeamCloudNative and CNCF staff at events around the world</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221745Z" creationid="tani" creationdate="20230104T111136Z">
-        <seg>イベント世界中のイベントで #TeamCloudNative と CNCF のスタッフに会う</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,14 +1822,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>FAQ</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103610Z" creationid="tani" creationdate="20230104T103610Z">
-        <seg>よくある質問</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Facebook</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110723Z" creationid="tani" creationdate="20230104T110723Z">
@@ -2078,26 +1838,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Featured Reads</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221512Z" creationid="tani" creationdate="20230104T103615Z">
-        <seg>おすすめの読み物</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Female and Non Binary person icon</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223805Z" creationid="tani" creationdate="20230104T105907Z">
         <seg>女性と非バイナリの人のアイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Find out how we use cookies and how to change your settings.</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221434Z" creationid="tani" creationdate="20230104T103537Z">
-        <seg>Cookie の使用方法と設定の変更方法をご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,8 +1904,8 @@
       <tuv lang="en-US">
         <seg>For a list of trademarks of The Linux Foundation, please see our Trademark Usage page.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110740Z" creationid="tani" creationdate="20230104T110740Z">
-        <seg>The Linux Foundationの商標一覧は、Trademark Usageのページをご覧ください。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224638Z" creationid="tani" creationdate="20230104T110740Z">
+        <seg>The Linux Foundation の商標の一覧については、商標の使用に関するページをご覧ください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,22 +1982,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Get Certified</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221656Z" creationid="tani" creationdate="20230104T103759Z">
-        <seg>認定を受ける</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Get Involved</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110915Z" creationid="tani" creationdate="20230104T110915Z">
-        <seg>参加する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Get involved</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110239Z" creationid="tani" creationdate="20230104T110239Z">
@@ -2266,14 +1994,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224135Z" creationid="tani" creationdate="20230104T110237Z">
         <seg>メンタリングに参加する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>GitHub</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110701Z" creationid="tani" creationdate="20230104T110701Z">
-        <seg>ギットハブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2016,8 @@
       <tuv lang="en-US">
         <seg>Go to top</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110749Z" creationid="tani" creationdate="20230104T110749Z">
-        <seg>先頭へ移動</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224647Z" creationid="tani" creationdate="20230104T110749Z">
+        <seg>トップへ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2326,26 +2046,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Governing BoardThe GB is responsible for marketing, business oversight, and budget decisions for CNCF</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221456Z" creationid="tani" creationdate="20230104T103559Z">
-        <seg>理事会 GB は、CNCF のマーケティング、ビジネス監視、および予算決定を担当します。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Graduated</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T113445Z" creationid="tani" creationdate="20230104T113445Z">
         <seg>卒業</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>GraduatedProjects considered stable, widely adopted, and production ready, attracting thousands of contributors</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221556Z" creationid="tani" creationdate="20230104T103659Z">
-        <seg>GraduatedProjects は、安定しており、広く採用されており、本番環境に対応していると考えられており、何千人もの貢献者を引き付けています</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,16 +2112,8 @@
       <tuv lang="en-US">
         <seg>Humans of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110603Z" creationid="tani" creationdate="20230104T110603Z">
-        <seg>クラウドネイティブの人間</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Humans of Cloud NativeRead stories of amazing individuals and their contributions</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221751Z" creationid="tani" creationdate="20230104T103854Z">
-        <seg>ヒューマン オブ クラウド ネイティブ素晴らしい個人のストーリーとその貢献を読む</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224501Z" creationid="tani" creationdate="20230104T110603Z">
+        <seg>クラウド ネイティブの人間</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,16 +2280,8 @@
       <tuv lang="en-US">
         <seg>Incubating</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113448Z" creationid="tani" creationdate="20230104T113448Z">
-        <seg>インキュベーション</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>IncubatingProjects used successfully in production by a small number users with a healthy pool of contributors</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221558Z" creationid="tani" creationdate="20230104T110904Z">
-        <seg>IncubatingProjects は、貢献者の健全なプールを持つ少数のユーザーによって実稼働環境で正常に使用されています</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224417Z" creationid="tani" creationdate="20230104T113448Z">
+        <seg>孵卵中</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,8 +2424,8 @@
       <tuv lang="en-US">
         <seg>It's been a year to remember</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222042Z" creationid="tani" creationdate="20230104T104144Z">
-        <seg>思い出に残る年になりました</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T021404Z" creationid="tani" creationdate="20230104T104144Z">
+        <seg>記憶に残る一年となりました</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,30 +2582,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>KCNAKubernetes and Cloud Native Associate</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221705Z" creationid="tani" creationdate="20230104T103807Z">
-        <seg>KCNAKubernetes と Cloud Native Associate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>KCSP</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110532Z" creationid="tani" creationdate="20230104T110532Z">
-        <seg>KCSP社</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>KTP</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113501Z" creationid="tani" creationdate="20230104T113501Z">
-        <seg>クッ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Keda Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223436Z" creationid="tani" creationdate="20230104T112544Z">
@@ -2958,26 +2622,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>KubeCon + CloudNativeCon Europe 2023</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221536Z" creationid="tani" creationdate="20230104T103639Z">
-        <seg>KubeCon + CloudNativeCon ヨーロッパ 2023</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>KubeCon + CloudNativeCon North America</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222957Z" creationid="tani" creationdate="20230104T105100Z">
         <seg>KubeCon + CloudNativeCon 北米</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>KubeCon + CloudNativeCon North America 2022 Transparency Report</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221525Z" creationid="tani" creationdate="20230104T103628Z">
-        <seg>KubeCon + CloudNativeCon 北米 2022 透明性レポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,8 +2648,8 @@
       <tuv lang="en-US">
         <seg>KubeWeekly</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113547Z" creationid="tani" creationdate="20230104T113547Z">
-        <seg>KubeWeekly(クベウィークリー)</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224505Z" creationid="tani" creationdate="20230104T113547Z">
+        <seg>キューブウィークリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,14 +2674,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223232Z" creationid="tani" creationdate="20230104T105335Z">
         <seg>Kubernetes Certified Service Provider (KCSP) プログラムが 254 社に拡大</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Kubernetes Certified Service ProviderKCSPs have deep experience helping enterprises successfully adopt cloud native technologies</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221718Z" creationid="tani" creationdate="20230104T111110Z">
-        <seg>Kubernetes 認定サービス プロバイダーKCSP は、企業がクラウド ネイティブ テクノロジーをうまく採用するのを支援した豊富な経験を持っています</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,14 +2706,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223228Z" creationid="tani" creationdate="20230104T105331Z">
         <seg>Kubernetes トレーニング パートナー (KTP) プログラムは 57 の認定企業に拡大しました</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Kubernetes Training PartnersFind a qualified KTP to prepare for your next certification</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221716Z" creationid="tani" creationdate="20230104T111106Z">
-        <seg>Kubernetes トレーニング パートナー資格のある KTP を見つけて、次の認定に備える</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,14 +2758,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Latest Tech Radars</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110937Z" creationid="tani" creationdate="20230104T110937Z">
-        <seg>最新の技術レーダー</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Like icon</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222505Z" creationid="tani" creationdate="20230104T104608Z">
@@ -3168,8 +2792,8 @@
       <tuv lang="en-US">
         <seg>Linux is a registered trademark of Linus Torvalds.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110743Z" creationid="tani" creationdate="20230104T110743Z">
-        <seg>Linuxは、Linus Torvaldsの登録商標です。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224640Z" creationid="tani" creationdate="20230104T110743Z">
+        <seg>Linux は Linus Torvalds の登録商標です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,14 +3030,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>MembersFrom tech icons to innovative startups, meet our members driving cloud native computing</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221452Z" creationid="tani" creationdate="20230104T103555Z">
-        <seg>メンバーテクノロジのアイコンから革新的なスタートアップまで、クラウド ネイティブ コンピューティングを推進するメンバーに会いましょう</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Membership</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T111545Z" creationid="tani" creationdate="20230104T111545Z">
@@ -3434,14 +3050,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222004Z" creationid="tani" creationdate="20230104T104422Z">
         <seg>勢い</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Multicluster Management</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103741Z" creationid="tani" creationdate="20230104T103741Z">
-        <seg>マルチクラスタ管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,14 +3114,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221829Z" creationid="tani" creationdate="20230104T103932Z">
         <seg>NewsCNCF プロジェクトとメディアでの #TeamCloudNative</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Next Event  KubeCon + CloudNativeCon Europe 2023   April 17-21, 2023</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221550Z" creationid="tani" creationdate="20230104T110847Z">
-        <seg>次のイベント KubeCon + CloudNativeCon Europe 2023 2023 年 4 月 17 ～ 21 日</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,30 +3270,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>PCA</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110548Z" creationid="tani" creationdate="20230104T110548Z">
-        <seg>PCA法</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>PCAPrometheus Certified Associate</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221707Z" creationid="tani" creationdate="20230104T103810Z">
-        <seg>PCAPrometheus 認定アソシエイト</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Partner Support</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221711Z" creationid="tani" creationdate="20230104T103814Z">
-        <seg>パートナー サポート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Patrick Ohly</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110055Z" creationid="tani" creationdate="20230104T110055Z">
@@ -3720,8 +3296,8 @@
       <tuv lang="en-US">
         <seg>Phippy and Friends</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113553Z" creationid="tani" creationdate="20230104T113553Z">
-        <seg>Phippy&amp;フレンズ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224510Z" creationid="tani" creationdate="20230104T113553Z">
+        <seg>フィッピーと仲間たち</seg>
       </tuv>
     </tu>
     <tu>
@@ -3848,8 +3424,8 @@
       <tuv lang="en-US">
         <seg>Privacy Policy and Terms of Use.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113656Z" creationid="tani" creationdate="20230104T113656Z">
-        <seg>プライバシーポリシーおよび使用条件。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224643Z" creationid="tani" creationdate="20230104T113656Z">
+        <seg>プライバシー ポリシーと利用規約。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,16 +3448,8 @@
       <tuv lang="en-US">
         <seg>Project Journey Reports</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113439Z" creationid="tani" creationdate="20230104T113439Z">
-        <seg>プロジェクト・ジャーニー・レポート</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Project Journey ReportsShowing how CNCF has impacted the progress and growth of various graduated projects</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221614Z" creationid="tani" creationdate="20230104T110929Z">
-        <seg>プロジェクト ジャーニー レポートCNCF がさまざまな卒業プロジェクトの進行と成長にどのような影響を与えたかを示します</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224410Z" creationid="tani" creationdate="20230104T113439Z">
+        <seg>プロジェクトジャーニーレポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,16 +3480,8 @@
       <tuv lang="en-US">
         <seg>Project Tools</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T113442Z" creationid="tani" creationdate="20230104T113442Z">
-        <seg>プロジェクトツール</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Project ToolsQuick links to tools and resources for your CNCF project</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221616Z" creationid="tani" creationdate="20230104T110933Z">
-        <seg>プロジェクト ツールCNCF プロジェクトのツールとリソースへのクイック リンク</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224412Z" creationid="tani" creationdate="20230104T113442Z">
+        <seg>プロジェクト ツール</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,14 +3498,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223343Z" creationid="tani" creationdate="20230104T105446Z">
         <seg>プロジェクト速度の重要ポイント</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Projects</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110854Z" creationid="tani" creationdate="20230104T110854Z">
-        <seg>プロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,14 +3582,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Recommended Links</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221723Z" creationid="tani" creationdate="20230104T111117Z">
-        <seg>おすすめのリンク</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Register for KubeCon+ CloudNativeCon North America</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224250Z" creationid="tani" creationdate="20230104T113327Z">
@@ -4110,22 +3654,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>SandboxExperimental projects not yet widely tested in production on the bleeding edge of technology</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221601Z" creationid="tani" creationdate="20230104T110907Z">
-        <seg>サンドボックス技術の最先端での本番環境でまだ広くテストされていない実験的プロジェクト</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Save $10K on Cloud Native</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221725Z" creationid="tani" creationdate="20230104T103827Z">
-        <seg>クラウド ネイティブで $10,000 節約</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Scholarships Offered</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223813Z" creationid="tani" creationdate="20230104T105916Z">
@@ -4162,14 +3690,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221927Z" creationid="tani" creationdate="20230104T111237Z">
         <seg>CNCF サイトを検索</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Secret Management</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103745Z" creationid="tani" creationdate="20230104T103745Z">
-        <seg>秘密管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,30 +3758,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>See more in Annual category</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221519Z" creationid="tani" creationdate="20230104T103621Z">
-        <seg>年次カテゴリでもっと見る</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>See more in Conference Transparency category</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221530Z" creationid="tani" creationdate="20230104T103632Z">
-        <seg>会議の透明性カテゴリでもっと見る</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>See more in Events</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221545Z" creationid="tani" creationdate="20230104T103648Z">
-        <seg>イベントでもっと見る</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>See more in Member category</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221913Z" creationid="tani" creationdate="20230104T104016Z">
@@ -4286,14 +3782,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>See more tech radars</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221625Z" creationid="tani" creationdate="20230104T103750Z">
-        <seg>テクノロジーレーダーをもっと見る</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Select language*</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224326Z" creationid="tani" creationdate="20230104T113400Z">
@@ -4314,14 +3802,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110508Z" creationid="tani" creationdate="20230104T110508Z">
         <seg>CNCFプロジェクト向けサービス</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Services for CNCF ProjectsCNCF services for our open source projects – from marketing to legal services</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221610Z" creationid="tani" creationdate="20230104T103712Z">
-        <seg>CNCF プロジェクト向けサービスCNCF のオープン ソース プロジェクト向けサービス – マーケティングから法務サービスまで</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,14 +3894,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Skip to content Accessibility help</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221439Z" creationid="tani" creationdate="20230104T103541Z">
-        <seg>コンテンツへスキップ アクセシビリティのヘルプ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Slack</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221811Z" creationid="tani" creationdate="20230104T103914Z">
@@ -4478,14 +3950,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Staff</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103608Z" creationid="tani" creationdate="20230104T103608Z">
-        <seg>スタッフ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Staff Post  Argo and Flux: grown-up GitOps for cloud native generation  December 27, 2022</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T221907Z" creationid="tani" creationdate="20230104T104009Z">
@@ -4534,14 +3998,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Take Part</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T103843Z" creationid="tani" creationdate="20230104T103843Z">
-        <seg>参加する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Teacher icon</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222015Z" creationid="tani" creationdate="20230104T111329Z">
@@ -4550,42 +4006,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Tech Radar  DevSecOps  September 2021</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221629Z" creationid="tani" creationdate="20230104T103732Z">
-        <seg>Tech Radar DevSecOps 2021 年 9 月</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tech Radar  Multicluster Management  June 2021</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221640Z" creationid="tani" creationdate="20230104T103743Z">
-        <seg>Tech Radar マルチクラスター管理 2021 年 6 月</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tech Radar  Secret Management  February 2021</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221652Z" creationid="tani" creationdate="20230104T103754Z">
-        <seg>Tech Radar 秘密管理 2021 年 2 月</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Technical Oversight Committee</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T113426Z" creationid="tani" creationdate="20230104T113426Z">
         <seg>技術監視委員会</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Technical Oversight CommitteeThe TOC defines CNCF’s technical vision and provides experienced technical leadership to the cloud native community</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221454Z" creationid="tani" creationdate="20230104T103557Z">
-        <seg>技術監視委員会TOC は、CNCF の技術的ビジョンを定義し、経験豊富な技術的リーダーシップをクラウド ネイティブ コミュニティに提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,8 +4112,8 @@
       <tuv lang="en-US">
         <seg>The Linux Foundation has registered trademarks and uses trademarks.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110738Z" creationid="tani" creationdate="20230104T110738Z">
-        <seg>The Linux Foundationは登録商標を所有し、商標を使用しています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224636Z" creationid="tani" creationdate="20230104T110738Z">
+        <seg>The Linux Foundation は商標を登録し、商標を使用しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,14 +4302,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>This website uses cookies to offer you a better browsing experience</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221432Z" creationid="tani" creationdate="20230104T110809Z">
-        <seg>この Web サイトでは、より良いブラウジング体験を提供するために Cookie を使用しています</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>This year CNCF helped launch two documentary films that supported our mission to humanize developers by telling their story of development in this dynamic medium.</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223729Z" creationid="tani" creationdate="20230104T112834Z">
@@ -5022,14 +4438,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Training</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T111014Z" creationid="tani" creationdate="20230104T111014Z">
-        <seg>トレーニング</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Training &amp; Certification</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T112211Z" creationid="tani" creationdate="20230104T112211Z">
@@ -5048,8 +4456,8 @@
       <tuv lang="en-US">
         <seg>Twitch</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110727Z" creationid="tani" creationdate="20230104T110727Z">
-        <seg>単収縮</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224625Z" creationid="tani" creationdate="20230104T110727Z">
+        <seg>けいれん</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +4792,8 @@
       <tuv lang="en-US">
         <seg>Welcome!</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222040Z" creationid="tani" creationdate="20230104T104142Z">
-        <seg>いらっしゃいませ！</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T021322Z" creationid="tani" creationdate="20230104T104142Z">
+        <seg>ようこそ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,14 +4818,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224341Z" creationid="tani" creationdate="20230104T110443Z">
         <seg>私たちは誰ですか</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Who We AreCNCF is the vendor-neutral hub of cloud native computing, dedicated to making cloud native ubiquitous</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221450Z" creationid="tani" creationdate="20230104T103552Z">
-        <seg>当社についてCNCF は、クラウド ネイティブ コンピューティングのベンダー中立ハブであり、クラウド ネイティブをユビキタスにすることに専念しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -5480,8 +4880,8 @@
       <tuv lang="en-US">
         <seg>archetype</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110751Z" creationid="tani" creationdate="20230104T110751Z">
-        <seg>原型</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224649Z" creationid="tani" creationdate="20230104T110751Z">
+        <seg>アーキタイプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,16 +4912,16 @@
       <tuv lang="en-US">
         <seg>recaptcha challenge expires in two minutes</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T110754Z" creationid="tani" creationdate="20230104T110754Z">
-        <seg>recaptchaチャレンジは2分で終了します</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224651Z" creationid="tani" creationdate="20230104T110754Z">
+        <seg>recaptcha チャレンジは 2 分で期限切れになります</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>最终用户案例研究了解有关云原生对世界各企业的影响的真实案例</seg>
+        <seg>最终用户案例研究</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T221749Z" creationid="tani" creationdate="20230104T221749Z">
-        <seg>最终用户案例研究了解有关云原生対世界各企業业的影响的実例</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230104T224459Z" creationid="tani" creationdate="20230104T224459Z">
+        <seg>最終用途户案例研究</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

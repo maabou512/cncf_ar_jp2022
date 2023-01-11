@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg>178K Contributors Fundamentally changing computing</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222122Z" creationid="tani" creationdate="20230104T111449Z">
-        <seg>178,000 人の貢献者 根本的に変化するコンピューティング</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230453Z" creationid="tani" creationdate="20230104T111449Z">
+        <seg>コンピューティングに根底から変化をもたらす17万8,000人のコントリビュータたち </seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,14 +1058,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223634Z" creationid="tani" creationdate="20230104T112800Z">
         <seg>カオス メッシュ ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Chapter icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222119Z" creationid="tani" creationdate="20230104T111446Z">
-        <seg>章アイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,16 +2048,16 @@
       <tuv lang="en-US">
         <seg>I hope you enjoy reading about our milestones and reflecting back on the impressive progress we've achieved together this year.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222059Z" creationid="tani" creationdate="20230104T111417Z">
-        <seg>私たちのマイルストーンについてお読みになり、今年一緒に達成した印象的な進歩を振り返っていただければ幸いです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230017Z" creationid="tani" creationdate="20230104T111417Z">
+        <seg>私たちが歩んできたマイルストーン、今年一緒に達成してきた素晴らしいな前進について本レポートを読みながら振り返っていただければと思います。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>I want to personally thank each and every one of you, all 178,000, for your commitment and contributions, no matter how big or small, we're on this journey together.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222057Z" creationid="tani" creationdate="20230104T104200Z">
-        <seg>17 万 8,000 人を超える皆様の献身と貢献に個人的に感謝したいと思います。大小を問わず、私たちはこの旅路を共に歩んでいます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T225722Z" creationid="tani" creationdate="20230104T104200Z">
+        <seg>17 万 8,000 人を超えるコミットメントとコントリビューションに一個人としてみなさんに感謝します。それらのインパクトが大きくても小さくても、そこが問題ではなく私たちがこの旅路（Journey）を共に歩んでいる、ということに意味があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,8 +2824,8 @@
       <tuv lang="en-US">
         <seg>Members Across 6 continents</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222117Z" creationid="tani" creationdate="20230104T111443Z">
-        <seg>6大陸にまたがるメンバー</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230407Z" creationid="tani" creationdate="20230104T111443Z">
+        <seg>6大陸にまたがるメンバーたち</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,8 +2952,8 @@
       <tuv lang="en-US">
         <seg>Of course, none of this would be possible without our truly global, welcoming community of doers - #TeamCloudNative.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222055Z" creationid="tani" creationdate="20230104T111411Z">
-        <seg>もちろん、これは真にグローバルで歓迎的な実行者のコミュニティである #TeamCloudNative なしでは不可能です。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T225056Z" creationid="tani" creationdate="20230104T111411Z">
+        <seg>もちろん、これは本当にグローバルで迎え入れてくれる、「Doer」たちののコミュニティである #TeamCloudNative なしでは不可能だったことでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3104,8 +3096,8 @@
       <tuv lang="en-US">
         <seg>Photo Highlights</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104229Z" creationid="tani" creationdate="20230104T104229Z">
-        <seg>写真のハイライト</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230522Z" creationid="tani" creationdate="20230104T104229Z">
+        <seg>ハイライト写真</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,22 +3198,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Priyanka Sharma</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T111421Z" creationid="tani" creationdate="20230104T111421Z">
-        <seg>プリヤンカ・シャルマ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Priyanka Sharma Executive Director, CNCF</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222104Z" creationid="tani" creationdate="20230104T111424Z">
-        <seg>プリヤンカ シャルマ CNCF 事務局長</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Project Journey Reports</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224410Z" creationid="tani" creationdate="20230104T113439Z">
@@ -3280,16 +3256,8 @@
       <tuv lang="en-US">
         <seg>Projects Driving worldwide transformation</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222111Z" creationid="tani" creationdate="20230104T111436Z">
-        <seg>世界中の変革を推進するプロジェクト</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Projects icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222106Z" creationid="tani" creationdate="20230104T111427Z">
-        <seg>プロジェクト アイコン</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230200Z" creationid="tani" creationdate="20230104T111436Z">
+        <seg>世界中のトランスフォーメーションをドライブしているプロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -3952,8 +3920,8 @@
       <tuv lang="en-US">
         <seg>This was reflected at our KubeCon + CloudNativeCon events, where businesses like Mercedes Benz and Boeing headlined keynotes alongside well-known tech brands.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222053Z" creationid="tani" creationdate="20230104T111407Z">
-        <seg>これは、KubeCon + CloudNativeCon イベントに反映されており、メルセデス ベンツやボーイングなどの企業が、有名なテクノロジー ブランドと並んで基調講演を行いました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T224635Z" creationid="tani" creationdate="20230104T111407Z">
+        <seg>このことは、KubeCon + CloudNativeCon イベントでも反映されていて、メルセデス ベンツやボーイングといった顔ぶれが有名なテック ブランドたちとともに見出しを飾り、基調講演を行いました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4240,8 +4208,8 @@
       <tuv lang="en-US">
         <seg>View the CNCF Flickr photo feed</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222128Z" creationid="tani" creationdate="20230104T104231Z">
-        <seg>CNCF Flickr の写真フィードを見る</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230537Z" creationid="tani" creationdate="20230104T104231Z">
+        <seg>CNCF Flickr のフォトフィードを見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,8 +4384,8 @@
       <tuv lang="en-US">
         <seg>We've welcomed new industries, projects, and swelled our community to 7.1 million cloud native developers, surpassing the population of Denmark!</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T110726Z" creationid="tani" creationdate="20230104T104151Z">
-        <seg>新しい産業やプロジェクトを受け入れながら、 710 万人ものクラウド ネイティブ デベロッパーを擁するコミュニティにまで大きくなりました。なんとデンマークの人口を超えるほどです！</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230111T230212Z" creationid="tani" creationdate="20230104T104151Z">
+        <seg>私たちは新しい産業やプロジェクトを歓迎し、コミュニティをデンマークの人口を超える 710 万人のクラウド ネイティブ デベロッパーにまで拡大しました。</seg>
       </tuv>
     </tu>
     <tu>

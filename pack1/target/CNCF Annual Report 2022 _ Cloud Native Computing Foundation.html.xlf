@@ -788,23 +788,23 @@
 </trans-unit>
 <trans-unit id="tu197" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">When I look back on 2022, it's with a deep sense of pride for what we have overcome and achieved together. Despite the collective challenges we've faced, and continue to tackle, the cloud native ecosystem has soared. We've welcomed new industries, projects, and swelled our community to 7.1 million cloud native developers, surpassing the population of Denmark!</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウド ネイティブ エコシステムは躍進しつづけています。新しい産業やプロジェクトを受け入れながら、 710 万人ものクラウド ネイティブ デベロッパーを擁するコミュニティにまで大きくなりました。なんとデンマークの人口を超えるほどです！</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">2022 年を振り返ってみると、私たちが共に乗り越え、達成できたことに深い誇りを感じます。私たちには直面し、取り組み続けている共通的な課題はありますが、一方でクラウド ネイティブ エコシステムは躍進しつづけています。私たちは新しい産業やプロジェクトを歓迎し、コミュニティをデンマークの人口を超える 710 万人のクラウド ネイティブ デベロッパーにまで拡大しました。</g></target>
 </trans-unit>
 <trans-unit id="tu198" restype="x-paragraph">
 <source xml:lang="en-US">Cloud native has crossed the chasm and more organizations than ever before are becoming software companies. This was reflected at our KubeCon + CloudNativeCon events, where businesses like Mercedes Benz and Boeing headlined keynotes alongside well-known tech brands.</source>
-<target xml:lang="ja-JP">クラウド ネイティブはキャズムを越え、これまで以上に多くの組織がソフトウェア企業になりつつあります。これは、KubeCon + CloudNativeCon イベントに反映されており、メルセデス ベンツやボーイングなどの企業が、有名なテクノロジー ブランドと並んで基調講演を行いました。</target>
+<target xml:lang="ja-JP">クラウド ネイティブはキャズムを越え、これまで以上に多くの組織がソフトウェア企業になりつつあります。このことは、KubeCon + CloudNativeCon イベントでも反映されていて、メルセデス ベンツやボーイングといった顔ぶれが有名なテック ブランドたちとともに見出しを飾り、基調講演を行いました。</target>
 </trans-unit>
 <trans-unit id="tu199" restype="x-paragraph">
 <source xml:lang="en-US">Of course, none of this would be possible without our truly global, welcoming community of doers - #TeamCloudNative. I want to personally thank each and every one of you, all 178,000, for your commitment and contributions, no matter how big or small, we're on this journey together.</source>
-<target xml:lang="ja-JP">もちろん、これは真にグローバルで歓迎的な実行者のコミュニティである #TeamCloudNative なしでは不可能です。17 万 8,000 人を超える皆様の献身と貢献に個人的に感謝したいと思います。大小を問わず、私たちはこの旅路を共に歩んでいます。</target>
+<target xml:lang="ja-JP">もちろん、これは本当にグローバルで迎え入れてくれる、「Doer」たちののコミュニティである #TeamCloudNative なしでは不可能だったことでしょう。17 万 8,000 人を超えるコミットメントとコントリビューションに一個人としてみなさんに感謝します。それらのインパクトが大きくても小さくても、そこが問題ではなく私たちがこの旅路（Journey）を共に歩んでいる、ということに意味があります。</target>
 </trans-unit>
 <trans-unit id="tu200" restype="x-paragraph">
 <source xml:lang="en-US">I hope you enjoy reading about our milestones and reflecting back on the impressive progress we've achieved together this year.</source>
-<target xml:lang="ja-JP">私たちのマイルストーンについてお読みになり、今年一緒に達成した印象的な進歩を振り返っていただければ幸いです。</target>
+<target xml:lang="ja-JP">私たちが歩んできたマイルストーン、今年一緒に達成してきた素晴らしいな前進について本レポートを読みながら振り返っていただければと思います。</target>
 </trans-unit>
 <trans-unit id="tu202" restype="x-alt">
 <source xml:lang="en-US">Priyanka Sharma</source>
-<target xml:lang="ja-JP">プリヤンカ・シャルマ</target>
+<target xml:lang="ja-JP">Priyanka Sharma</target>
 </trans-unit>
 <trans-unit id="tu201">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp345]"/></source>
@@ -812,11 +812,11 @@
 </trans-unit>
 <trans-unit id="tu203" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Priyanka Sharma</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Executive Director, CNCF</source>
-<target xml:lang="ja-JP">プリヤンカ シャルマ CNCF 事務局長<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Priyanka Sharma</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Executive Director, CNCF</target>
 </trans-unit>
 <trans-unit id="tu205" restype="x-alt">
 <source xml:lang="en-US">Projects icon</source>
-<target xml:lang="ja-JP">プロジェクト アイコン</target>
+<target xml:lang="ja-JP">Projects icon</target>
 </trans-unit>
 <trans-unit id="tu204">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp348]"/></source>
@@ -824,7 +824,7 @@
 </trans-unit>
 <trans-unit id="tu206">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">157 Projects</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Driving worldwide <x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>transformation</source>
-<target xml:lang="ja-JP">157世界中の変革を推進するプロジェクト<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">157世界中のトランスフォーメーションをドライブしているプロジェクト<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu208" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
@@ -836,11 +836,11 @@
 </trans-unit>
 <trans-unit id="tu209">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">853 Members</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Across 6 continents</source>
-<target xml:lang="ja-JP">8536大陸にまたがるメンバー<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">8536大陸にまたがるメンバーたち<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu211" restype="x-alt">
 <source xml:lang="en-US">Chapter icon</source>
-<target xml:lang="ja-JP">章アイコン</target>
+<target xml:lang="ja-JP">Chapter icon</target>
 </trans-unit>
 <trans-unit id="tu210">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp354]"/></source>
@@ -848,15 +848,15 @@
 </trans-unit>
 <trans-unit id="tu212">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">178K Contributors</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Fundamentally changing <x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>computing</source>
-<target xml:lang="ja-JP">178,000 人の貢献者 根本的に変化するコンピューティング<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">コンピューティングに根底から変化をもたらす17万8,000人のコントリビュータたち <g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu213" restype="x-h3">
 <source xml:lang="en-US">2022 Photo Highlights</source>
-<target xml:lang="ja-JP">2022年写真のハイライト</target>
+<target xml:lang="ja-JP">2022年ハイライト写真</target>
 </trans-unit>
 <trans-unit id="tu215" restype="x-title">
 <source xml:lang="en-US">View the CNCF Flickr photo feed</source>
-<target xml:lang="ja-JP">CNCF Flickr の写真フィードを見る</target>
+<target xml:lang="ja-JP">CNCF Flickr のフォトフィードを見る</target>
 </trans-unit>
 <trans-unit id="tu214" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp359]">See more</g></source>
@@ -1520,7 +1520,7 @@
 </trans-unit>
 <trans-unit id="tu380" restype="x-paragraph">
 <source xml:lang="en-US">Priyanka Sharma</source>
-<target xml:lang="ja-JP">プリヤンカ・シャルマ</target>
+<target xml:lang="ja-JP">Priyanka Sharma</target>
 </trans-unit>
 <trans-unit id="tu381" restype="x-paragraph">
 <source xml:lang="en-US">Executive Director, CNCF</source>

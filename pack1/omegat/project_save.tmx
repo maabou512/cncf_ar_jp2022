@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032857Z" creationid="tani" creationdate="20220124T101258Z">
+        <seg>参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get involved</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110239Z" creationid="tani" creationdate="20230104T110239Z">
@@ -3000,8 +3008,8 @@
       <tuv lang="en-US">
         <seg>Organizations that sell cloud native technologies built on, or integrated with, CNCF projects are eligible to join as general members.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222425Z" creationid="tani" creationdate="20230104T111622Z">
-        <seg>CNCF プロジェクトに基づいて構築された、または CNCF プロジェクトと統合されたクラウド ネイティブ テクノロジを販売する組織は、一般メンバーとして参加する資格があります。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T224106Z" creationid="tani" creationdate="20230104T111622Z">
+        <seg>CNCF プロジェクトに基づいて構築された、もしくはは CNCF プロジェクトと統合されたクラウド ネイティブ テクノロジを販売する組織は、一般メンバーとして参加する資格があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3178,14 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224643Z" creationid="tani" creationdate="20230104T113656Z">
         <seg>プライバシー ポリシーと利用規約。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Priyanka Sharma</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032828Z" creationid="tani" creationdate="20220124T100723Z">
+        <seg>Priyanka Sharma</seg>
       </tuv>
     </tu>
     <tu>
@@ -3514,6 +3530,14 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223538Z" creationid="tani" creationdate="20230104T112655Z">
         <seg>APISnoop を通じて管理される Kubernetes API の 100% 適合テスト カバレッジの目標に向けて、2022 年に大きな進歩がありました。APISnoop は、長年にわたる CNCF の寄稿者であり、コミュニティ リーダーである Hippie Hacker が先頭に立って、テストと適合カバレッジを追跡するコミュニティ主導のプロジェクトです。 e2e テストの実行によって作成された監査ログを分析することにより、Kubernetes の</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SiliconANGLE</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20220429T032908Z" creationid="tani" creationdate="20220124T101310Z">
+        <seg>SiliconANGLE</seg>
       </tuv>
     </tu>
     <tu>

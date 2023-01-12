@@ -144,8 +144,8 @@
       <tuv lang="en-US">
         <seg>220+ new members 19 new members from China</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222412Z" creationid="tani" creationdate="20230104T111603Z">
-        <seg>220 名以上の新規メンバー 中国からの 19 名の新規メンバー</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113155Z" creationid="tani" creationdate="20230104T111603Z">
+        <seg>220 以上の新メンバー うち 19 は中国からは</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="en-US">
         <seg>853 member organizations 15% growth from 2021</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222417Z" creationid="tani" creationdate="20230104T104519Z">
-        <seg>853 のメンバー組織 2021 年から 15% の成長</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113230Z" creationid="tani" creationdate="20230104T104519Z">
+        <seg>853 のメンバー組織 2021 年から 15% の伸び</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="en-US">
         <seg>A 15% increase of membership growth compared to 2021</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222423Z" creationid="tani" creationdate="20230104T104526Z">
-        <seg>2021 年と比較して会員数が 15% 増加</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113442Z" creationid="tani" creationdate="20230104T104526Z">
+        <seg>2021 年と比較してメンバー数が 15% 増加</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,14 +678,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Building icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222414Z" creationid="tani" creationdate="20230104T104517Z">
-        <seg>建物のアイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224337Z" creationid="tani" creationdate="20230104T113418Z">
@@ -712,8 +704,8 @@
       <tuv lang="en-US">
         <seg>CNCF Annual Report 2022 - Building for the road ahead</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T113219Z" creationid="tani" creationdate="20230111T112850Z">
-        <seg>CNCF Aアニュアルレポート2022 〜 この先にある道へ築いていくこと 〜</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T103255Z" creationid="tani" creationdate="20230111T112850Z">
+        <seg>CNCF Aアニュアルレポート2022 〜 道のむこうへ 築いていく 〜</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +744,8 @@
       <tuv lang="en-US">
         <seg>CNCF Membership Growth</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222419Z" creationid="tani" creationdate="20230104T104521Z">
-        <seg>CNCF会員数の増加</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113251Z" creationid="tani" creationdate="20230104T104521Z">
+        <seg>CNCF メンバシップの増加</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +808,8 @@
       <tuv lang="en-US">
         <seg>CNCF is an open source software foundation dedicated to making cloud native computing ubiquitous.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222339Z" creationid="tani" creationdate="20230104T104441Z">
-        <seg>CNCF は、クラウド ネイティブ コンピューティングをユビキタスにすることを専門とするオープン ソース ソフトウェア財団です。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112231Z" creationid="tani" creationdate="20230104T104441Z">
+        <seg>CNCF は、クラウド ネイティブ コンピューティングをユビキタスにすることを目的とした、オープン ソース ソフトウェアのファンデーション（財団）です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1088,8 @@
       <tuv lang="en-US">
         <seg>Chart showing CNCF Membership growth with a rising trend line.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222421Z" creationid="tani" creationdate="20230104T104524Z">
-        <seg>CNCF メンバーシップの成長と上昇傾向線を示すグラフ。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113302Z" creationid="tani" creationdate="20230104T104524Z">
+        <seg>CNCF メンバーシップの増加傾向のチャート</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,16 +1104,16 @@
       <tuv lang="en-US">
         <seg>Chart showing upward trend of Contributors growth</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222346Z" creationid="tani" creationdate="20230104T104448Z">
-        <seg>寄稿者数の増加傾向を示すグラフ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T111958Z" creationid="tani" creationdate="20230104T104448Z">
+        <seg>コントリビューターの増加傾向チャート</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Chart showing upward trend of Members, End User and Project growth</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222352Z" creationid="tani" creationdate="20230104T104455Z">
-        <seg>メンバー、エンドユーザー、プロジェクトの成長の上昇傾向を示すグラフ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112052Z" creationid="tani" creationdate="20230104T104455Z">
+        <seg>メンバー、エンドユーザー、プロジェクトの増加傾向チャート</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,16 +1440,16 @@
       <tuv lang="en-US">
         <seg>Contributor Growth</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222343Z" creationid="tani" creationdate="20230104T104446Z">
-        <seg>貢献者の成長</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T110009Z" creationid="tani" creationdate="20230104T104446Z">
+        <seg>コントリビューターの伸び</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104450Z" creationid="tani" creationdate="20230104T104450Z">
-        <seg>寄稿者</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112011Z" creationid="tani" creationdate="20230104T104450Z">
+        <seg>コントリビュータ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1632,8 @@
       <tuv lang="en-US">
         <seg>End Users</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222357Z" creationid="tani" creationdate="20230104T111541Z">
-        <seg>利用者</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112104Z" creationid="tani" creationdate="20230104T111541Z">
+        <seg>エンドユーザー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2168,8 @@
       <tuv lang="en-US">
         <seg>In fact, we welcomed more than 220 new members to CNCF this year.Today, CNCF has over 850 participating organizations, including the world's largest public and private cloud companies, along with the world's most innovative software companies and end user organizations.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222405Z" creationid="tani" creationdate="20230104T111555Z">
-        <seg>実際、今年は 220 を超える新しいメンバーを CNCF に迎えました。現在、CNCF には、世界最大のパブリックおよびプライベート クラウド企業、世界で最も革新的なソフトウェア企業およびエンド ユーザー組織を含む 850 を超える組織が参加しています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112806Z" creationid="tani" creationdate="20230104T111555Z">
+        <seg>その証左としてこの年 220 を越える新メンバーたちを CNCF に迎え入れました。現在、CNCF には、世界最大のパブリックおよびプライベート クラウドの企業、世界最高レベルのイノベーティブなソフトウェア企業およびエンドユーザー組織を含めた 850 を超える組織が参加しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2280,8 @@
       <tuv lang="en-US">
         <seg>Investment from these leading organizations signifies a strong dedication to the advancement and sustainability of cloud native computing for years to come.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222408Z" creationid="tani" creationdate="20230104T111559Z">
-        <seg>これらの主要な組織からの投資は、今後数年間、クラウド ネイティブ コンピューティングの進歩と持続可能性に力を注ぐことを意味します。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T113023Z" creationid="tani" creationdate="20230104T111559Z">
+        <seg>こういった先進的な組織からの投資は、むこう数年のクラウドネイティブ コンピューティングの進展や持続可能性に対する強力な献身を意味します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,14 +2622,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Lisa Martin</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T104433Z" creationid="tani" creationdate="20230104T104433Z">
-        <seg>リサ・マーティン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Litmus Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223645Z" creationid="tani" creationdate="20230104T105747Z">
@@ -2808,8 +2792,8 @@
       <tuv lang="en-US">
         <seg>Member, End User &amp; Project Growth</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222350Z" creationid="tani" creationdate="20230104T104453Z">
-        <seg>メンバー、エンドユーザー、プロジェクトの成長</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112036Z" creationid="tani" creationdate="20230104T104453Z">
+        <seg>メンバー、エンドユーザー、プロジェクトの伸び</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,14 +2810,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230111T230407Z" creationid="tani" creationdate="20230104T111443Z">
         <seg>6大陸にまたがるメンバーたち</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Members icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222113Z" creationid="tani" creationdate="20230104T104215Z">
-        <seg>メンバー アイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -3240,8 +3216,8 @@
       <tuv lang="en-US">
         <seg>Projects</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T113909Z" creationid="tani" creationdate="20230111T113909Z">
-        <seg>プロジェクト（Project）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112112Z" creationid="tani" creationdate="20230111T113909Z">
+        <seg>プロジェクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3408,8 @@
       <tuv lang="en-US">
         <seg>See all Graduated &amp; Incubating Projects</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222337Z" creationid="tani" creationdate="20230104T104439Z">
-        <seg>すべての卒業・育成プロジェクトを見る</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T105010Z" creationid="tani" creationdate="20230104T104439Z">
+        <seg>すべての Graduated・Incubating プロジェクトを見る</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,18 +3518,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>SiliconANGLE</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222332Z" creationid="tani" creationdate="20230104T104435Z">
-        <seg>シリコンアングル</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Since we were founded in 2015, we've pioneered cloud native technologies - hosting and growing some of the world's most successful open source projects including Kubernetes, Prometheus, Envoy, ContainerD, and many others.Today we are a powerhouse for visionary projects and people, hosting 157 projects with over 178,000 contributors representing 189 countries, and there are no signs of this growth slowing down.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222341Z" creationid="tani" creationdate="20230104T111535Z">
-        <seg>2015 年の設立以来、クラウド ネイティブ テクノロジーのパイオニアとして、Kubernetes、Prometheus、Envoy、ContainerD など、世界で最も成功しているオープン ソース プロジェクトのいくつかをホストし、成長させてきました。は、189 か国を代表する 178,000 人以上の貢献者を含む 157 のプロジェクトをホストしており、この成長が鈍化する兆候はありません。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T105945Z" creationid="tani" creationdate="20230104T111535Z">
+        <seg>私たちは、2015 年に設立されて以来、クラウド ネイティブ 技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD など、世界で最も成功しているオープン ソース プロジェクトの多くをホストし、育ててきました。現時点で189 か国、178,000 人以上のコントリビューターを含む 157 のプロジェクトをホストした発電所（Powerhouse）となっています。そしてこの成長が鈍化する兆しはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3632,8 @@
       <tuv lang="en-US">
         <seg>The (KubeCon + CloudNativeCon) hallway track conversations are shifting towards adjusting to the enterprise.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222323Z" creationid="tani" creationdate="20230104T104426Z">
-        <seg>(KubeCon + CloudNativeCon) 廊下での会話は、エンタープライズに適応する方向にシフトしています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T104114Z" creationid="tani" creationdate="20230104T104426Z">
+        <seg>(KubeCon + CloudNativeCon) 「Hallway track」でされる会話の内容が、エンタープライズ領域の対応する方向へとシフトしてきています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,8 +3656,9 @@
       <tuv lang="en-US">
         <seg>The CNCF ecosystem continues to grow across vendor and end user memberships, making CNCF one of the most successful open source foundations ever.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222403Z" creationid="tani" creationdate="20230104T111551Z">
-        <seg>CNCF エコシステムは、ベンダーとエンド ユーザーのメンバーシップ全体で成長を続けており、CNCF はこれまでで最も成功したオープン ソース財団の 1 つになっています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112400Z" creationid="tani" creationdate="20230104T111551Z">
+        <seg>CNCFのエコシステムは、CNCFをこれまで最も成功したオープンソースの財団の1つにたらしめながらベンダーやエンドユーザーのメンバーシップといった境界を超えた成長を続けています。　
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4280,8 +4249,8 @@
       <tuv lang="en-US">
         <seg>We are seeing all of these big companies that we know and love become software companies right before our eyes.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222328Z" creationid="tani" creationdate="20230104T111521Z">
-        <seg>私たちが知っていて愛するこれらの大企業はすべて、私たちの目の前でソフトウェア会社になるのを見ています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T104731Z" creationid="tani" creationdate="20230104T111521Z">
+        <seg>私たちのよく知る、愛着のあるこれらの大企業のすべてがソフトウェア企業になるさまを、まさに目の前で見ています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,8 +4273,8 @@
       <tuv lang="en-US">
         <seg>We had Ford on the show, Mass Mutual, ING and Home Depot.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222326Z" creationid="tani" creationdate="20230104T104428Z">
-        <seg>ショーにはフォード、マスミューチュアル、ING、ホームデポがありました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230112T104400Z" creationid="tani" creationdate="20230104T104428Z">
+        <seg>このショーにはFord、Mass Mutual、INGやHome Depotといった企業を迎え入れました。</seg>
       </tuv>
     </tu>
     <tu>

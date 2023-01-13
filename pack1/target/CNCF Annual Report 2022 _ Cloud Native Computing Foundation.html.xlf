@@ -192,7 +192,7 @@
 </trans-unit>
 <trans-unit id="tu48" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">Projects</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">プロジェクト（Project）</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp84]"><g id="2" ctype="x-span" equiv-text="&lt;span&gt;">プロジェクト</g></g></target>
 </trans-unit>
 <trans-unit id="tu49" resname="menu-item-71623-id" restype="x-li">
 <source xml:lang="en-US">CNCF Projects</source>
@@ -216,7 +216,7 @@
 </trans-unit>
 <trans-unit id="tu54" resname="menu-item-71628-id" restype="x-li">
 <source xml:lang="en-US">Get Involved</source>
-<target xml:lang="ja-JP">Get Involved</target>
+<target xml:lang="ja-JP">参加する</target>
 </trans-unit>
 <trans-unit id="tu55" resname="menu-item-71629-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp102]">Contribute<g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;lf-menu-description&quot;&gt;">Join the 150K+ folx in #TeamCloudNative who’ve contributed their expertise to CNCF hosted projects</g></g></source>
@@ -656,7 +656,7 @@
 </trans-unit>
 <trans-unit id="tu165" restype="x-alt">
 <source xml:lang="en-US">CNCF Annual Report 2022 - Building for the road ahead</source>
-<target xml:lang="ja-JP">CNCF Aアニュアルレポート2022 〜 この先にある道へ築いていくこと 〜</target>
+<target xml:lang="ja-JP">CNCF Aアニュアルレポート2022 〜 道のむこうへ 築いていく 〜</target>
 </trans-unit>
 <trans-unit id="tu164">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp305]"/></source>
@@ -756,7 +756,7 @@
 </trans-unit>
 <trans-unit id="tu187">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>Projects</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>プロジェクト（Project）</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp326]"/> <x id="2" ctype="image" equiv-text="[#$dp327]"/>プロジェクト</target>
 </trans-unit>
 <trans-unit id="tu191" restype="x-title">
 <source xml:lang="en-US">Jump to Community section</source>
@@ -828,7 +828,7 @@
 </trans-unit>
 <trans-unit id="tu208" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
-<target xml:lang="ja-JP">メンバー アイコン</target>
+<target xml:lang="ja-JP">Members icon</target>
 </trans-unit>
 <trans-unit id="tu207">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp351]"/></source>
@@ -1244,15 +1244,15 @@
 </trans-unit>
 <trans-unit id="tu311" restype="x-paragraph">
 <source xml:lang="en-US">The (KubeCon + CloudNativeCon) hallway track conversations are shifting towards adjusting to the enterprise. We had Ford on the show, Mass Mutual, ING and Home Depot. We are seeing all of these big companies that we know and love become software companies right before our eyes.</source>
-<target xml:lang="ja-JP">(KubeCon + CloudNativeCon) 廊下での会話は、エンタープライズに適応する方向にシフトしています。ショーにはフォード、マスミューチュアル、ING、ホームデポがありました。私たちが知っていて愛するこれらの大企業はすべて、私たちの目の前でソフトウェア会社になるのを見ています。</target>
+<target xml:lang="ja-JP">(KubeCon + CloudNativeCon) 「Hallway track」でされる会話の内容が、エンタープライズ領域の対応する方向へとシフトしてきています。このショーにはFord、Mass Mutual、INGやHome Depotといった企業を迎え入れました。私たちのよく知る、愛着のあるこれらの大企業のすべてがソフトウェア企業になるさまを、まさに目の前で見ています。</target>
 </trans-unit>
 <trans-unit id="tu312" restype="x-paragraph">
 <source xml:lang="en-US">Lisa Martin</source>
-<target xml:lang="ja-JP">リサ・マーティン</target>
+<target xml:lang="ja-JP">Lisa Martin</target>
 </trans-unit>
 <trans-unit id="tu313" restype="x-paragraph">
 <source xml:lang="en-US">SiliconANGLE</source>
-<target xml:lang="ja-JP">シリコンアングル</target>
+<target xml:lang="ja-JP">SiliconANGLE</target>
 </trans-unit>
 <trans-unit id="tu315" restype="x-title">
 <source xml:lang="en-US">See a CNCF overview</source>
@@ -1260,19 +1260,19 @@
 </trans-unit>
 <trans-unit id="tu316" restype="x-title">
 <source xml:lang="en-US">See all Graduated &amp; Incubating Projects</source>
-<target xml:lang="ja-JP">すべての卒業・育成プロジェクトを見る</target>
+<target xml:lang="ja-JP">すべての Graduated・Incubating プロジェクトを見る</target>
 </trans-unit>
 <trans-unit id="tu314" restype="x-paragraph">
 <source xml:lang="en-US">CNCF is an open source software foundation dedicated to making cloud native computing ubiquitous. Since we were founded in 2015, we've pioneered cloud native technologies - <g id="1" ctype="link" equiv-text="[#$dp464]">hosting and growing some of the world's most successful open source projects</g> including Kubernetes, Prometheus, Envoy, ContainerD, and <g id="2" ctype="link" equiv-text="[#$dp465]">many others</g>.<x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="4" ctype="x-br" equiv-text="&lt;br&gt;"/>Today we are a powerhouse for visionary projects and people, hosting <g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;">157 projects</g> with over <g id="6" ctype="x-strong" equiv-text="&lt;strong&gt;">178,000 contributors</g> representing <g id="7" ctype="x-strong" equiv-text="&lt;strong&gt;">189 countries</g>, and there are no signs of this growth slowing down.</source>
-<target xml:lang="ja-JP">CNCF は、クラウド ネイティブ コンピューティングをユビキタスにすることを専門とするオープン ソース ソフトウェア財団です。2015 年の設立以来、クラウド ネイティブ テクノロジーのパイオニアとして、Kubernetes、Prometheus、Envoy、ContainerD など、世界で最も成功しているオープン ソース プロジェクトのいくつかをホストし、成長させてきました。は、189 か国を代表する 178,000 人以上の貢献者を含む 157 のプロジェクトをホストしており、この成長が鈍化する兆候はありません。<g id="1" ctype="link" equiv-text="[#$dp464]"></g><g id="2" ctype="link" equiv-text="[#$dp465]"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="4" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="6" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="7" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">CNCF は、クラウド ネイティブ コンピューティングをユビキタスにすることを目的とした、オープン ソース ソフトウェアのファンデーション（財団）です。私たちは、2015 年に設立されて以来、クラウド ネイティブ 技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD など、世界で最も成功しているオープン ソース プロジェクトの多くをホストし、育ててきました。現時点で189 か国、178,000 人以上のコントリビューターを含む 157 のプロジェクトをホストした発電所（Powerhouse）となっています。そしてこの成長が鈍化する兆しはありません。<g id="1" ctype="link" equiv-text="[#$dp464]"></g><g id="2" ctype="link" equiv-text="[#$dp465]"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="4" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="6" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="7" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu317" restype="x-paragraph">
 <source xml:lang="en-US">Contributor Growth</source>
-<target xml:lang="ja-JP">貢献者の成長</target>
+<target xml:lang="ja-JP">コントリビューターの伸び</target>
 </trans-unit>
 <trans-unit id="tu319" restype="x-alt">
 <source xml:lang="en-US">Chart showing upward trend of Contributors growth</source>
-<target xml:lang="ja-JP">寄稿者数の増加傾向を示すグラフ</target>
+<target xml:lang="ja-JP">コントリビューターの増加傾向チャート</target>
 </trans-unit>
 <trans-unit id="tu318">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp470]"/></source>
@@ -1280,15 +1280,15 @@
 </trans-unit>
 <trans-unit id="tu320">
 <source xml:lang="en-US">Contributors</source>
-<target xml:lang="ja-JP">寄稿者</target>
+<target xml:lang="ja-JP">コントリビュータ</target>
 </trans-unit>
 <trans-unit id="tu321" restype="x-paragraph">
 <source xml:lang="en-US">Member, End User &amp; Project Growth</source>
-<target xml:lang="ja-JP">メンバー、エンドユーザー、プロジェクトの成長</target>
+<target xml:lang="ja-JP">メンバー、エンドユーザー、プロジェクトの伸び</target>
 </trans-unit>
 <trans-unit id="tu323" restype="x-alt">
 <source xml:lang="en-US">Chart showing upward trend of Members, End User and Project growth</source>
-<target xml:lang="ja-JP">メンバー、エンドユーザー、プロジェクトの成長の上昇傾向を示すグラフ</target>
+<target xml:lang="ja-JP">メンバー、エンドユーザー、プロジェクトの増加傾向チャート</target>
 </trans-unit>
 <trans-unit id="tu322">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp475]"/></source>
@@ -1300,11 +1300,11 @@
 </trans-unit>
 <trans-unit id="tu325">
 <source xml:lang="en-US">End Users</source>
-<target xml:lang="ja-JP">利用者</target>
+<target xml:lang="ja-JP">エンドユーザー</target>
 </trans-unit>
 <trans-unit id="tu326">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">プロジェクト（Project）</target>
+<target xml:lang="ja-JP">プロジェクト</target>
 </trans-unit>
 <trans-unit id="tu327" restype="x-h2">
 <source xml:lang="en-US">Membership</source>
@@ -1312,11 +1312,12 @@
 </trans-unit>
 <trans-unit id="tu328" restype="x-paragraph">
 <source xml:lang="en-US">The CNCF ecosystem continues to grow across vendor and end user memberships, making CNCF one of the most successful open source foundations ever. In fact, we welcomed more than 220 new members to CNCF this year.<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/>Today, CNCF has over 850 participating organizations, including the world's largest public and private cloud companies, along with the world's most innovative software companies and end user organizations. Investment from these leading organizations signifies a strong dedication to the advancement and sustainability of cloud native computing for years to come.</source>
-<target xml:lang="ja-JP">CNCF エコシステムは、ベンダーとエンド ユーザーのメンバーシップ全体で成長を続けており、CNCF はこれまでで最も成功したオープン ソース財団の 1 つになっています。実際、今年は 220 を超える新しいメンバーを CNCF に迎えました。現在、CNCF には、世界最大のパブリックおよびプライベート クラウド企業、世界で最も革新的なソフトウェア企業およびエンド ユーザー組織を含む 850 を超える組織が参加しています。これらの主要な組織からの投資は、今後数年間、クラウド ネイティブ コンピューティングの進歩と持続可能性に力を注ぐことを意味します。<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">CNCFのエコシステムは、CNCFをこれまで最も成功したオープンソースの財団の1つにたらしめながらベンダーやエンドユーザーのメンバーシップといった境界を超えた成長を続けています。　
+その証左としてこの年 220 を越える新メンバーたちを CNCF に迎え入れました。現在、CNCF には、世界最大のパブリックおよびプライベート クラウドの企業、世界最高レベルのイノベーティブなソフトウェア企業およびエンドユーザー組織を含めた 850 を超える組織が参加しています。こういった先進的な組織からの投資は、むこう数年のクラウドネイティブ コンピューティングの進展や持続可能性に対する強力な献身を意味します。<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu330" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
-<target xml:lang="ja-JP">メンバー アイコン</target>
+<target xml:lang="ja-JP">Members icon</target>
 </trans-unit>
 <trans-unit id="tu329">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp484]"/></source>
@@ -1324,11 +1325,11 @@
 </trans-unit>
 <trans-unit id="tu331">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">220+ new members</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> 19 new members from China</source>
-<target xml:lang="ja-JP">220 名以上の新規メンバー 中国からの 19 名の新規メンバー<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">220 以上の新メンバー うち 19 は中国からは<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu333" restype="x-alt">
 <source xml:lang="en-US">Building icon</source>
-<target xml:lang="ja-JP">建物のアイコン</target>
+<target xml:lang="ja-JP">Building icon</target>
 </trans-unit>
 <trans-unit id="tu332">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp487]"/></source>
@@ -1336,15 +1337,15 @@
 </trans-unit>
 <trans-unit id="tu334">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">853 member <x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/>organizations</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/> 15% growth from 2021</source>
-<target xml:lang="ja-JP">853 のメンバー組織 2021 年から 15% の成長<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">853 のメンバー組織 2021 年から 15% の伸び<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu335" restype="x-paragraph">
 <source xml:lang="en-US">CNCF Membership Growth</source>
-<target xml:lang="ja-JP">CNCF会員数の増加</target>
+<target xml:lang="ja-JP">CNCF メンバシップの増加</target>
 </trans-unit>
 <trans-unit id="tu337" restype="x-alt">
 <source xml:lang="en-US">Chart showing CNCF Membership growth with a rising trend line.</source>
-<target xml:lang="ja-JP">CNCF メンバーシップの成長と上昇傾向線を示すグラフ。</target>
+<target xml:lang="ja-JP">CNCF メンバーシップの増加傾向のチャート</target>
 </trans-unit>
 <trans-unit id="tu336">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp492]"/></source>
@@ -1352,7 +1353,7 @@
 </trans-unit>
 <trans-unit id="tu339" restype="x-alt">
 <source xml:lang="en-US">A 15% increase of membership growth compared to 2021</source>
-<target xml:lang="ja-JP">2021 年と比較して会員数が 15% 増加</target>
+<target xml:lang="ja-JP">2021 年と比較してメンバー数が 15% 増加</target>
 </trans-unit>
 <trans-unit id="tu338">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp494]"/></source>
@@ -1360,7 +1361,7 @@
 </trans-unit>
 <trans-unit id="tu340" restype="x-paragraph">
 <source xml:lang="en-US">Organizations that sell cloud native technologies built on, or integrated with, CNCF projects are eligible to join as general members.</source>
-<target xml:lang="ja-JP">CNCF プロジェクトに基づいて構築された、または CNCF プロジェクトと統合されたクラウド ネイティブ テクノロジを販売する組織は、一般メンバーとして参加する資格があります。</target>
+<target xml:lang="ja-JP">CNCFのプロジェクト上で構築されたり CNCF プロジェクトとインテグレーションされたりしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（Genral member）として参加する資格があります。</target>
 </trans-unit>
 <trans-unit id="tu342" restype="x-title">
 <source xml:lang="en-US">Become a CNCFMember</source>
@@ -1368,19 +1369,19 @@
 </trans-unit>
 <trans-unit id="tu341">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp498]">Become a CNCF Member</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp498]">CNCF会員になる</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp498]">CNCF メンバーになる</g></target>
 </trans-unit>
 <trans-unit id="tu343" restype="x-paragraph">
 <source xml:lang="en-US">Member Movers and Shakers</source>
-<target xml:lang="ja-JP">メンバーのムーバーとシェイカー</target>
+<target xml:lang="ja-JP">立役者となったメンバー</target>
 </trans-unit>
 <trans-unit id="tu344" restype="x-paragraph">
 <source xml:lang="en-US">New Gold Members</source>
-<target xml:lang="ja-JP">新規ゴールド会員</target>
+<target xml:lang="ja-JP">新たなゴールドメンバー（Gole Member）</target>
 </trans-unit>
 <trans-unit id="tu346" restype="x-alt">
 <source xml:lang="en-US">Cecloud Logo</source>
-<target xml:lang="ja-JP">セクラウド ロゴ</target>
+<target xml:lang="ja-JP">Cecloud Logo</target>
 </trans-unit>
 <trans-unit id="tu345">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp504]"/></source>
@@ -1388,7 +1389,7 @@
 </trans-unit>
 <trans-unit id="tu348" restype="x-alt">
 <source xml:lang="en-US">China Telecom Logo</source>
-<target xml:lang="ja-JP">チャイナテレコム ロゴ</target>
+<target xml:lang="ja-JP">China Telecom Logo</target>
 </trans-unit>
 <trans-unit id="tu347">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp506]"/></source>
@@ -1396,7 +1397,7 @@
 </trans-unit>
 <trans-unit id="tu350" restype="x-alt">
 <source xml:lang="en-US">Coinbase Logo</source>
-<target xml:lang="ja-JP">コインベース ロゴ</target>
+<target xml:lang="ja-JP">Coinbase Logo</target>
 </trans-unit>
 <trans-unit id="tu349">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp508]"/></source>
@@ -1404,7 +1405,7 @@
 </trans-unit>
 <trans-unit id="tu352" restype="x-alt">
 <source xml:lang="en-US">Oppo Logo</source>
-<target xml:lang="ja-JP">Oppo ロゴ</target>
+<target xml:lang="ja-JP">Oppo Logo</target>
 </trans-unit>
 <trans-unit id="tu351">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp510]"/></source>
@@ -1412,7 +1413,7 @@
 </trans-unit>
 <trans-unit id="tu354" restype="x-alt">
 <source xml:lang="en-US">iSoftStone Logo</source>
-<target xml:lang="ja-JP">iSoftStone ロゴ</target>
+<target xml:lang="ja-JP">iSoftStone Logo</target>
 </trans-unit>
 <trans-unit id="tu353">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp512]"/></source>
@@ -1420,11 +1421,11 @@
 </trans-unit>
 <trans-unit id="tu355" restype="x-paragraph">
 <source xml:lang="en-US">New Platinum Members</source>
-<target xml:lang="ja-JP">新規プラチナ会員</target>
+<target xml:lang="ja-JP">新たなプラチナメンバー</target>
 </trans-unit>
 <trans-unit id="tu357" restype="x-alt">
 <source xml:lang="en-US">Boeing Logo</source>
-<target xml:lang="ja-JP">ボーイングのロゴ</target>
+<target xml:lang="ja-JP">Boeing Logo</target>
 </trans-unit>
 <trans-unit id="tu356">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp516]"/></source>
@@ -1432,7 +1433,7 @@
 </trans-unit>
 <trans-unit id="tu359" restype="x-alt">
 <source xml:lang="en-US">Audience at KubeCon + CloudNativeCon North America 2022</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の聴衆</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 参加の聴衆のみなさん</target>
 </trans-unit>
 <trans-unit id="tu358">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp518]"/></source>
@@ -1440,27 +1441,27 @@
 </trans-unit>
 <trans-unit id="tu360" restype="x-paragraph">
 <source xml:lang="en-US">The cloud native ecosystem is getting bigger and better; end users' trust in open source is steering it forward!</source>
-<target xml:lang="ja-JP">クラウド ネイティブのエコシステムはますます大きくなり、より良くなっています。オープン ソースに対するエンド ユーザーの信頼が、それを前進させています。</target>
+<target xml:lang="ja-JP">クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープン ソースに対するエンド ユーザーの信頼が、それを前進させてくれているのです。</target>
 </trans-unit>
 <trans-unit id="tu361" restype="x-paragraph">
 <source xml:lang="en-US">Aparna Subramanian</source>
-<target xml:lang="ja-JP">アパルナ・サブラマニアン</target>
+<target xml:lang="ja-JP">Aparna Subramanian</target>
 </trans-unit>
 <trans-unit id="tu362" restype="x-paragraph">
 <source xml:lang="en-US">Director of Production Engineering, Shopify</source>
-<target xml:lang="ja-JP">Shopify、プロダクション エンジニアリング ディレクター</target>
+<target xml:lang="ja-JP">Director of Production Engineering, Shopify</target>
 </trans-unit>
 <trans-unit id="tu363" restype="x-h2">
 <source xml:lang="en-US">End User Community</source>
-<target xml:lang="ja-JP">エンド ユーザー コミュニティ</target>
+<target xml:lang="ja-JP">エンドユーザー コミュニティ</target>
 </trans-unit>
 <trans-unit id="tu364" restype="x-paragraph">
 <source xml:lang="en-US">End Users within the Cloud Native Computing Foundation (CNCF) are member companies that use cloud native technologies internally, do not sell any cloud native services externally, and aren't vendors, consultancies, training partners, or telecommunications companies.<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/>Individuals within end user companies are passionate about solving problems using cloud native architectures and providing teams with self-service solutions which create a more inclusive, iterative process.</source>
-<target xml:lang="ja-JP">Cloud Native Computing Foundation (CNCF) 内のエンド ユーザーは、クラウド ネイティブ テクノロジを内部で使用し、クラウド ネイティブ サービスを外部に販売しないメンバー企業であり、ベンダー、コンサルタント会社、トレーニング パートナー、または電気通信会社ではありません。エンド ユーザー企業内の個人クラウド ネイティブ アーキテクチャを使用して問題を解決し、より包括的で反復的なプロセスを作成するセルフサービス ソリューションをチームに提供することに情熱を持っています。<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">Cloud Native Computing Foundation （CNCF） のエンド ユーザー企業とは、クラウド ネイティブ テクノロジを社内で活用していて、クラウド ネイティブ サービスを外部向けに販売していないメンバー企業のことです。ベンダー、コンサルタント企業、トレーニング パートナー、またはテレコムキャリアといった企業はこれにあたりません。エンド ユーザー企業では、一人ひとりがクラウド ネイティブ アーキテクチャを駆使し問題を解決すること、より包括的で繰り返し活用できるプロセスを生み出す、セルフサービス型のソリューションをチームに提供することに情熱を注いでいるのです。<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu366" restype="x-alt">
 <source xml:lang="en-US">Like icon</source>
-<target xml:lang="ja-JP">アイコンのように</target>
+<target xml:lang="ja-JP">Like icon</target>
 </trans-unit>
 <trans-unit id="tu365">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp530]"/></source>
@@ -1468,15 +1469,15 @@
 </trans-unit>
 <trans-unit id="tu368" restype="x-title">
 <source xml:lang="en-US">See End User Sruvey results</source>
-<target xml:lang="ja-JP">End User Sruveyの結果を見る</target>
+<target xml:lang="ja-JP">エンドユーザーサーベイの結果を見る</target>
 </trans-unit>
 <trans-unit id="tu367">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">100%</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> would recommend CNCF to other companies (<g id="3" ctype="link" equiv-text="[#$dp532]"> 2022 End User survey </g>)</source>
-<target xml:lang="ja-JP">100% が CNCF を他の企業に勧める (2022 年のエンドユーザー調査)<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="link" equiv-text="[#$dp532]"></g></target>
+<target xml:lang="ja-JP">100% が CNCF を他社にも勧めたい (2022 年エンドユーザー サーベイ)<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="link" equiv-text="[#$dp532]"></g></target>
 </trans-unit>
 <trans-unit id="tu370" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
-<target xml:lang="ja-JP">メンバー アイコン</target>
+<target xml:lang="ja-JP">Members icon</target>
 </trans-unit>
 <trans-unit id="tu369">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp534]"/></source>
@@ -1484,11 +1485,11 @@
 </trans-unit>
 <trans-unit id="tu371">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">170</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> End User Members</source>
-<target xml:lang="ja-JP">170エンドユーザー会員<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">170のエンドユーザー メンバー<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu373" restype="x-alt">
 <source xml:lang="en-US">We were thrilled to grant Mercedes-Benz and Intuit our Top End User Awards this year, in recognition of their notable contributions to the cloud native ecosystem.</source>
-<target xml:lang="ja-JP">クラウド ネイティブ エコシステムへの顕著な貢献が認められ、メルセデス ベンツと Intuit に今年のトップ エンド ユーザー アワードを授与できたことを嬉しく思います。</target>
+<target xml:lang="ja-JP">クラウド ネイティブのエコシステムに対する著しい貢献が認められ、メルセデス ベンツと Intuit に今年のトップ エンドユーザー アワードを授与できたことを嬉しく思います。</target>
 </trans-unit>
 <trans-unit id="tu372">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp537]"/></source>
@@ -1676,7 +1677,7 @@
 </trans-unit>
 <trans-unit id="tu420" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
-<target xml:lang="ja-JP">メンバー アイコン</target>
+<target xml:lang="ja-JP">Members icon</target>
 </trans-unit>
 <trans-unit id="tu419">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp610]"/></source>
@@ -2644,7 +2645,7 @@
 </trans-unit>
 <trans-unit id="tu662" restype="x-alt">
 <source xml:lang="en-US">Building icon</source>
-<target xml:lang="ja-JP">建物のアイコン</target>
+<target xml:lang="ja-JP">Building icon</target>
 </trans-unit>
 <trans-unit id="tu661">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp956]"/></source>
@@ -3832,7 +3833,7 @@
 </trans-unit>
 <trans-unit id="tu958" resname="menu-item-71679-id" restype="x-li">
 <source xml:lang="en-US">Projects</source>
-<target xml:lang="ja-JP">プロジェクト（Project）</target>
+<target xml:lang="ja-JP">プロジェクト</target>
 </trans-unit>
 <trans-unit id="tu959" resname="menu-item-71680-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1374]">Contribute</g></source>
@@ -3932,7 +3933,7 @@
 </trans-unit>
 <trans-unit id="tu983" resname="menu-item-71698-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1444]">End User Community</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1444]">エンド ユーザー コミュニティ</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp1444]">エンドユーザー コミュニティ</g></target>
 </trans-unit>
 <trans-unit id="tu984" resname="menu-item-71699-id" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp1447]">Events We’ll Be At</g></source>

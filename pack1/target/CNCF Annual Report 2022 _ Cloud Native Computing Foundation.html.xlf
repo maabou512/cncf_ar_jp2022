@@ -1613,7 +1613,7 @@
 </trans-unit>
 <trans-unit id="tu403" restype="x-paragraph">
 <source xml:lang="en-US">Having seen what KubeCon has to offer, I'm sorry I missed every previous KubeCon since (they began in) 2015. For a veteran cloud blogger, this conference is a peek into the future of distributed development.</source>
-<target xml:lang="ja-JP">KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来をのぞき込む、隙間みたいな場です。</target>
+<target xml:lang="ja-JP">KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来をのぞき込む、隙間みたいな場なのです。</target>
 </trans-unit>
 <trans-unit id="tu404" restype="x-paragraph">
 <source xml:lang="en-US">Ofir Nachmani</source>
@@ -1713,31 +1713,31 @@
 </trans-unit>
 <trans-unit id="tu428" restype="x-paragraph">
 <source xml:lang="en-US">We also implemented additional measures to help support our KCD communities and organizers to ensure program success:</source>
-<target xml:lang="ja-JP">また、プログラムの成功を確実にするために、KCD コミュニティと主催者をサポートするための追加の対策を実施しました。</target>
+<target xml:lang="ja-JP">また、プログラムの成功に向け、KCD コミュニティや主催者をサポートする、さらなる施策を行いました。</target>
 </trans-unit>
 <trans-unit id="tu429" restype="x-li">
 <source xml:lang="en-US">Our organizer terms and conditions in the KCD GitHub repository were updated to include new provisions in addition to the pre-existing requirement of organizers to take the <g id="1" ctype="link" equiv-text="[#$dp622]">Inclusive Open Source Community Orientation</g>. The new terms are as follows:</source>
-<target xml:lang="ja-JP">KCD GitHub リポジトリのオーガナイザー利用規約が更新され、インクルーシブ オープン ソース コミュニティ オリエンテーションを受講するというオーガナイザーの既存の要件に加えて、新しい条項が追加されました。新しい用語は次のとおりです。<g id="1" ctype="link" equiv-text="[#$dp622]"></g></target>
+<target xml:lang="ja-JP">KCD GitHub リポジトリの主催者（オーガナイザー）側の利用規約が更新され、オーガナイザーの既存の要件としての「オープンソースのインクルーシブなコミュニティ オリエンテーション」の受講に加え、新たな条項が追加されました。新しい条項は次のとおりです。<g id="1" ctype="link" equiv-text="[#$dp622]"></g></target>
 </trans-unit>
 <trans-unit id="tu430" restype="x-li">
 <source xml:lang="en-US">Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or age)</source>
-<target xml:lang="ja-JP">最終的なプログラム スケジュールが多様であることを確認することに同意します (たとえば、すべてのスピーカーが 1 つの性別、1 つの文化、または年齢であるとは限りません)。</target>
+<target xml:lang="ja-JP">最終的なプログラム スケジュールが多様なものとなることについて同意すること（たとえば、すべてのスピーカーが 1 つの性別、単一の文化、または年齢層となっていないこと、など)</target>
 </trans-unit>
 <trans-unit id="tu431" restype="x-li">
 <source xml:lang="en-US">To assure a diverse lineup, you must send a copy of your program to <g id="1" ctype="link" equiv-text="[#$dp626]">kcd@cncf.io</g> for review and approval before publication.</source>
-<target xml:lang="ja-JP">多様なラインナップを確保するために、公開前にレビューと承認を受けるために、プログラムのコピーを kcd@cncf.io に送信する必要があります。<g id="1" ctype="link" equiv-text="[#$dp626]"></g></target>
+<target xml:lang="ja-JP">多様なラインナップが確保されるよう、プログラムの公開前に kcd@cncf.io に送信しレビューの実施と承認を得ること<g id="1" ctype="link" equiv-text="[#$dp626]"></g></target>
 </trans-unit>
 <trans-unit id="tu432" restype="x-li">
 <source xml:lang="en-US">Organizers will ensure the speaker lineup is diverse in terms of companies represented.</source>
-<target xml:lang="ja-JP">主催者は、講演者のラインナップが代表する企業の点で多様であることを保証します。</target>
+<target xml:lang="ja-JP">主催者側は、スピーカーのラインナップとして企業の代表者が（偏らず）多様であることを確実にすること</target>
 </trans-unit>
 <trans-unit id="tu433" restype="x-li">
 <source xml:lang="en-US">We encourage KCD organizers to consider and include talks that are non-technical and non-code contributions.</source>
-<target xml:lang="ja-JP">KCD の主催者は、非技術的かつ非コード的な貢献である講演を検討し、含めることをお勧めします。</target>
+<target xml:lang="ja-JP">私たちはKCD の主催者に対し、コードではなく技術的ではないコントリビューションのセッションを考慮し、含めることを推奨しています</target>
 </trans-unit>
 <trans-unit id="tu434" restype="x-li">
 <source xml:lang="en-US">In July, we started hosting a one-hour monthly organizer meeting with topics to help guide organizers during their planning process. August's topic was “How to Curate a Diverse Lineup.” This meeting featured resources and recommendations for organizers on how to build and recruit diversity within their schedules. <g id="1" ctype="link" equiv-text="[#$dp635]">We provide slides</g>, as well as <g id="2" ctype="link" equiv-text="[#$dp636]">recording the session</g>.</source>
-<target xml:lang="ja-JP">7 月に、計画プロセス中に主催者をガイドするのに役立つトピックを含む、1 時間の毎月の主催者会議の開催を開始しました。8月のテーマは「多様なラインナップをキュレートする方法」。この会議では、スケジュール内で多様性を構築し、採用する方法について、主催者向けのリソースと推奨事項が取り上げられました。スライドを提供し、セッションを記録します。<g id="1" ctype="link" equiv-text="[#$dp635]"></g><g id="2" ctype="link" equiv-text="[#$dp636]"></g></target>
+<target xml:lang="ja-JP">私たちは7 月、計画段階での主催者へのガイドとなるトピックを含む、毎月1 時間のオーガナイザーミーティングをはじめました。8月のテーマは「どのようにして多様なラインナップをキュレーションするか？」でした。このミーティングでは、主催者向けに、限られたスケジュールの中でどう多様性を築き、取り込んでいくか、必要となるリソースや推奨事項について取り上げました。ここで私たちはスライドを提供し、セッションを記録します。<g id="1" ctype="link" equiv-text="[#$dp635]"></g><g id="2" ctype="link" equiv-text="[#$dp636]"></g></target>
 </trans-unit>
 <trans-unit id="tu435" restype="x-h2">
 <source xml:lang="en-US">Code of Conduct <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Process Improvements</source>

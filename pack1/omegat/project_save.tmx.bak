@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>14</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081809Z" creationid="tani" creationdate="20230114T081809Z">
+        <seg>14カ国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>14% Increase</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T112312Z" creationid="tani" creationdate="20230104T112312Z">
@@ -96,8 +104,8 @@
       <tuv lang="en-US">
         <seg>16</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20220429T035451Z" creationid="tani" creationdate="20220124T101454Z">
-        <seg>16</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081610Z" creationid="tani" creationdate="20220124T101454Z">
+        <seg>16回</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +440,8 @@
       <tuv lang="en-US">
         <seg>An increase of 33% from 2021</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222711Z" creationid="tani" creationdate="20230104T111900Z">
-        <seg>2021 年から 33% の増加</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081651Z" creationid="tani" creationdate="20230104T111900Z">
+        <seg>2021 年から 33% 増加</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +544,8 @@
       <tuv lang="en-US">
         <seg>At the same time, CNCF continued to double down on digital, offering virtual access to all our major events to provide opportunities for collaboration, learning, and networking from every corner of the globe.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222656Z" creationid="tani" creationdate="20230104T104758Z">
-        <seg>同時に、CNCF は引き続きデジタルを強化し、すべての主要なイベントへの仮想アクセスを提供して、世界中のあらゆる場所からのコラボレーション、学習、ネットワーキングの機会を提供しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081015Z" creationid="tani" creationdate="20230104T104758Z">
+        <seg>それと同時に、CNCF は引き続きデジタル化を強化し、世界中のあらゆる場所からのコラボレーション、学習、ネットワーキングの機会を提供するべく、すべての主要イベントへの仮想のアクセスを可能にしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1432,8 @@
       <tuv lang="en-US">
         <seg>Countries Across the globe</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222729Z" creationid="tani" creationdate="20230104T104832Z">
-        <seg>世界中の国</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081820Z" creationid="tani" creationdate="20230104T104832Z">
+        <seg>世界中から</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1648,8 @@
       <tuv lang="en-US">
         <seg>Events</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111729Z" creationid="tani" creationdate="20220124T101401Z">
-        <seg>イベント（Event）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062222Z" creationid="tani" creationdate="20220124T101401Z">
+        <seg>イベント</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,8 +1784,8 @@
       <tuv lang="en-US">
         <seg>For a veteran cloud blogger, this conference is a peek into the future of distributed development.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222645Z" creationid="tani" creationdate="20230104T111837Z">
-        <seg>ベテランのクラウド ブロガーにとって、このカンファレンスは分散型開発の未来を垣間見るものです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T075821Z" creationid="tani" creationdate="20230104T111837Z">
+        <seg>ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来をのぞき込む、隙間みたいな場です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,14 +1886,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Globe icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222725Z" creationid="tani" creationdate="20230104T104827Z">
-        <seg>地球儀のアイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Go to top</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T224647Z" creationid="tani" creationdate="20230104T110749Z">
@@ -1952,8 +1952,8 @@
       <tuv lang="en-US">
         <seg>Having seen what KubeCon has to offer, I'm sorry I missed every previous KubeCon since (they began in) 2015.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222643Z" creationid="tani" creationdate="20230104T104745Z">
-        <seg>KubeCon が提供するものを見てきましたが、2015 年 (開始) 以来、以前の KubeCon をすべて見逃してしまったことを残念に思います。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T075508Z" creationid="tani" creationdate="20230104T104745Z">
+        <seg>KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="en-US">
         <seg>Humans Of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055251Z" creationid="tani" creationdate="20230104T104719Z">
-        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062923Z" creationid="tani" creationdate="20230104T104719Z">
+        <seg>「クラウド ネイティブ」な人たち（Humans of Cloud Native）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,14 +2006,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>IamOnDemand</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222649Z" creationid="tani" creationdate="20230104T222649Z">
-        <seg>アイアムオンデマンド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Importantly, we continued to sharpen focus on our DEI initiatives, ensuring that the ecosystem is a welcoming place where everybody can thrive.</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223753Z" creationid="tani" creationdate="20230104T112858Z">
@@ -2024,8 +2016,8 @@
       <tuv lang="en-US">
         <seg>Importantly, we're doubling down on accessibility - following the Web Content Accessibility Guidelines (WCAG) 2.1 and aiming for Level AA accessibility on CNCF.io.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230114T053935Z" creationid="tani" creationdate="20230104T111821Z">
-        <seg>重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062900Z" creationid="tani" creationdate="20230104T111821Z">
+        <seg>重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2128,8 +2120,8 @@
       <tuv lang="en-US">
         <seg>In response to the cloud native community's evolving needs in different regions, CNCF strengthened the Kubernetes Community Days (KCD) program this year.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222700Z" creationid="tani" creationdate="20230104T111849Z">
-        <seg>さまざまな地域で進化するクラウド ネイティブ コミュニティのニーズに応えて、CNCF は今年、Kubernetes Community Days (KCD) プログラムを強化しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081235Z" creationid="tani" creationdate="20230104T111849Z">
+        <seg>地域ごとに進化するクラウド ネイティブ コミュニティのニーズに応えて、今年CNCF は Kubernetes Community Days （KCD） プログラムを強化しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,16 +2352,16 @@
       <tuv lang="en-US">
         <seg>KCDs In-person, virtual and hybrid</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222709Z" creationid="tani" creationdate="20230104T111857Z">
-        <seg>KCD 対面、仮想、およびハイブリッド</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081641Z" creationid="tani" creationdate="20230114T081600Z">
+        <seg>のKCDを開催 対面、バーチャル、およびハイブリッドで</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>KCDs are community-organized events that gather adopters and technologists to learn, collaborate, and network, with a goal of furthering the adoption and improvement of Kubernetes and cloud native technologies around the world.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222703Z" creationid="tani" creationdate="20230104T111853Z">
-        <seg>KCD は、世界中で Kubernetes とクラウド ネイティブ テクノロジの採用と改善を促進することを目的として、採用者とテクノロジストを集めて学習、コラボレーション、ネットワークを構築するコミュニティ主催のイベントです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081519Z" creationid="tani" creationdate="20230104T111853Z">
+        <seg>KCD は、世界中で Kubernetes やクラウド ネイティブ テクノロジの採用と改善を促進することを目的とした、採用する側と技術者を集めて学び、コラボレートし、ネットワークを構築する、コミュニティ主催のイベントです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2466,14 +2458,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223232Z" creationid="tani" creationdate="20230104T105335Z">
         <seg>Kubernetes Certified Service Provider (KCSP) プログラムが 254 社に拡大</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Kubernetes Community Days</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222658Z" creationid="tani" creationdate="20230104T104801Z">
-        <seg>Kubernetes コミュニティ デイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,14 +2694,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Megaphone icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222714Z" creationid="tani" creationdate="20230104T104951Z">
-        <seg>メガホン アイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Member Movers and Shakers</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230113T013449Z" creationid="tani" creationdate="20230104T111633Z">
@@ -2840,8 +2816,8 @@
       <tuv lang="en-US">
         <seg>Nominate them for the Humans of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062157Z" creationid="tani" creationdate="20230104T104734Z">
-        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）にノミネートする</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062849Z" creationid="tani" creationdate="20230104T104734Z">
+        <seg>Humans of Cloud Native　にノミネートする</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,14 +2850,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222838Z" creationid="tani" creationdate="20230104T112007Z">
         <seg>出席者のうち 7,084 人 (38%) が対面で、11,466 人 (62%) がオンラインでした。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Ofir Nachmani</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222647Z" creationid="tani" creationdate="20230104T104750Z">
-        <seg>オフィル・ナフマニ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3072,8 +3040,8 @@
       <tuv lang="en-US">
         <seg>Presentations in multiple languages</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222716Z" creationid="tani" creationdate="20230104T104818Z">
-        <seg>多言語でのプレゼンテーション</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T081730Z" creationid="tani" creationdate="20230104T104818Z">
+        <seg>プレゼンテーション　多言語による</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,8 +3432,8 @@
       <tuv lang="en-US">
         <seg>Some of the crowd at KubeCon + CloudNativeCon North America 2022</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222651Z" creationid="tani" creationdate="20230104T104754Z">
-        <seg>KubeCon + CloudNativeCon North America 2022 の参加者の一部</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T080124Z" creationid="tani" creationdate="20230104T104754Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の参加者たち</seg>
       </tuv>
     </tu>
     <tu>
@@ -3865,8 +3833,8 @@
       <tuv lang="en-US">
         <seg>This year we welcomed our community safely back to in-person events.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222654Z" creationid="tani" creationdate="20230104T104756Z">
-        <seg>今年は、私たちのコミュニティが対面式のイベントに安全に戻ることを歓迎しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T080434Z" creationid="tani" creationdate="20230104T104756Z">
+        <seg>今年、私たちのコミュニティは対面式のイベントに安全に戻ることができ、私たちはこのことを歓迎しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4097,8 +4065,8 @@
       <tuv lang="en-US">
         <seg>View Humans of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055404Z" creationid="tani" creationdate="20230104T104721Z">
-        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）を読む</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062927Z" creationid="tani" creationdate="20230104T104721Z">
+        <seg>「クラウド ネイティブ」な人たち（Humans of Cloud Native）を読む</seg>
       </tuv>
     </tu>
     <tu>

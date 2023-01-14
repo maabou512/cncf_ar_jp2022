@@ -82,17 +82,6 @@
        y="207.11884"
        id="tspan83"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64px;font-family:'M+ 1c';-inkscape-font-specification:'M+ 1c Heavy';text-align:center;letter-spacing:17.60998726px;text-anchor:middle;fill:#0f0b47;fill-opacity:1">レポート</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'M+ 1c';-inkscape-font-specification:'M+ 1c';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     x="407.91727"
-     y="62.743736"
-     id="text911"><tspan
-       sodipodi:role="line"
-       x="407.91727"
-       y="62.743736"
-       id="tspan913"
-       style="font-size:21.33333397px;text-align:start;text-anchor:start">築いてゆく</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot927"
@@ -106,12 +95,12 @@
        id="flowPara933"></flowPara></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'M+ 1c';-inkscape-font-specification:'M+ 1c';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     x="397.51059"
-     y="241.63921"
+     x="358.68118"
+     y="58.732174"
      id="text911-4"><tspan
        sodipodi:role="line"
-       x="397.51059"
-       y="241.63921"
+       x="358.68118"
+       y="58.732174"
        id="tspan913-7"
-       style="font-size:21.33333397px;text-align:start;text-anchor:start">道のむこうへ</tspan></text>
+       style="font-size:21.33333397px;text-align:start;text-anchor:start">道のむこうへ  築いていく</tspan></text>
 </svg>

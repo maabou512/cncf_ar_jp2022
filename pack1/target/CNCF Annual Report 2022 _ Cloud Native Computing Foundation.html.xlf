@@ -1557,7 +1557,7 @@
 </trans-unit>
 <trans-unit id="tu389" restype="x-paragraph">
 <source xml:lang="en-US">In May we launched the redesigned and rebuilt <g id="1" ctype="link" equiv-text="[#$dp564]">CNCF.io</g>. The site increases focus on representing the community in more effective, vibrant, and interactive ways. It provides additional areas to share CNCF and End User content, events, news, and blog articles. It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout. Importantly, we're doubling down on accessibility - following the <g id="2" ctype="link" equiv-text="[#$dp565]">Web Content Accessibility Guidelines (WCAG) 2.1</g> and aiming for Level AA accessibility on CNCF.io. Throughout the year we rolled out the new design to CNCF subsites, including <g id="3" ctype="link" equiv-text="[#$dp566]">Contributors</g>, as well as applying WCAG guidelines to all of our sites.</source>
-<target xml:lang="ja-JP">5月、デザイン新たに再構築された、CNCF.io がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。この1年を通し「コントリビューター（Contributor）」を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
+<target xml:lang="ja-JP">5月、デザイン新たに再構築された、CNCF.io がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。この1年を通し「コントリビューター（Contributor）」を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
 </trans-unit>
 <trans-unit id="tu391" restype="x-alt">
 <source xml:lang="en-US">The CNCF.io website on various websites</source>
@@ -1569,11 +1569,11 @@
 </trans-unit>
 <trans-unit id="tu392" restype="x-paragraph">
 <source xml:lang="en-US">Humans Of Cloud Native</source>
-<target xml:lang="ja-JP">「クラウド ネイティブ」の人たち（Humans of Cloud Native）</target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」な人たち（Humans of Cloud Native）</target>
 </trans-unit>
 <trans-unit id="tu394" restype="x-title">
 <source xml:lang="en-US">View Humans of Cloud Native</source>
-<target xml:lang="ja-JP">「クラウド ネイティブ」の人たち（Humans of Cloud Native）を読む</target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」な人たち（Humans of Cloud Native）を読む</target>
 </trans-unit>
 <trans-unit id="tu393" restype="x-paragraph">
 <source xml:lang="en-US">At the heart of CNCF is our welcoming community of doers, working together to make cloud native ubiquitous. This year we launched the <g id="1" ctype="link" equiv-text="[#$dp573]">Humans of Cloud Native</g> project to tell the stories of amazing individuals and their contributions that make team cloud native such a vibrant, exciting and diverse space.</source>
@@ -1593,7 +1593,7 @@
 </trans-unit>
 <trans-unit id="tu398" restype="x-paragraph">
 <source xml:lang="en-US">Do you know somebody doing incredible things in the cloud native ecosystem?<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">Nominate them for the Humans of Cloud Native</g></source>
-<target xml:lang="ja-JP">「クラウド ネイティブ」なエコシステムでスゴいことやってる人、ご存じですか?「クラウド ネイティブ」の人たち（Humans of Cloud Native）にノミネートする<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」なエコシステムでスゴいことやってる人、ご存じですか?Humans of Cloud Native　にノミネートする<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu400" restype="x-title">
 <source xml:lang="en-US">Send an email your nomination</source>
@@ -1613,19 +1613,19 @@
 </trans-unit>
 <trans-unit id="tu403" restype="x-paragraph">
 <source xml:lang="en-US">Having seen what KubeCon has to offer, I'm sorry I missed every previous KubeCon since (they began in) 2015. For a veteran cloud blogger, this conference is a peek into the future of distributed development.</source>
-<target xml:lang="ja-JP">KubeCon が提供するものを見てきましたが、2015 年 (開始) 以来、以前の KubeCon をすべて見逃してしまったことを残念に思います。ベテランのクラウド ブロガーにとって、このカンファレンスは分散型開発の未来を垣間見るものです。</target>
+<target xml:lang="ja-JP">KubeCon で提供されているものを見たら、2015 年 の始まりからの過去の KubeCon すべてを見逃してしまっていたことが残念でなりません。ベテランのクラウド ブロガーにとってこのカンファレンスは、分散型開発の未来をのぞき込む、隙間みたいな場です。</target>
 </trans-unit>
 <trans-unit id="tu404" restype="x-paragraph">
 <source xml:lang="en-US">Ofir Nachmani</source>
-<target xml:lang="ja-JP">オフィル・ナフマニ</target>
+<target xml:lang="ja-JP">Ofir Nachmani</target>
 </trans-unit>
 <trans-unit id="tu405" restype="x-paragraph">
 <source xml:lang="en-US">IamOnDemand</source>
-<target xml:lang="ja-JP">アイアムオンデマンド</target>
+<target xml:lang="ja-JP">IamOnDemand</target>
 </trans-unit>
 <trans-unit id="tu407" restype="x-alt">
 <source xml:lang="en-US">Some of the crowd at KubeCon + CloudNativeCon North America 2022</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の参加者の一部</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の参加者たち</target>
 </trans-unit>
 <trans-unit id="tu406">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp593]"/></source>
@@ -1633,15 +1633,15 @@
 </trans-unit>
 <trans-unit id="tu408" restype="x-paragraph">
 <source xml:lang="en-US">This year we welcomed our community safely back to in-person events. At the same time, CNCF continued to double down on digital, offering virtual access to all our major events to provide opportunities for collaboration, learning, and networking from every corner of the globe.</source>
-<target xml:lang="ja-JP">今年は、私たちのコミュニティが対面式のイベントに安全に戻ることを歓迎しました。同時に、CNCF は引き続きデジタルを強化し、すべての主要なイベントへの仮想アクセスを提供して、世界中のあらゆる場所からのコラボレーション、学習、ネットワーキングの機会を提供しました。</target>
+<target xml:lang="ja-JP">今年、私たちのコミュニティは対面式のイベントに安全に戻ることができ、私たちはこのことを歓迎しました。それと同時に、CNCF は引き続きデジタル化を強化し、世界中のあらゆる場所からのコラボレーション、学習、ネットワーキングの機会を提供するべく、すべての主要イベントへの仮想のアクセスを可能にしました。</target>
 </trans-unit>
 <trans-unit id="tu409" restype="x-h2">
 <source xml:lang="en-US">Kubernetes <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Community Days</source>
-<target xml:lang="ja-JP">Kubernetes コミュニティ デイ<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">Kubernetes <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Community Days</target>
 </trans-unit>
 <trans-unit id="tu410" restype="x-paragraph">
 <source xml:lang="en-US">In response to the cloud native community's evolving needs in different regions, CNCF strengthened the <g id="1" ctype="link" equiv-text="[#$dp599]">Kubernetes Community Days (KCD)</g> program this year. KCDs are community-organized events that gather adopters and technologists to learn, collaborate, and network, with a goal of furthering the adoption and improvement of Kubernetes and cloud native technologies around the world.</source>
-<target xml:lang="ja-JP">さまざまな地域で進化するクラウド ネイティブ コミュニティのニーズに応えて、CNCF は今年、Kubernetes Community Days (KCD) プログラムを強化しました。KCD は、世界中で Kubernetes とクラウド ネイティブ テクノロジの採用と改善を促進することを目的として、採用者とテクノロジストを集めて学習、コラボレーション、ネットワークを構築するコミュニティ主催のイベントです。<g id="1" ctype="link" equiv-text="[#$dp599]"></g></target>
+<target xml:lang="ja-JP">地域ごとに進化するクラウド ネイティブ コミュニティのニーズに応えて、今年CNCF は Kubernetes Community Days （KCD） プログラムを強化しました。KCD は、世界中で Kubernetes やクラウド ネイティブ テクノロジの採用と改善を促進することを目的とした、採用する側と技術者を集めて学び、コラボレートし、ネットワークを構築する、コミュニティ主催のイベントです。<g id="1" ctype="link" equiv-text="[#$dp599]"></g></target>
 </trans-unit>
 <trans-unit id="tu412" restype="x-alt">
 <source xml:lang="en-US">Lanyard icon</source>
@@ -1653,15 +1653,15 @@
 </trans-unit>
 <trans-unit id="tu413">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">16 KCDs</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> In-person, virtual and hybrid</source>
-<target xml:lang="ja-JP">16KCD 対面、仮想、およびハイブリッド<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">16回のKCDを開催 対面、バーチャル、およびハイブリッドで<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu414">
 <source xml:lang="en-US">An increase of <g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">33%</g> from 2021</source>
-<target xml:lang="ja-JP">2021 年から 33% の増加<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">2021 年から 33% 増加<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu416" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
-<target xml:lang="ja-JP">メガホン アイコン</target>
+<target xml:lang="ja-JP">Megaphone icon</target>
 </trans-unit>
 <trans-unit id="tu415">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp606]"/></source>
@@ -1669,7 +1669,7 @@
 </trans-unit>
 <trans-unit id="tu417">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Presentations</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> in multiple languages</source>
-<target xml:lang="ja-JP">多言語でのプレゼンテーション<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">プレゼンテーション　多言語による<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu418">
 <source xml:lang="en-US">(English, Slavic, Chinese, Spanish, Italian, <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>and Indonesian)</source>
@@ -1693,7 +1693,7 @@
 </trans-unit>
 <trans-unit id="tu424" restype="x-alt">
 <source xml:lang="en-US">Globe icon</source>
-<target xml:lang="ja-JP">地球儀のアイコン</target>
+<target xml:lang="ja-JP">Globe icon</target>
 </trans-unit>
 <trans-unit id="tu423">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp614]"/></source>
@@ -1701,7 +1701,7 @@
 </trans-unit>
 <trans-unit id="tu425">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">14 Countries</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Across the globe</source>
-<target xml:lang="ja-JP">14世界中の国<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">14カ国世界中から<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu426">
 <source xml:lang="en-US"> </source>
@@ -1709,7 +1709,7 @@
 </trans-unit>
 <trans-unit id="tu427" restype="x-paragraph">
 <source xml:lang="en-US">KCD Evolution</source>
-<target xml:lang="ja-JP">KCDエボリューション</target>
+<target xml:lang="ja-JP">KCD の進化</target>
 </trans-unit>
 <trans-unit id="tu428" restype="x-paragraph">
 <source xml:lang="en-US">We also implemented additional measures to help support our KCD communities and organizers to ensure program success:</source>
@@ -1809,7 +1809,7 @@
 </trans-unit>
 <trans-unit id="tu453" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
-<target xml:lang="ja-JP">メガホン アイコン</target>
+<target xml:lang="ja-JP">Megaphone icon</target>
 </trans-unit>
 <trans-unit id="tu452">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp670]"/></source>
@@ -2017,7 +2017,7 @@
 </trans-unit>
 <trans-unit id="tu505" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
-<target xml:lang="ja-JP">メガホン アイコン</target>
+<target xml:lang="ja-JP">Megaphone icon</target>
 </trans-unit>
 <trans-unit id="tu504">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp736]"/></source>
@@ -3413,7 +3413,7 @@
 </trans-unit>
 <trans-unit id="tu853" restype="x-paragraph">
 <source xml:lang="en-US">16</source>
-<target xml:lang="ja-JP">16</target>
+<target xml:lang="ja-JP">16回</target>
 </trans-unit>
 <trans-unit id="tu855" restype="x-alt">
 <source xml:lang="en-US">Logo of Google Summer of Code</source>

@@ -1325,7 +1325,7 @@
 </trans-unit>
 <trans-unit id="tu331">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">220+ new members</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> 19 new members from China</source>
-<target xml:lang="ja-JP">220 以上の新メンバー うち 19 は中国からは<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">220 以上の新メンバー　うち 19 は中国から<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu333" restype="x-alt">
 <source xml:lang="en-US">Building icon</source>
@@ -1337,7 +1337,7 @@
 </trans-unit>
 <trans-unit id="tu334">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">853 member <x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/>organizations</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/> 15% growth from 2021</source>
-<target xml:lang="ja-JP">853 のメンバー組織 2021 年から 15% の伸び<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">853 のメンバー組織　2021 年から 15% の伸び<g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu335" restype="x-paragraph">
 <source xml:lang="en-US">CNCF Membership Growth</source>
@@ -1361,7 +1361,7 @@
 </trans-unit>
 <trans-unit id="tu340" restype="x-paragraph">
 <source xml:lang="en-US">Organizations that sell cloud native technologies built on, or integrated with, CNCF projects are eligible to join as general members.</source>
-<target xml:lang="ja-JP">CNCFのプロジェクト上で構築されたり CNCF プロジェクトとインテグレーションされたりしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（Genral member）として参加する資格があります。</target>
+<target xml:lang="ja-JP">CNCFのプロジェクト上で構築されたり CNCF プロジェクトとインテグレーションされたりしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（General member）として参加する資格があります。</target>
 </trans-unit>
 <trans-unit id="tu342" restype="x-title">
 <source xml:lang="en-US">Become a CNCFMember</source>
@@ -1497,27 +1497,27 @@
 </trans-unit>
 <trans-unit id="tu374" restype="x-paragraph">
 <source xml:lang="en-US">CNCF has become an embodiment of the <g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">spirit of open source, the spirit of freedom</g> and choice, and at the same time has become synonymous with <g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">high quality cloud software</g>. Every time we have requirements to build software for our Cloud Infrastructure, <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">the first thing we do is go to the CNCF landscape</g> and evaluate the choices available.</source>
-<target xml:lang="ja-JP">CNCF は、オープン ソースの精神、自由と選択の精神を具現化すると同時に、高品質のクラウド ソフトウェアの代名詞にもなりました。クラウド インフラストラクチャ用のソフトウェアを構築するための要件があるたびに、最初に行うことは、CNCF ランドスケープにアクセスして、利用可能な選択肢を評価することです。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">CNCF は、オープン ソースの精神、自由と選択可能（Freedom and Choice）の精神を具現化し、同時に高品質なクラウド ソフトウェアの同義語にもなりました。クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF lanscape）にアクセスし、利用可能な選択肢を評価することです。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu375" restype="x-paragraph">
 <source xml:lang="en-US">Madhu CS</source>
-<target xml:lang="ja-JP">マドゥ CS</target>
+<target xml:lang="ja-JP">Madhu CS</target>
 </trans-unit>
 <trans-unit id="tu376" restype="x-paragraph">
 <source xml:lang="en-US">Robinhood</source>
-<target xml:lang="ja-JP">ロビンフッド</target>
+<target xml:lang="ja-JP">Robinhood</target>
 </trans-unit>
 <trans-unit id="tu377" restype="x-paragraph">
 <source xml:lang="en-US">CTO Summit</source>
-<target xml:lang="ja-JP">CTOサミット</target>
+<target xml:lang="ja-JP">CTO サミット</target>
 </trans-unit>
 <trans-unit id="tu378" restype="x-paragraph">
 <source xml:lang="en-US">As teams adopt cloud native strategies, it's clear that there is no &quot;one size fits all&quot; solution to the challenges organizations face. That's why, in 2022, CNCF launched the CTO Summit. This Chatham House-governed summit convenes CTOs from end user enterprises to discuss how organizations can leverage people, processes, and technologies to improve resiliency in cloud native computing.</source>
-<target xml:lang="ja-JP">チームがクラウド ネイティブ戦略を採用するにつれて、組織が直面する課題に対する「万能の」ソリューションがないことは明らかです。そのため、CNCF は 2022 年に CTO サミットを立ち上げました。チャタム ハウスが管理するこのサミットでは、エンド ユーザー企業の CTO が招集され、組織が人、プロセス、テクノロジーを活用してクラウド ネイティブ コンピューティングの回復力を向上させる方法について話し合います。</target>
+<target xml:lang="ja-JP">さまざまなチームがクラウド ネイティブの戦略を採用するにつれてわかってくるのは、組織が直面する課題に対する「万能の」ソリューションというものはない、ということです。それが CNCF が 2022 年に CTO サミットを立ち上げた理由です。「チャタム ハウスルール」で執り行われるこのサミットでは、エンド ユーザー企業の CTO が招集され組織がクラウド ネイティブ コンピューティングのレジリエンスを向上していく上で、人、プロセス、テクノロジーをどう活かせるのか、を議論します。</target>
 </trans-unit>
 <trans-unit id="tu379" restype="x-paragraph">
 <source xml:lang="en-US">We've started this CTO Summit where end users, like Boeing, Fidelity, Intuit, and many others can come together and have a private conversation about how they are handling technical challenges in their organizations. Often the most impactful lessons come from our peers.</source>
-<target xml:lang="ja-JP">Boeing、Fidelity、Intuit などのエンド ユーザーが集まり、組織内で技術的な課題にどのように対処しているかについて非公開で会話できる CTO サミットを開始しました。多くの場合、最も影響力のある教訓は仲間から得られます。</target>
+<target xml:lang="ja-JP">私たちは、Boeing、Fidelity、Intuit などのエンド ユーザーが一堂に会し、組織にある技術的な課題にどのように対処しているかについて非公開で対話できる CTO サミットをはじめました。しばしば、インパクトがある教訓というものは仲間たちから得られるものです。</target>
 </trans-unit>
 <trans-unit id="tu380" restype="x-paragraph">
 <source xml:lang="en-US">Priyanka Sharma</source>
@@ -1525,7 +1525,7 @@
 </trans-unit>
 <trans-unit id="tu381" restype="x-paragraph">
 <source xml:lang="en-US">Executive Director, CNCF</source>
-<target xml:lang="ja-JP">CNCF 事務局長</target>
+<target xml:lang="ja-JP">Executive Director, CNCF</target>
 </trans-unit>
 <trans-unit id="tu383" restype="x-title">
 <source xml:lang="en-US">Read the CTO Summit report</source>
@@ -1545,19 +1545,19 @@
 </trans-unit>
 <trans-unit id="tu385">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp558]">View Report</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp558]">レポートを見る</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp558]">レポートを読む</g></target>
 </trans-unit>
 <trans-unit id="tu387" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Coming January 2023</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/>KubeCon + CloudNativeCon North America <x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>CTO Summit Report</source>
-<target xml:lang="ja-JP">2023 年 1 月公開 KubeCon + CloudNativeCon 北米 CTO サミット レポート<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP">2023 年 1 月公開 KubeCon + CloudNativeCon North America CTO サミット レポート<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu388" restype="x-paragraph">
 <source xml:lang="en-US">The new CNCF.io</source>
-<target xml:lang="ja-JP">新しい CNCF.io</target>
+<target xml:lang="ja-JP">新たな CNCF.IO</target>
 </trans-unit>
 <trans-unit id="tu389" restype="x-paragraph">
 <source xml:lang="en-US">In May we launched the redesigned and rebuilt <g id="1" ctype="link" equiv-text="[#$dp564]">CNCF.io</g>. The site increases focus on representing the community in more effective, vibrant, and interactive ways. It provides additional areas to share CNCF and End User content, events, news, and blog articles. It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout. Importantly, we're doubling down on accessibility - following the <g id="2" ctype="link" equiv-text="[#$dp565]">Web Content Accessibility Guidelines (WCAG) 2.1</g> and aiming for Level AA accessibility on CNCF.io. Throughout the year we rolled out the new design to CNCF subsites, including <g id="3" ctype="link" equiv-text="[#$dp566]">Contributors</g>, as well as applying WCAG guidelines to all of our sites.</source>
-<target xml:lang="ja-JP">5 月に、再設計および再構築された CNCF.io を開始しました。このサイトは、より効果的で活気に満ちたインタラクティブな方法でコミュニティを表現することに重点を置いています。CNCF とエンド ユーザーのコンテンツ、イベント、ニュース、ブログ記事を共有するための追加の領域を提供します。また、動的なメガ メニューと簡素化されたナビゲーションのおかげで、UX とナビゲーションが改善されています。重要なのは、アクセシビリティを倍増させていることです。Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指しています。年間を通して、コントリビューターを含む CNCF サブサイトに新しいデザインを展開し、すべてのサイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
+<target xml:lang="ja-JP">5月、デザイン新たに再構築された、CNCF.io がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。年間を通して、コントリビューターを含む CNCF サブサイトに新しいデザインを展開し、すべてのサイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
 </trans-unit>
 <trans-unit id="tu391" restype="x-alt">
 <source xml:lang="en-US">The CNCF.io website on various websites</source>
@@ -1953,7 +1953,7 @@
 </trans-unit>
 <trans-unit id="tu487">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp710]">View Report</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp710]">レポートを見る</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp710]">レポートを読む</g></target>
 </trans-unit>
 <trans-unit id="tu490" restype="x-alt">
 <source xml:lang="en-US">Cover of the KubeCon + CloudNativeCon Europe 2022 Transparency Report</source>
@@ -2161,7 +2161,7 @@
 </trans-unit>
 <trans-unit id="tu539">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp776]">View Report</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp776]">レポートを見る</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp776]">レポートを読む</g></target>
 </trans-unit>
 <trans-unit id="tu542" restype="x-alt">
 <source xml:lang="en-US">Cover of the KubeCon + CloudNativeCon North America 2022 Transparency Report</source>

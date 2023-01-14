@@ -144,8 +144,8 @@
       <tuv xml:lang="en-US">
         <seg>220+ new members 19 new members from China</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230112T113155Z" creationid="tani" creationdate="20230104T111603Z">
-        <seg>220 以上の新メンバー うち 19 は中国からは</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T011442Z" creationid="tani" creationdate="20230104T111603Z">
+        <seg>220 以上の新メンバー　うち 19 は中国から</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv xml:lang="en-US">
         <seg>853 member organizations 15% growth from 2021</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230112T113230Z" creationid="tani" creationdate="20230104T104519Z">
-        <seg>853 のメンバー組織 2021 年から 15% の伸び</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T011519Z" creationid="tani" creationdate="20230104T104519Z">
+        <seg>853 のメンバー組織　2021 年から 15% の伸び</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +512,8 @@
       <tuv xml:lang="en-US">
         <seg>As teams adopt cloud native strategies, it's clear that there is no "one size fits all" solution to the challenges organizations face.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222532Z" creationid="tani" creationdate="20230104T111742Z">
-        <seg>チームがクラウド ネイティブ戦略を採用するにつれて、組織が直面する課題に対する「万能の」ソリューションがないことは明らかです。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T020047Z" creationid="tani" creationdate="20230104T111742Z">
+        <seg>さまざまなチームがクラウド ネイティブの戦略を採用するにつれてわかってくるのは、組織が直面する課題に対する「万能の」ソリューションというものはない、ということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +784,8 @@
       <tuv xml:lang="en-US">
         <seg>CNCF has become an embodiment of the spirit of open source, the spirit of freedom and choice, and at the same time has become synonymous with high quality cloud software.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222521Z" creationid="tani" creationdate="20230104T111731Z">
-        <seg>CNCF は、オープン ソースの精神、自由と選択の精神を具現化すると同時に、高品質のクラウド ソフトウェアの代名詞にもなりました。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T014756Z" creationid="tani" creationdate="20230104T111731Z">
+        <seg>CNCF は、オープン ソースの精神、自由と選択可能（Freedom and Choice）の精神を具現化し、同時に高品質なクラウド ソフトウェアの同義語にもなりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,8 +864,8 @@
       <tuv xml:lang="en-US">
         <seg>CTO Summit</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T104632Z" creationid="tani" creationdate="20230104T104632Z">
-        <seg>CTOサミット</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T015306Z" creationid="tani" creationdate="20230104T104632Z">
+        <seg>CTO サミット</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1280,8 @@
       <tuv xml:lang="en-US">
         <seg>Coming January 2023KubeCon + CloudNativeCon North America CTO Summit Report</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222556Z" creationid="tani" creationdate="20230104T104659Z">
-        <seg>2023 年 1 月公開 KubeCon + CloudNativeCon 北米 CTO サミット レポート</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T022407Z" creationid="tani" creationdate="20230104T104659Z">
+        <seg>2023 年 1 月公開 KubeCon + CloudNativeCon North America CTO サミット レポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,16 +1656,8 @@
       <tuv xml:lang="en-US">
         <seg>Every time we have requirements to build software for our Cloud Infrastructure, the first thing we do is go to the CNCF landscape and evaluate the choices available.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222523Z" creationid="tani" creationdate="20230104T111735Z">
-        <seg>クラウド インフラストラクチャ用のソフトウェアを構築するための要件があるたびに、最初に行うことは、CNCF ランドスケープにアクセスして、利用可能な選択肢を評価することです。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>Executive Director, CNCF</seg>
-      </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222545Z" creationid="tani" creationdate="20230104T104648Z">
-        <seg>CNCF 事務局長</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T015251Z" creationid="tani" creationdate="20230104T111735Z">
+        <seg>クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF lanscape）にアクセスし、利用可能な選択肢を評価することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2024,8 @@
       <tuv xml:lang="en-US">
         <seg>Importantly, we're doubling down on accessibility - following the Web Content Accessibility Guidelines (WCAG) 2.1 and aiming for Level AA accessibility on CNCF.io.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222609Z" creationid="tani" creationdate="20230104T111821Z">
-        <seg>重要なのは、アクセシビリティを倍増させていることです。Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指しています。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T053935Z" creationid="tani" creationdate="20230104T111821Z">
+        <seg>重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,8 +2088,8 @@
       <tuv xml:lang="en-US">
         <seg>In May we launched the redesigned and rebuilt CNCF.io.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222601Z" creationid="tani" creationdate="20230104T111812Z">
-        <seg>5 月に、再設計および再構築された CNCF.io を開始しました。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T023957Z" creationid="tani" creationdate="20230104T111812Z">
+        <seg>5月、デザイン新たに再構築された、CNCF.io がローンチされました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,8 +2264,8 @@
       <tuv xml:lang="en-US">
         <seg>It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222607Z" creationid="tani" creationdate="20230104T104710Z">
-        <seg>また、動的なメガ メニューと簡素化されたナビゲーションのおかげで、UX とナビゲーションが改善されています。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T024815Z" creationid="tani" creationdate="20230104T104710Z">
+        <seg>また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2280,8 @@
       <tuv xml:lang="en-US">
         <seg>It provides additional areas to share CNCF and End User content, events, news, and blog articles.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222605Z" creationid="tani" creationdate="20230104T111816Z">
-        <seg>CNCF とエンド ユーザーのコンテンツ、イベント、ニュース、ブログ記事を共有するための追加の領域を提供します。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T024546Z" creationid="tani" creationdate="20230104T111816Z">
+        <seg>さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,14 +2710,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Madhu CS</seg>
-      </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222525Z" creationid="tani" creationdate="20230104T104628Z">
-        <seg>マドゥ CS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>Megaphone icon</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222714Z" creationid="tani" creationdate="20230104T104951Z">
@@ -2904,8 +2888,8 @@
       <tuv xml:lang="en-US">
         <seg>Often the most impactful lessons come from our peers.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222541Z" creationid="tani" creationdate="20230104T111757Z">
-        <seg>多くの場合、最も影響力のある教訓は仲間から得られます。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T022108Z" creationid="tani" creationdate="20230104T111757Z">
+        <seg>しばしば、インパクトがある教訓というものは仲間たちから得られるものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,8 +2928,8 @@
       <tuv xml:lang="en-US">
         <seg>Organizations that sell cloud native technologies built on, or integrated with, CNCF projects are eligible to join as general members.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230113T013358Z" creationid="tani" creationdate="20230104T111622Z">
-        <seg>CNCFのプロジェクト上で構築されたり CNCF プロジェクトとインテグレーションされたりしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（Genral member）として参加する資格があります。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T011524Z" creationid="tani" creationdate="20230104T111622Z">
+        <seg>CNCFのプロジェクト上で構築されたり CNCF プロジェクトとインテグレーションされたりしたクラウド ネイティブなテクノロジを販売している組織であれば、一般メンバー（General member）として参加する資格があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,14 +3254,6 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>Robinhood</seg>
-      </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T104630Z" creationid="tani" creationdate="20230104T104630Z">
-        <seg>ロビンフッド</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>RookAuthors 99</seg>
       </tuv>
       <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T223328Z" creationid="tani" creationdate="20230104T223328Z">
@@ -3584,8 +3560,8 @@
       <tuv xml:lang="en-US">
         <seg>That's why, in 2022, CNCF launched the CTO Summit.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222534Z" creationid="tani" creationdate="20230104T104637Z">
-        <seg>そのため、CNCF は 2022 年に CTO サミットを立ち上げました。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T020128Z" creationid="tani" creationdate="20230104T104637Z">
+        <seg>それが CNCF が 2022 年に CTO サミットを立ち上げた理由です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,8 +3689,8 @@
       <tuv xml:lang="en-US">
         <seg>The new CNCF.io</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222558Z" creationid="tani" creationdate="20230104T104701Z">
-        <seg>新しい CNCF.io</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T022424Z" creationid="tani" creationdate="20230104T104701Z">
+        <seg>新たな CNCF.IO</seg>
       </tuv>
     </tu>
     <tu>
@@ -3745,8 +3721,8 @@
       <tuv xml:lang="en-US">
         <seg>The site increases focus on representing the community in more effective, vibrant, and interactive ways.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222603Z" creationid="tani" creationdate="20230104T104705Z">
-        <seg>このサイトは、より効果的で活気に満ちたインタラクティブな方法でコミュニティを表現することに重点を置いています。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T024106Z" creationid="tani" creationdate="20230104T104705Z">
+        <seg>新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,8 +3793,8 @@
       <tuv xml:lang="en-US">
         <seg>This Chatham House-governed summit convenes CTOs from end user enterprises to discuss how organizations can leverage people, processes, and technologies to improve resiliency in cloud native computing.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222536Z" creationid="tani" creationdate="20230104T111746Z">
-        <seg>チャタム ハウスが管理するこのサミットでは、エンド ユーザー企業の CTO が招集され、組織が人、プロセス、テクノロジーを活用してクラウド ネイティブ コンピューティングの回復力を向上させる方法について話し合います。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T021138Z" creationid="tani" creationdate="20230104T111746Z">
+        <seg>「チャタム ハウスルール」で執り行われるこのサミットでは、エンド ユーザー企業の CTO が招集され組織がクラウド ネイティブ コンピューティングのレジリエンスを向上していく上で、人、プロセス、テクノロジーをどう活かせるのか、を議論します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4129,8 +4105,8 @@
       <tuv xml:lang="en-US">
         <seg>View Report</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222554Z" creationid="tani" creationdate="20230104T104657Z">
-        <seg>レポートを見る</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T022339Z" creationid="tani" creationdate="20230104T104657Z">
+        <seg>レポートを読む</seg>
       </tuv>
     </tu>
     <tu>
@@ -4305,8 +4281,8 @@
       <tuv xml:lang="en-US">
         <seg>We've started this CTO Summit where end users, like Boeing, Fidelity, Intuit, and many others can come together and have a private conversation about how they are handling technical challenges in their organizations.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230104T222538Z" creationid="tani" creationdate="20230104T111751Z">
-        <seg>Boeing、Fidelity、Intuit などのエンド ユーザーが集まり、組織内で技術的な課題にどのように対処しているかについて非公開で会話できる CTO サミットを開始しました。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230114T021917Z" creationid="tani" creationdate="20230104T111751Z">
+        <seg>私たちは、Boeing、Fidelity、Intuit などのエンド ユーザーが一堂に会し、組織にある技術的な課題にどのように対処しているかについて非公開で対話できる CTO サミットをはじめました。</seg>
       </tuv>
     </tu>
     <tu>

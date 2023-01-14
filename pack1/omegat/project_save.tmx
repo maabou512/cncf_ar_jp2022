@@ -520,8 +520,8 @@
       <tuv lang="en-US">
         <seg>At the heart of CNCF is our welcoming community of doers, working together to make cloud native ubiquitous.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222620Z" creationid="tani" creationdate="20230104T104723Z">
-        <seg>CNCF の中心にあるのは、クラウド ネイティブをユビキタスにするために協力している実行者のコミュニティです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T060013Z" creationid="tani" creationdate="20230104T104723Z">
+        <seg>CNCF の中心には、クラウド ネイティブをユビキタスにするべく、 Doer たちが協働する、懐の広いコミュニティがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="en-US">
         <seg>Attendees at KubeCon + CloudNativeCon North America 2022</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222625Z" creationid="tani" creationdate="20230104T104727Z">
-        <seg>KubeCon + CloudNativeCon North America 2022 の参加者</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T061022Z" creationid="tani" creationdate="20230104T104727Z">
+        <seg>KubeCon + CloudNativeCon North America 2022 の参加者たち</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="en-US">
         <seg>Do you know somebody doing incredible things in the cloud native ecosystem?</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222629Z" creationid="tani" creationdate="20230104T104732Z">
-        <seg>クラウド ネイティブ エコシステムで驚くべきことを行っている人を知っていますか?</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062110Z" creationid="tani" creationdate="20230104T104732Z">
+        <seg>「クラウド ネイティブ」なエコシステムでスゴいことやってる人、ご存じですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="en-US">
         <seg>Events</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230111T111729Z" creationid="tani" creationdate="20220124T101401Z">
-        <seg>イベント（Event）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062222Z" creationid="tani" creationdate="20220124T101401Z">
+        <seg>イベント</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="en-US">
         <seg>Every time we have requirements to build software for our Cloud Infrastructure, the first thing we do is go to the CNCF landscape and evaluate the choices available.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230114T015251Z" creationid="tani" creationdate="20230104T111735Z">
-        <seg>クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF lanscape）にアクセスし、利用可能な選択肢を評価することです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T054518Z" creationid="tani" creationdate="20230104T111735Z">
+        <seg>クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF landscape）にアクセスし、利用可能な選択肢を評価することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="en-US">
         <seg>Humans Of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222616Z" creationid="tani" creationdate="20230104T104719Z">
-        <seg>クラウド ネイティブの人間</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055251Z" creationid="tani" creationdate="20230104T104719Z">
+        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,8 +2328,8 @@
       <tuv lang="en-US">
         <seg>Join our amazing set of humans!</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222627Z" creationid="tani" creationdate="20230104T104730Z">
-        <seg>私たちの素晴らしい人間のセットに参加してください！</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T061924Z" creationid="tani" creationdate="20230104T104730Z">
+        <seg>「クラウドネイティブ」な人たちがいる集まりに参加しよう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@
       <tuv lang="en-US">
         <seg>New Gold Members</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013510Z" creationid="tani" creationdate="20230104T111636Z">
-        <seg>新たなゴールドメンバー（Gole Member）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T054407Z" creationid="tani" creationdate="20230104T111636Z">
+        <seg>新たなゴールドメンバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,8 +2840,8 @@
       <tuv lang="en-US">
         <seg>Nominate them for the Humans of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222632Z" creationid="tani" creationdate="20230104T104734Z">
-        <seg>クラウド ネイティブの人間にノミネートする</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062157Z" creationid="tani" creationdate="20230104T104734Z">
+        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）にノミネートする</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,8 +3360,8 @@
       <tuv lang="en-US">
         <seg>Send an email your nomination</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222634Z" creationid="tani" creationdate="20230104T104736Z">
-        <seg>推薦をメールで送信</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T062211Z" creationid="tani" creationdate="20230104T104736Z">
+        <seg>ノミネートをメールで送信</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,8 +3609,8 @@
       <tuv lang="en-US">
         <seg>The CNCF.io website on various websites</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222614Z" creationid="tani" creationdate="20230104T104716Z">
-        <seg>さまざまな Web サイトの CNCF.io Web サイト</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055103Z" creationid="tani" creationdate="20230104T104716Z">
+        <seg>さまざまな Web サイト上の CNCF.io Web サイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,8 +3673,8 @@
       <tuv lang="en-US">
         <seg>The cloud native ecosystem is getting bigger and better; end users' trust in open source is steering it forward!</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230113T013946Z" creationid="tani" creationdate="20230104T104557Z">
-        <seg>クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープン ソースに対するエンド ユーザーの信頼が、それを前進させてくれているのです。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T054450Z" creationid="tani" creationdate="20230104T104557Z">
+        <seg>クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープン ソースに対するエンドユーザーの信頼が、それを前進させています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3849,8 +3849,8 @@
       <tuv lang="en-US">
         <seg>This year we launched the Humans of Cloud Native project to tell the stories of amazing individuals and their contributions that make team cloud native such a vibrant, exciting and diverse space.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222623Z" creationid="tani" creationdate="20230104T104725Z">
-        <seg>今年、私たちはヒューマンズ オブ クラウド ネイティブ プロジェクトを開始し、チーム クラウド ネイティブを活気に満ちた刺激的で多様な空間にする素晴らしい個人とその貢献の物語を伝えます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T060952Z" creationid="tani" creationdate="20230104T104725Z">
+        <seg>今年、私たちは「ヒューマンズ オブ クラウド ネイティブ （Humans of Cloud Native）」プロジェクトを立ち上げ、ここでチーム クラウド ネイティブを活気溢れ、刺激的で多様な空間にしてくれる素晴らしい人たちや、そのコントリビューションの物語を伝えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3881,8 +3881,8 @@
       <tuv lang="en-US">
         <seg>Throughout the year we rolled out the new design to CNCF subsites, including Contributors, as well as applying WCAG guidelines to all of our sites.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222612Z" creationid="tani" creationdate="20230104T111824Z">
-        <seg>年間を通して、コントリビューターを含む CNCF サブサイトに新しいデザインを展開し、すべてのサイトに WCAG ガイドラインを適用しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T054938Z" creationid="tani" creationdate="20230104T111824Z">
+        <seg>この1年を通し「コントリビューター（Contributor）」を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4097,8 +4097,8 @@
       <tuv lang="en-US">
         <seg>View Humans of Cloud Native</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T222618Z" creationid="tani" creationdate="20230104T104721Z">
-        <seg>クラウド ネイティブの人間を見る</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230114T055404Z" creationid="tani" creationdate="20230104T104721Z">
+        <seg>「クラウド ネイティブ」の人たち（Humans of Cloud Native）を読む</seg>
       </tuv>
     </tu>
     <tu>

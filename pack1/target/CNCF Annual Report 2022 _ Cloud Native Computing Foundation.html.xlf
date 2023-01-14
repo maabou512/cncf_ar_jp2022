@@ -732,7 +732,7 @@
 </trans-unit>
 <trans-unit id="tu181">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>Events</source>
-<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント（Event）</target>
+<target xml:lang="ja-JP"><g id="1" ctype="link" equiv-text="[#$dp320]"/> <x id="2" ctype="image" equiv-text="[#$dp321]"/>イベント</target>
 </trans-unit>
 <trans-unit id="tu185" restype="x-title">
 <source xml:lang="en-US">Jump to Training section</source>
@@ -1377,7 +1377,7 @@
 </trans-unit>
 <trans-unit id="tu344" restype="x-paragraph">
 <source xml:lang="en-US">New Gold Members</source>
-<target xml:lang="ja-JP">新たなゴールドメンバー（Gole Member）</target>
+<target xml:lang="ja-JP">新たなゴールドメンバー</target>
 </trans-unit>
 <trans-unit id="tu346" restype="x-alt">
 <source xml:lang="en-US">Cecloud Logo</source>
@@ -1441,7 +1441,7 @@
 </trans-unit>
 <trans-unit id="tu360" restype="x-paragraph">
 <source xml:lang="en-US">The cloud native ecosystem is getting bigger and better; end users' trust in open source is steering it forward!</source>
-<target xml:lang="ja-JP">クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープン ソースに対するエンド ユーザーの信頼が、それを前進させてくれているのです。</target>
+<target xml:lang="ja-JP">クラウド ネイティブのエコシステムはどんどん大きく、良いものになってきています。オープン ソースに対するエンドユーザーの信頼が、それを前進させています。</target>
 </trans-unit>
 <trans-unit id="tu361" restype="x-paragraph">
 <source xml:lang="en-US">Aparna Subramanian</source>
@@ -1497,7 +1497,7 @@
 </trans-unit>
 <trans-unit id="tu374" restype="x-paragraph">
 <source xml:lang="en-US">CNCF has become an embodiment of the <g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">spirit of open source, the spirit of freedom</g> and choice, and at the same time has become synonymous with <g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">high quality cloud software</g>. Every time we have requirements to build software for our Cloud Infrastructure, <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">the first thing we do is go to the CNCF landscape</g> and evaluate the choices available.</source>
-<target xml:lang="ja-JP">CNCF は、オープン ソースの精神、自由と選択可能（Freedom and Choice）の精神を具現化し、同時に高品質なクラウド ソフトウェアの同義語にもなりました。クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF lanscape）にアクセスし、利用可能な選択肢を評価することです。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">CNCF は、オープン ソースの精神、自由と選択可能（Freedom and Choice）の精神を具現化し、同時に高品質なクラウド ソフトウェアの同義語にもなりました。クラウド インフラストラクチャ用のソフトウェアを構築する必要に迫られるたびに私たちが最初に行うのは、「CNCF ランドスケープ（CNCF landscape）にアクセスし、利用可能な選択肢を評価することです。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu375" restype="x-paragraph">
 <source xml:lang="en-US">Madhu CS</source>
@@ -1557,11 +1557,11 @@
 </trans-unit>
 <trans-unit id="tu389" restype="x-paragraph">
 <source xml:lang="en-US">In May we launched the redesigned and rebuilt <g id="1" ctype="link" equiv-text="[#$dp564]">CNCF.io</g>. The site increases focus on representing the community in more effective, vibrant, and interactive ways. It provides additional areas to share CNCF and End User content, events, news, and blog articles. It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout. Importantly, we're doubling down on accessibility - following the <g id="2" ctype="link" equiv-text="[#$dp565]">Web Content Accessibility Guidelines (WCAG) 2.1</g> and aiming for Level AA accessibility on CNCF.io. Throughout the year we rolled out the new design to CNCF subsites, including <g id="3" ctype="link" equiv-text="[#$dp566]">Contributors</g>, as well as applying WCAG guidelines to all of our sites.</source>
-<target xml:lang="ja-JP">5月、デザイン新たに再構築された、CNCF.io がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。年間を通して、コントリビューターを含む CNCF サブサイトに新しいデザインを展開し、すべてのサイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
+<target xml:lang="ja-JP">5月、デザイン新たに再構築された、CNCF.io がローンチされました。新たなサイトでは、より効果的で活気に溢れインタラクティブにコミュニティを表現することにフォーカスしています。さらに共有エリアが追加され、 CNCF やエンド ユーザー関連のコンテンツ、イベント、ニュース、ブログ記事を提供しています。また、動的な「メガ メニュー」と簡素化されたナビゲーションのおかげで、UX やナビゲーションが改良されました。重要なことは、私たちがアクセシビリティを強化している ― Web コンテンツ アクセシビリティ ガイドライン (WCAG) 2.1 に従い、CNCF.io でレベル AA のアクセシビリティを目指している ― ということです。。この1年を通し「コントリビューター（Contributor）」を含む CNCF サブサイトに新デザインを展開し、全サイトに WCAG ガイドラインを適用しました。<g id="1" ctype="link" equiv-text="[#$dp564]"></g><g id="2" ctype="link" equiv-text="[#$dp565]"></g><g id="3" ctype="link" equiv-text="[#$dp566]"></g></target>
 </trans-unit>
 <trans-unit id="tu391" restype="x-alt">
 <source xml:lang="en-US">The CNCF.io website on various websites</source>
-<target xml:lang="ja-JP">さまざまな Web サイトの CNCF.io Web サイト</target>
+<target xml:lang="ja-JP">さまざまな Web サイト上の CNCF.io Web サイト</target>
 </trans-unit>
 <trans-unit id="tu390">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp569]"/></source>
@@ -1569,19 +1569,19 @@
 </trans-unit>
 <trans-unit id="tu392" restype="x-paragraph">
 <source xml:lang="en-US">Humans Of Cloud Native</source>
-<target xml:lang="ja-JP">クラウド ネイティブの人間</target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」の人たち（Humans of Cloud Native）</target>
 </trans-unit>
 <trans-unit id="tu394" restype="x-title">
 <source xml:lang="en-US">View Humans of Cloud Native</source>
-<target xml:lang="ja-JP">クラウド ネイティブの人間を見る</target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」の人たち（Humans of Cloud Native）を読む</target>
 </trans-unit>
 <trans-unit id="tu393" restype="x-paragraph">
 <source xml:lang="en-US">At the heart of CNCF is our welcoming community of doers, working together to make cloud native ubiquitous. This year we launched the <g id="1" ctype="link" equiv-text="[#$dp573]">Humans of Cloud Native</g> project to tell the stories of amazing individuals and their contributions that make team cloud native such a vibrant, exciting and diverse space.</source>
-<target xml:lang="ja-JP">CNCF の中心にあるのは、クラウド ネイティブをユビキタスにするために協力している実行者のコミュニティです。今年、私たちはヒューマンズ オブ クラウド ネイティブ プロジェクトを開始し、チーム クラウド ネイティブを活気に満ちた刺激的で多様な空間にする素晴らしい個人とその貢献の物語を伝えます。<g id="1" ctype="link" equiv-text="[#$dp573]"></g></target>
+<target xml:lang="ja-JP">CNCF の中心には、クラウド ネイティブをユビキタスにするべく、 Doer たちが協働する、懐の広いコミュニティがあります。今年、私たちは「ヒューマンズ オブ クラウド ネイティブ （Humans of Cloud Native）」プロジェクトを立ち上げ、ここでチーム クラウド ネイティブを活気溢れ、刺激的で多様な空間にしてくれる素晴らしい人たちや、そのコントリビューションの物語を伝えています。<g id="1" ctype="link" equiv-text="[#$dp573]"></g></target>
 </trans-unit>
 <trans-unit id="tu396" restype="x-alt">
 <source xml:lang="en-US">Attendees at KubeCon + CloudNativeCon North America 2022</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の参加者</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の参加者たち</target>
 </trans-unit>
 <trans-unit id="tu395">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp576]"/></source>
@@ -1589,15 +1589,15 @@
 </trans-unit>
 <trans-unit id="tu397" restype="x-h2">
 <source xml:lang="en-US">Join our amazing set of humans!</source>
-<target xml:lang="ja-JP">私たちの素晴らしい人間のセットに参加してください！</target>
+<target xml:lang="ja-JP">「クラウドネイティブ」な人たちがいる集まりに参加しよう！</target>
 </trans-unit>
 <trans-unit id="tu398" restype="x-paragraph">
 <source xml:lang="en-US">Do you know somebody doing incredible things in the cloud native ecosystem?<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">Nominate them for the Humans of Cloud Native</g></source>
-<target xml:lang="ja-JP">クラウド ネイティブ エコシステムで驚くべきことを行っている人を知っていますか?クラウド ネイティブの人間にノミネートする<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">「クラウド ネイティブ」なエコシステムでスゴいことやってる人、ご存じですか?「クラウド ネイティブ」の人たち（Humans of Cloud Native）にノミネートする<x id="1" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu400" restype="x-title">
 <source xml:lang="en-US">Send an email your nomination</source>
-<target xml:lang="ja-JP">推薦をメールで送信</target>
+<target xml:lang="ja-JP">ノミネートをメールで送信</target>
 </trans-unit>
 <trans-unit id="tu399">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp582]">Nominate</g></source>
@@ -1605,7 +1605,7 @@
 </trans-unit>
 <trans-unit id="tu401" restype="x-h2">
 <source xml:lang="en-US">Events</source>
-<target xml:lang="ja-JP">イベント（Event）</target>
+<target xml:lang="ja-JP">イベント</target>
 </trans-unit>
 <trans-unit id="tu402">
 <source xml:lang="en-US">2/6</source>
@@ -3301,7 +3301,7 @@
 </trans-unit>
 <trans-unit id="tu825">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></source>
-<target xml:lang="ja-JP">574イベント（Event）<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">574イベント<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu827" restype="x-alt">
 <source xml:lang="en-US">Chapters icon</source>

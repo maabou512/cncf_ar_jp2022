@@ -96,8 +96,8 @@
       <tuv lang="en-US">
         <seg>14% Increase</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T112312Z" creationid="tani" creationdate="20230104T112312Z">
-        <seg>14%増</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023638Z" creationid="tani" creationdate="20230104T112312Z">
+        <seg>14% の増加</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@
       <tuv lang="en-US">
         <seg>8.5% Increase</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105333Z" creationid="tani" creationdate="20230104T105333Z">
-        <seg>8.5%増</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023711Z" creationid="tani" creationdate="20230104T105333Z">
+        <seg>8.5% の増加</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="en-US">
         <seg>A number of projects completed security audits, resulting in 132 security fixes and improvements, 45 CVE's fixed, and 51 security tools built.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223403Z" creationid="tani" creationdate="20230104T112507Z">
-        <seg>多くのプロジェクトがセキュリティ監査を完了し、132 件のセキュリティ修正と改善、45 件の CVE の修正、51 件のセキュリティ ツールの構築が行われました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121732Z" creationid="tani" creationdate="20230104T112507Z">
+        <seg>多くのプロジェクトがセキュリティ監査を完了しました。この結果 132 件のセキュリティ修正や改善、45 件の CVE 修正、51 件のセキュリティ ツールの構築が行われました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,18 +486,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Argo Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223412Z" creationid="tani" creationdate="20230104T112519Z">
-        <seg>アルゴ ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>ArgoAuthors 814</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223252Z" creationid="tani" creationdate="20230104T223252Z">
-        <seg>アルゴオーサーズ 814</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120437Z" creationid="tani" creationdate="20230104T223252Z">
+        <seg>Argo  814人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +504,8 @@
       <tuv lang="en-US">
         <seg>As a result, we can get insight into platforms that will likely be successful:</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223250Z" creationid="tani" creationdate="20230104T105353Z">
-        <seg>その結果、成功する可能性が高いプラットフォームについての洞察を得ることができます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120302Z" creationid="tani" creationdate="20230104T105353Z">
+        <seg>その結果として、成功に向かうであろうプラットフォームについての洞察を得ることができるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,26 +590,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Backstage Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105732Z" creationid="tani" creationdate="20230104T105732Z">
-        <seg>バックステージのロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Backstage has seen one of the fastest growth trajectories this year - solving an important pain point around cloud native developer experience</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223350Z" creationid="tani" creationdate="20230104T105452Z">
-        <seg>Backstage は今年、最も急速に成長した軌道の 1 つを目にしており、クラウド ネイティブ デベロッパー エクスペリエンスに関する重要な問題点を解決しています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121240Z" creationid="tani" creationdate="20230104T105452Z">
+        <seg>Backstage は今年最も急速な成長軌道を目の当たりにした1 つで、クラウド ネイティブのデベロッパー エクスペリエンスに関する重要な問題点を解決しようとしている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>BackstageAuthors 580</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223255Z" creationid="tani" creationdate="20230104T223255Z">
-        <seg>バックステージオーサーズ 580</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120448Z" creationid="tani" creationdate="20230104T223255Z">
+        <seg>Backstage 580人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,16 +728,16 @@
       <tuv lang="en-US">
         <seg>CNCF Project Velocity</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223246Z" creationid="tani" creationdate="20230104T112331Z">
-        <seg>CNCF プロジェクト速度</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T115622Z" creationid="tani" creationdate="20230104T112331Z">
+        <seg>CNCF プロジェクトの速度</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>CNCF Project Velocity chart</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223341Z" creationid="tani" creationdate="20230104T105444Z">
-        <seg>CNCF プロジェクト ベロシティ チャート</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120914Z" creationid="tani" creationdate="20230104T105444Z">
+        <seg>CNCF プロジェクトの速度チャート</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +752,8 @@
       <tuv lang="en-US">
         <seg>CNCF conducted a number of open source security audits throughout 2022, in strategic partnership with the Open Source Technology Improvement Fund (OSTIF).</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223401Z" creationid="tani" creationdate="20230104T112503Z">
-        <seg>CNCF は、Open Source Technology Improvement Fund (OSTIF) との戦略的パートナーシップにより、2022 年を通じて多数のオープンソース セキュリティ監査を実施しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121627Z" creationid="tani" creationdate="20230104T112503Z">
+        <seg>CNCF は、Open Source Technology Improvement Fund （OSTIF） との戦略的パートナーシップにより、2022 年を通じて多数のオープンソース セキュリティ監査を実施しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +864,8 @@
       <tuv lang="en-US">
         <seg>CVE's Reported and Fixed  Includes 5 critical and 10 high severity findings fixed</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223503Z" creationid="tani" creationdate="20230104T112616Z">
-        <seg>CVE の報告済みおよび修正済み 5 件の重大な発見と 10 件の重大度の高い発見が修正されました</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T123007Z" creationid="tani" creationdate="20230104T112616Z">
+        <seg>の CVE の報告および修正。ここには5 件のクリティカル案件 10 件の深刻度の高い発見と修正が含まれる</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,22 +1070,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Checkmark icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223452Z" creationid="tani" creationdate="20230104T105554Z">
-        <seg>チェックマーク アイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Checlist icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223512Z" creationid="tani" creationdate="20230104T105614Z">
-        <seg>チェックリストのアイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Chop Wood &amp; Carry Water awards</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223933Z" creationid="tani" creationdate="20230104T113054Z">
@@ -1110,42 +1078,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Chris Aniszczyk</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105457Z" creationid="tani" creationdate="20230104T105457Z">
-        <seg>クリス・アニシュチック</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Chris Aniszczyk CTO, CNCF</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223357Z" creationid="tani" creationdate="20230104T105459Z">
-        <seg>クリス・アニシュチック CTO、CNCF</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Cilium Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223417Z" creationid="tani" creationdate="20230104T112524Z">
-        <seg>繊毛虫のロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Cloud Custodian Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223636Z" creationid="tani" creationdate="20230104T105738Z">
         <seg>クラウド管理者のロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Cloud Events Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223419Z" creationid="tani" creationdate="20230104T112526Z">
-        <seg>クラウド イベント ロゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,16 +1272,8 @@
       <tuv lang="en-US">
         <seg>Consistently looking into CNCF project's velocity and the top open source projects gives us a very good indication of trends that are resonating with developers and end users.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223248Z" creationid="tani" creationdate="20230104T105350Z">
-        <seg>CNCF プロジェクトの速度と上位のオープン ソース プロジェクトを常に調査することで、開発者とエンド ユーザーの共感を呼んでいる傾向を非常によく知ることができます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ContainerD Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223421Z" creationid="tani" creationdate="20230104T112529Z">
-        <seg>ContainerD ロゴ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120119Z" creationid="tani" creationdate="20230104T105350Z">
+        <seg>CNCF プロジェクトの速度（Velocity）や、上位に位置するオープンソースプロジェクトを定期観測することで、開発者やエンドユーザーが共鳴しているトレンドをとてもよく知ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,14 +1282,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T222842Z" creationid="tani" creationdate="20230104T104945Z">
         <seg>コンテンツ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Contour Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223423Z" creationid="tani" creationdate="20230104T112532Z">
-        <seg>輪郭のロゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CoreDNSAuthors 69</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120507Z" creationid="tani" creationdate="20230115T120507Z">
+        <seg>CoreDNS 69人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Countries Across the globe</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230114T081820Z" creationid="tani" creationdate="20230104T104832Z">
@@ -1438,14 +1366,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Crio Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223425Z" creationid="tani" creationdate="20230104T112535Z">
-        <seg>クリオ ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Cube FS Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223638Z" creationid="tani" creationdate="20230104T105741Z">
@@ -1456,8 +1376,8 @@
       <tuv lang="en-US">
         <seg>Denial of service, XSS, Path Traversal, Privilege Escalation, RCE Types of Vulnerabilities Fixed</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223514Z" creationid="tani" creationdate="20230104T112627Z">
-        <seg>DoS、XSS、パス トラバーサル、権限昇格、RCE 修正された脆弱性の種類</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T123219Z" creationid="tani" creationdate="20230104T112627Z">
+        <seg>DoS、XSS、パストラバーサル、権限昇格、RCE といったタイプの脆弱性のFIX</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,10 +1518,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Envoy Logo</seg>
+        <seg>EnvoyAuthors 399</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223428Z" creationid="tani" creationdate="20230104T112538Z">
-        <seg>特使のロゴ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120516Z" creationid="tani" creationdate="20230115T120516Z">
+        <seg>Envoy 399人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,14 +1582,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Falco Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223430Z" creationid="tani" creationdate="20230104T112540Z">
-        <seg>ファルコ ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Female and Non Binary person icon</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223805Z" creationid="tani" creationdate="20230104T105907Z">
@@ -1702,14 +1614,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Flag icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223459Z" creationid="tani" creationdate="20230104T112611Z">
-        <seg>旗のアイコン</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Flickr</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T110718Z" creationid="tani" creationdate="20230104T110718Z">
@@ -1720,24 +1624,16 @@
       <tuv lang="en-US">
         <seg>FluentdAuthors 275</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223306Z" creationid="tani" creationdate="20230104T223306Z">
-        <seg>FluentdAuthor 275</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Flux Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223432Z" creationid="tani" creationdate="20230104T105721Z">
-        <seg>フラックス ロゴ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120534Z" creationid="tani" creationdate="20230104T223306Z">
+        <seg>Fluentd 275人の作者</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>FluxAuthors 258</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223308Z" creationid="tani" creationdate="20230104T223308Z">
-        <seg>フラックスオーサーズ 258</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120545Z" creationid="tani" creationdate="20230104T223308Z">
+        <seg>Flux 258人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1680,8 @@
       <tuv lang="en-US">
         <seg>Furthermore, CNCF funded fuzzing audits for a variety of projects that have resulted in hundreds of bugs being found.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223408Z" creationid="tani" creationdate="20230104T112514Z">
-        <seg>さらに、CNCF はさまざまなプロジェクトのファジング監査に資金を提供し、その結果、何百ものバグが発見されました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122231Z" creationid="tani" creationdate="20230104T112514Z">
+        <seg>さらに、CNCF はさまざまなプロジェクトのファジング監査に資金を提供し、その結果、何百ものバグ発見につながりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,8 +1736,8 @@
       <tuv lang="en-US">
         <seg>GitOps remains an important technique in the cloud native ecosystem, where projects like Argo and Flux continue to cultivate large communities</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223352Z" creationid="tani" creationdate="20230104T105455Z">
-        <seg>GitOps は、Argo や Flux などのプロジェクトが大規模なコミュニティを開拓し続けているクラウド ネイティブ エコシステムにおいて重要な技術であり続けています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121515Z" creationid="tani" creationdate="20230104T105455Z">
+        <seg>GitOps は、Argo や Flux などのプロジェクトが大きなコミュニティを育て続けているような、クラウド ネイティブ エコシステムにおいて重要なテクニックであり続けている</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,8 +1792,8 @@
       <tuv lang="en-US">
         <seg>HarborAuthors 126</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223310Z" creationid="tani" creationdate="20230104T223310Z">
-        <seg>ハーバーオーサーズ 126</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120556Z" creationid="tani" creationdate="20230104T223310Z">
+        <seg>Harbor 126人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,8 +1816,8 @@
       <tuv lang="en-US">
         <seg>HelmAuthors 160</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223312Z" creationid="tani" creationdate="20230104T223312Z">
-        <seg>ヘルムオーサーズ 160</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120618Z" creationid="tani" creationdate="20230104T223312Z">
+        <seg>Helm 160人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,8 +1880,8 @@
       <tuv lang="en-US">
         <seg>Improvements At A Glance</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223450Z" creationid="tani" creationdate="20230104T112602Z">
-        <seg>改善点の概要</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122415Z" creationid="tani" creationdate="20230104T112602Z">
+        <seg>改善ポイント概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,14 +2078,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Istio Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223434Z" creationid="tani" creationdate="20230104T105537Z">
-        <seg>イスティオのロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>It also features improved UX and navigation, thanks to the dynamic mega menu and simplified navigation throughout.</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230114T024815Z" creationid="tani" creationdate="20230104T104710Z">
@@ -2232,8 +2120,8 @@
       <tuv lang="en-US">
         <seg>JaegerAuthors 145</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223315Z" creationid="tani" creationdate="20230104T223315Z">
-        <seg>イエガーオーサーズ 145</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120627Z" creationid="tani" creationdate="20230104T223315Z">
+        <seg>Jaeger 145人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,26 +2198,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Keda Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223436Z" creationid="tani" creationdate="20230104T112544Z">
-        <seg>ケダ ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Knative Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223647Z" creationid="tani" creationdate="20230104T105750Z">
         <seg>Knative ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Kube Edge Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223439Z" creationid="tani" creationdate="20230104T112547Z">
-        <seg>キューブエッジ ロゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,16 +2248,8 @@
       <tuv lang="en-US">
         <seg>Kubernetes Certified Service Provider (KCSP) program grew to 254 companies</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223232Z" creationid="tani" creationdate="20230104T105335Z">
-        <seg>Kubernetes Certified Service Provider (KCSP) プログラムが 254 社に拡大</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Kubernetes Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223441Z" creationid="tani" creationdate="20230104T112550Z">
-        <seg>Kubernetes ロゴ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023725Z" creationid="tani" creationdate="20230104T105335Z">
+        <seg>Kubernetes Certified Service Provider （KCSP） プログラムが 254 社に拡大</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,8 +2264,8 @@
       <tuv lang="en-US">
         <seg>Kubernetes Training Partner (KTP) program grew to 57 certified companies</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223228Z" creationid="tani" creationdate="20230104T105331Z">
-        <seg>Kubernetes トレーニング パートナー (KTP) プログラムは 57 の認定企業に拡大しました</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023704Z" creationid="tani" creationdate="20230104T105331Z">
+        <seg>Kubernetes トレーニング パートナー （KTP） プログラムは 57 の認定企業に拡大</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2280,8 @@
       <tuv lang="en-US">
         <seg>KubernetesAuthors 3619</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223317Z" creationid="tani" creationdate="20230104T223317Z">
-        <seg>Kubernetes作者 3619</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120648Z" creationid="tani" creationdate="20230104T223317Z">
+        <seg>Kubernetes 3619人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,18 +2310,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Linkerd Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223443Z" creationid="tani" creationdate="20230104T112554Z">
-        <seg>リンカード ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>LinkerdAuthors 122</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223319Z" creationid="tani" creationdate="20230104T223319Z">
-        <seg>Linkerd作者 122</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120659Z" creationid="tani" creationdate="20230104T223319Z">
+        <seg>Linkerd 122人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,8 +2608,8 @@
       <tuv lang="en-US">
         <seg>OPAAuthors 259</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223321Z" creationid="tani" creationdate="20230104T223321Z">
-        <seg>OPA作成者 259</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120713Z" creationid="tani" creationdate="20230104T223321Z">
+        <seg>OPA 259人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,16 +2656,16 @@
       <tuv lang="en-US">
         <seg>OpenTelemetry has become the second highest velocity project in the CNCF ecosystem, increasing its contributor base</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223348Z" creationid="tani" creationdate="20230104T105450Z">
-        <seg>OpenTelemetry は、CNCF エコシステムで 2 番目に速度の高いプロジェクトになり、貢献者ベースを増やしています</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121109Z" creationid="tani" creationdate="20230104T105450Z">
+        <seg>OpenTelemetry は、CNCF エコシステムで 2 番目に速度が高いプロジェクトになり、コントリビューター ベースを増やしている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>OpenTelemetryAuthors 1133</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223323Z" creationid="tani" creationdate="20230104T223323Z">
-        <seg>OpenTelemetry作成者 1133</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120722Z" creationid="tani" creationdate="20230104T223323Z">
+        <seg>OpenTelemetry  1133人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,16 +2880,16 @@
       <tuv lang="en-US">
         <seg>Project Updates &amp; Satisfaction</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223235Z" creationid="tani" creationdate="20230104T105337Z">
-        <seg>プロジェクトの最新情報と満足度</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T023751Z" creationid="tani" creationdate="20230104T105337Z">
+        <seg>プロジェクト アップデートと満足度</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Project Velocity Key Takeaways</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223343Z" creationid="tani" creationdate="20230104T105446Z">
-        <seg>プロジェクト速度の重要ポイント</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120955Z" creationid="tani" creationdate="20230104T105446Z">
+        <seg>プロジェクト速度に関する重要ポイント（Takeaways）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +2904,8 @@
       <tuv lang="en-US">
         <seg>Projects Accepted Over Time</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223241Z" creationid="tani" creationdate="20230104T112324Z">
-        <seg>時間の経過とともに受け入れられたプロジェクト</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T115216Z" creationid="tani" creationdate="20230104T112324Z">
+        <seg>受け入れられたプロジェクトの推移</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +2936,8 @@
       <tuv lang="en-US">
         <seg>PrometheusAuthors 424</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223326Z" creationid="tani" creationdate="20230104T223326Z">
-        <seg>プロメテウス作者 424</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120731Z" creationid="tani" creationdate="20230104T223326Z">
+        <seg>Prometheus 424人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3144,8 +3000,8 @@
       <tuv lang="en-US">
         <seg>RookAuthors 99</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223328Z" creationid="tani" creationdate="20230104T223328Z">
-        <seg>ルークオーサーズ 99</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120745Z" creationid="tani" creationdate="20230104T223328Z">
+        <seg>Rook 99人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,24 +3032,24 @@
       <tuv lang="en-US">
         <seg>Security</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223359Z" creationid="tani" creationdate="20230104T105501Z">
-        <seg>安全</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121536Z" creationid="tani" creationdate="20230104T105501Z">
+        <seg>セキュリティ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Security Fixes and Improvements</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T105559Z" creationid="tani" creationdate="20230104T105559Z">
-        <seg>セキュリティの修正と改善</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122433Z" creationid="tani" creationdate="20230104T105559Z">
+        <seg>のセキュリティFIXと改善</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Security Tools Built</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223510Z" creationid="tani" creationdate="20230104T105612Z">
-        <seg>セキュリティ ツールの構築</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T123017Z" creationid="tani" creationdate="20230104T105612Z">
+        <seg>のセキュリティ ツールの構築</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SpiffeAuthors 44</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120755Z" creationid="tani" creationdate="20230115T120755Z">
+        <seg>Spiffe 44人の作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spire Logo</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T105725Z" creationid="tani" creationdate="20230104T105725Z">
@@ -3384,8 +3248,8 @@
       <tuv lang="en-US">
         <seg>SpireAuthors 54</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223332Z" creationid="tani" creationdate="20230104T105435Z">
-        <seg>スパイアオーサーズ 54</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120802Z" creationid="tani" creationdate="20230104T105435Z">
+        <seg>Spire 54人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,18 +3270,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>TUF Logo</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223445Z" creationid="tani" creationdate="20230104T112557Z">
-        <seg>TUF ロゴ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>TUFAuthors 51</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223337Z" creationid="tani" creationdate="20230104T105439Z">
-        <seg>TUF著者 51</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120813Z" creationid="tani" creationdate="20230104T105439Z">
+        <seg>TUF 51人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,8 +3288,8 @@
       <tuv lang="en-US">
         <seg>Telcom Advances</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223516Z" creationid="tani" creationdate="20230104T112630Z">
-        <seg>通信の進歩</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T123229Z" creationid="tani" creationdate="20230104T112630Z">
+        <seg>テレコムの進歩</seg>
       </tuv>
     </tu>
     <tu>
@@ -3537,8 +3393,8 @@
       <tuv lang="en-US">
         <seg>The Technical Oversight Committee doubled down on cloud native security in 2022, and approved the formation of a new Technical Advisory Group, TAG Environmental Sustainability focusing on carbon outputs around cloud native computing.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223244Z" creationid="tani" creationdate="20230104T112328Z">
-        <seg>技術監視委員会は、2022 年にクラウド ネイティブ セキュリティを強化し、クラウド ネイティブ コンピューティングに関する炭素排出量に焦点を当てた新しい技術諮問グループ TAG Environmental Sustainability の形成を承認しました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T115536Z" creationid="tani" creationdate="20230104T112328Z">
+        <seg>Technical Oversight Committee（技術監督委員会）は、2022 年にクラウド ネイティブにおけるセキュリティを強化しました。また、クラウド ネイティブ コンピューティングに関する炭素排出量に焦点を当てた新たな技術諮問グループ（Technical Advisory Group）となる、「TAG Environmental Sustainability」 を発足を承認しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3569,8 +3425,8 @@
       <tuv lang="en-US">
         <seg>The following CNCF projects have completed security audits or associated work</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223410Z" creationid="tani" creationdate="20230104T112517Z">
-        <seg>次の CNCF プロジェクトは、セキュリティ監査または関連作業を完了しています</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122321Z" creationid="tani" creationdate="20230104T112517Z">
+        <seg>以下の CNCF プロジェクトは、セキュリティ監査またそれにかかる作業が完了しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,8 +3617,8 @@
       <tuv lang="en-US">
         <seg>Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting 20 graduated projects, 35 incubating and 102 sandbox projects, driven by more than 178,000 contributors representing 189 countries.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223239Z" creationid="tani" creationdate="20230104T112321Z">
-        <seg>2022 年を通じて、CNCF はクラウド ネイティブをユビキタスにするという当社のコミットメントを強調しました。189 か国を代表する 178,000 人を超える貢献者によって推進された 20 の卒業プロジェクト、35 のインキュベーション プロジェクト、102 のサンドボックス プロジェクトをホストしています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T115143Z" creationid="tani" creationdate="20230104T112321Z">
+        <seg>CNCF は2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは189 か国を代表する 178,000 人を超えるコントリビューターたちによって推進された 20 の Graduated プロジェクト、35 の Incubating プロジェクト、102 の Sandbx プロジェクトをホストしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,8 +3633,8 @@
       <tuv lang="en-US">
         <seg>TiKVAuthors 257</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223334Z" creationid="tani" creationdate="20230104T223334Z">
-        <seg>TiKV作者 257</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120808Z" creationid="tani" creationdate="20230104T223334Z">
+        <seg>TiKV 257人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3811,14 +3667,6 @@
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230104T223703Z" creationid="tani" creationdate="20230104T105805Z">
         <seg>今日の Phippy and Friends の使命は、クラウド ネイティブ コンピューティングの謎を解き明かし、複雑な概念を説得力のある魅力的なわかりやすい方法で説明することです。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Tool icon</seg>
-      </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T112619Z" creationid="tani" creationdate="20230104T112619Z">
-        <seg>ツールアイコン</seg>
       </tuv>
     </tu>
     <tu>
@@ -4007,10 +3855,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Vitess Logo</seg>
+        <seg>VitessAuthors 101</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223447Z" creationid="tani" creationdate="20230104T112559Z">
-        <seg>ビテス ロゴ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120820Z" creationid="tani" creationdate="20230115T120820Z">
+        <seg>Vitess 101人の作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -4025,8 +3873,8 @@
       <tuv lang="en-US">
         <seg>We also announced the inaugural CloudNative SecurityCon, which will launch in 2023, and bring application developers and modern security experts not just propose solutions that incrementally improve what has come before, but to give room to cutting edge projects and advances in modern security approaches.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223405Z" creationid="tani" creationdate="20230104T112511Z">
-        <seg>また、2023 年に開始される初の CloudNative SecurityCon も発表しました。これにより、アプリケーション開発者と最新のセキュリティ専門家が、以前のものを徐々に改善するソリューションを提案するだけでなく、最先端のプロジェクトと最新のセキュリティ アプローチの進歩に余地を与えることができます。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T122148Z" creationid="tani" creationdate="20230104T112511Z">
+        <seg>また、2023 年に開始される初の CloudNative SecurityCon も発表しました。ここではアプリケーション開発者と最新のセキュリティ専門家が、過去のものの漸進的に改善するソリューションを提案するだけでなく、最先端のプロジェクトとモダンなセキュリティ アプローチについての機会を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4225,8 +4073,8 @@
       <tuv lang="en-US">
         <seg>With the largest contributor base, Kubernetes continues to mature</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223346Z" creationid="tani" creationdate="20230104T105448Z">
-        <seg>最大の貢献者ベースにより、Kubernetes は成熟し続けています</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T121039Z" creationid="tani" creationdate="20230104T105448Z">
+        <seg>最大規模のコントリビュータ ベースをとともに、Kubernetes は成熟し続けている</seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,16 +4129,16 @@
       <tuv lang="en-US">
         <seg>containerdAuthors 255</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223257Z" creationid="tani" creationdate="20230104T223257Z">
-        <seg>コンテナd作者 255</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120458Z" creationid="tani" creationdate="20230104T223257Z">
+        <seg>containerd 255人の作者</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>etcdAuthors 115</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230104T223303Z" creationid="tani" creationdate="20230104T223303Z">
-        <seg>etcd作者 115</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230115T120523Z" creationid="tani" creationdate="20230104T223303Z">
+        <seg>etcd 115人の作者</seg>
       </tuv>
     </tu>
     <tu>

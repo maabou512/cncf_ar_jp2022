@@ -2285,115 +2285,115 @@
 </trans-unit>
 <trans-unit id="tu571" restype="x-paragraph">
 <source xml:lang="en-US">Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting <g id="1" ctype="link" equiv-text="[#$dp838]">20 graduated projects</g>, <g id="2" ctype="link" equiv-text="[#$dp839]">35 incubating</g> and <g id="3" ctype="link" equiv-text="[#$dp840]">102 sandbox projects</g>, driven by more than <g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;">178,000 contributors</g> representing <g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;">189 countries</g>.</source>
-<target xml:lang="ja-JP">2022 年を通じて、CNCF はクラウド ネイティブをユビキタスにするという当社のコミットメントを強調しました。189 か国を代表する 178,000 人を超える貢献者によって推進された 20 の卒業プロジェクト、35 のインキュベーション プロジェクト、102 のサンドボックス プロジェクトをホストしています。<g id="1" ctype="link" equiv-text="[#$dp838]"></g><g id="2" ctype="link" equiv-text="[#$dp839]"></g><g id="3" ctype="link" equiv-text="[#$dp840]"></g><g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">CNCF は2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは189 か国を代表する 178,000 人を超えるコントリビューターたちによって推進された 20 の Graduated プロジェクト、35 の Incubating プロジェクト、102 の Sandbx プロジェクトをホストしています。<g id="1" ctype="link" equiv-text="[#$dp838]"></g><g id="2" ctype="link" equiv-text="[#$dp839]"></g><g id="3" ctype="link" equiv-text="[#$dp840]"></g><g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="5" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu572" restype="x-paragraph">
 <source xml:lang="en-US">Projects Accepted Over Time</source>
-<target xml:lang="ja-JP">時間の経過とともに受け入れられたプロジェクト</target>
+<target xml:lang="ja-JP">受け入れられたプロジェクトの推移</target>
 </trans-unit>
 <trans-unit id="tu573" restype="x-paragraph">
 <source xml:lang="en-US">The <g id="1" ctype="link" equiv-text="[#$dp845]">Technical Oversight Committee</g> doubled down on cloud native security in 2022, and approved the formation of a new Technical Advisory Group, TAG Environmental Sustainability focusing on carbon outputs around cloud native computing.</source>
-<target xml:lang="ja-JP">技術監視委員会は、2022 年にクラウド ネイティブ セキュリティを強化し、クラウド ネイティブ コンピューティングに関する炭素排出量に焦点を当てた新しい技術諮問グループ TAG Environmental Sustainability の形成を承認しました。<g id="1" ctype="link" equiv-text="[#$dp845]"></g></target>
+<target xml:lang="ja-JP">Technical Oversight Committee（技術監督委員会）は、2022 年にクラウド ネイティブにおけるセキュリティを強化しました。また、クラウド ネイティブ コンピューティングに関する炭素排出量に焦点を当てた新たな技術諮問グループ（Technical Advisory Group）となる、「TAG Environmental Sustainability」 を発足を承認しました。<g id="1" ctype="link" equiv-text="[#$dp845]"></g></target>
 </trans-unit>
 <trans-unit id="tu574" restype="x-paragraph">
 <source xml:lang="en-US">CNCF Project Velocity</source>
-<target xml:lang="ja-JP">CNCF プロジェクト速度</target>
+<target xml:lang="ja-JP">CNCF プロジェクトの速度</target>
 </trans-unit>
 <trans-unit id="tu575" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp850]">Consistently looking into CNCF project's velocity</g> and the top open source projects gives us a very good indication of trends that are resonating with developers and end users. As a result, we can get insight into platforms that will likely be successful:</source>
-<target xml:lang="ja-JP">CNCF プロジェクトの速度と上位のオープン ソース プロジェクトを常に調査することで、開発者とエンド ユーザーの共感を呼んでいる傾向を非常によく知ることができます。その結果、成功する可能性が高いプラットフォームについての洞察を得ることができます。<g id="1" ctype="link" equiv-text="[#$dp850]"></g></target>
+<target xml:lang="ja-JP">CNCF プロジェクトの速度（Velocity）や、上位に位置するオープンソースプロジェクトを定期観測することで、開発者やエンドユーザーが共鳴しているトレンドをとてもよく知ることができます。その結果として、成功に向かうであろうプラットフォームについての洞察を得ることができるのです。<g id="1" ctype="link" equiv-text="[#$dp850]"></g></target>
 </trans-unit>
 <trans-unit id="tu576">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Argo</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 814</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">アルゴオーサーズ 814<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Argo  814人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu577">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Backstage</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 580</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">バックステージオーサーズ 580<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Backstage 580人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu578">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">containerd</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 255</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">コンテナd作者 255<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">containerd 255人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu579">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">CoreDNS</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 69</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">CoreDNS</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 69</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">CoreDNS 69人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu580">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Envoy</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 399</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Envoy</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 399</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Envoy 399人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu581">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">etcd</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 115</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">etcd作者 115<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">etcd 115人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu582">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Fluentd</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 275</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">FluentdAuthor 275<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Fluentd 275人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu583">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Flux</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 258</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">フラックスオーサーズ 258<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Flux 258人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu584">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Harbor</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 126</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">ハーバーオーサーズ 126<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Harbor 126人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu585">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Helm</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 160</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">ヘルムオーサーズ 160<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Helm 160人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu586">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Jaeger</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 145</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">イエガーオーサーズ 145<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Jaeger 145人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu587">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Kubernetes</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 3619</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Kubernetes作者 3619<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Kubernetes 3619人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu588">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Linkerd</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 122</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Linkerd作者 122<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Linkerd 122人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu589">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">OPA</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 259</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">OPA作成者 259<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">OPA 259人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu590">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">OpenTelemetry</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 1133</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">OpenTelemetry作成者 1133<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">OpenTelemetry  1133人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu591">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Prometheus</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 424</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">プロメテウス作者 424<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Prometheus 424人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu592">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Rook</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 99</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">ルークオーサーズ 99<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Rook 99人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu593">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Spiffe</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 44</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Spiffe</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 44</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Spiffe 44人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu594">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Spire</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 54</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">スパイアオーサーズ 54<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Spire 54人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu595">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">TiKV</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 257</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">TiKV作者 257<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">TiKV 257人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu596">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">TUF</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 51</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">TUF著者 51<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">TUF 51人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu597">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Vitess</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 101</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;"><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Vitess</g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>Authors 101</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">Vitess 101人の作者<g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/></g></target>
 </trans-unit>
 <trans-unit id="tu599" restype="x-alt">
 <source xml:lang="en-US">CNCF Project Velocity chart</source>
-<target xml:lang="ja-JP">CNCF プロジェクト ベロシティ チャート</target>
+<target xml:lang="ja-JP">CNCF プロジェクトの速度チャート</target>
 </trans-unit>
 <trans-unit id="tu598">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp875]"/></source>
@@ -2401,27 +2401,27 @@
 </trans-unit>
 <trans-unit id="tu600" restype="x-paragraph">
 <source xml:lang="en-US">Project Velocity Key Takeaways</source>
-<target xml:lang="ja-JP">プロジェクト速度の重要ポイント</target>
+<target xml:lang="ja-JP">プロジェクト速度に関する重要ポイント（Takeaways）</target>
 </trans-unit>
 <trans-unit id="tu601" restype="x-li">
 <source xml:lang="en-US">With the largest contributor base, <g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Kubernetes</g> continues to mature</source>
-<target xml:lang="ja-JP">最大の貢献者ベースにより、Kubernetes は成熟し続けています<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">最大規模のコントリビュータ ベースをとともに、Kubernetes は成熟し続けている<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu602" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">OpenTelemetry</g> has become the second highest velocity project in the CNCF ecosystem, increasing its contributor base</source>
-<target xml:lang="ja-JP">OpenTelemetry は、CNCF エコシステムで 2 番目に速度の高いプロジェクトになり、貢献者ベースを増やしています<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">OpenTelemetry は、CNCF エコシステムで 2 番目に速度が高いプロジェクトになり、コントリビューター ベースを増やしている<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu603" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Backstage</g> has seen one of the fastest growth trajectories this year - solving an important pain point around cloud native developer experience</source>
-<target xml:lang="ja-JP">Backstage は今年、最も急速に成長した軌道の 1 つを目にしており、クラウド ネイティブ デベロッパー エクスペリエンスに関する重要な問題点を解決しています。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">Backstage は今年最も急速な成長軌道を目の当たりにした1 つで、クラウド ネイティブのデベロッパー エクスペリエンスに関する重要な問題点を解決しようとしている<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu604" restype="x-li">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">GitOps</g> remains an important technique in the cloud native ecosystem, where projects like <g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Argo</g> and <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">Flux</g> continue to cultivate large communities</source>
-<target xml:lang="ja-JP">GitOps は、Argo や Flux などのプロジェクトが大規模なコミュニティを開拓し続けているクラウド ネイティブ エコシステムにおいて重要な技術であり続けています。<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
+<target xml:lang="ja-JP">GitOps は、Argo や Flux などのプロジェクトが大きなコミュニティを育て続けているような、クラウド ネイティブ エコシステムにおいて重要なテクニックであり続けている<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu606" restype="x-alt">
 <source xml:lang="en-US">Chris Aniszczyk</source>
-<target xml:lang="ja-JP">クリス・アニシュチック</target>
+<target xml:lang="ja-JP">Chris Aniszczyk</target>
 </trans-unit>
 <trans-unit id="tu605">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp887]"/></source>
@@ -2429,23 +2429,23 @@
 </trans-unit>
 <trans-unit id="tu607" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Chris Aniszczyk</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> CTO, CNCF</source>
-<target xml:lang="ja-JP">クリス・アニシュチック CTO、CNCF<g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-strong" equiv-text="&lt;strong&gt;">Chris Aniszczyk</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> CTO, CNCF</target>
 </trans-unit>
 <trans-unit id="tu608" restype="x-h2">
 <source xml:lang="en-US">Security</source>
-<target xml:lang="ja-JP">安全</target>
+<target xml:lang="ja-JP">セキュリティ</target>
 </trans-unit>
 <trans-unit id="tu609" restype="x-paragraph">
 <source xml:lang="en-US">CNCF conducted a number of <g id="1" ctype="link" equiv-text="[#$dp892]">open source security audits</g> throughout 2022, in strategic partnership with the <g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;">Open Source Technology Improvement Fund (OSTIF)</g>. A number of projects completed security audits, resulting in 132 security fixes and improvements, <g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;">45 CVE's fixed</g>, and <g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;">51 security tools built</g>. We also announced the inaugural <g id="5" ctype="link" equiv-text="[#$dp893]">CloudNative SecurityCon</g>, which will launch in 2023, and bring application developers and modern security experts not just propose solutions that incrementally improve what has come before, but to give room to cutting edge projects and advances in modern security approaches. <x id="6" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/>Furthermore, <g id="8" ctype="link" equiv-text="[#$dp894]">CNCF funded fuzzing audits</g> for a variety of projects that have resulted in hundreds of bugs being found.</source>
-<target xml:lang="ja-JP">CNCF は、Open Source Technology Improvement Fund (OSTIF) との戦略的パートナーシップにより、2022 年を通じて多数のオープンソース セキュリティ監査を実施しました。多くのプロジェクトがセキュリティ監査を完了し、132 件のセキュリティ修正と改善、45 件の CVE の修正、51 件のセキュリティ ツールの構築が行われました。また、2023 年に開始される初の CloudNative SecurityCon も発表しました。これにより、アプリケーション開発者と最新のセキュリティ専門家が、以前のものを徐々に改善するソリューションを提案するだけでなく、最先端のプロジェクトと最新のセキュリティ アプローチの進歩に余地を与えることができます。さらに、CNCF はさまざまなプロジェクトのファジング監査に資金を提供し、その結果、何百ものバグが発見されました。<g id="1" ctype="link" equiv-text="[#$dp892]"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="5" ctype="link" equiv-text="[#$dp893]"></g><x id="6" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="8" ctype="link" equiv-text="[#$dp894]"></g></target>
+<target xml:lang="ja-JP">CNCF は、Open Source Technology Improvement Fund （OSTIF） との戦略的パートナーシップにより、2022 年を通じて多数のオープンソース セキュリティ監査を実施しました。多くのプロジェクトがセキュリティ監査を完了しました。この結果 132 件のセキュリティ修正や改善、45 件の CVE 修正、51 件のセキュリティ ツールの構築が行われました。また、2023 年に開始される初の CloudNative SecurityCon も発表しました。ここではアプリケーション開発者と最新のセキュリティ専門家が、過去のものの漸進的に改善するソリューションを提案するだけでなく、最先端のプロジェクトとモダンなセキュリティ アプローチについての機会を提供します。さらに、CNCF はさまざまなプロジェクトのファジング監査に資金を提供し、その結果、何百ものバグ発見につながりました。<g id="1" ctype="link" equiv-text="[#$dp892]"></g><g id="2" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="3" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="4" ctype="x-strong" equiv-text="&lt;strong&gt;"></g><g id="5" ctype="link" equiv-text="[#$dp893]"></g><x id="6" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="8" ctype="link" equiv-text="[#$dp894]"></g></target>
 </trans-unit>
 <trans-unit id="tu610" restype="x-paragraph">
 <source xml:lang="en-US">The following CNCF projects have completed security audits or associated work</source>
-<target xml:lang="ja-JP">次の CNCF プロジェクトは、セキュリティ監査または関連作業を完了しています</target>
+<target xml:lang="ja-JP">以下の CNCF プロジェクトは、セキュリティ監査またそれにかかる作業が完了しています</target>
 </trans-unit>
 <trans-unit id="tu612" restype="x-alt">
 <source xml:lang="en-US">Argo Logo</source>
-<target xml:lang="ja-JP">アルゴ ロゴ</target>
+<target xml:lang="ja-JP">Argo Logo</target>
 </trans-unit>
 <trans-unit id="tu611">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp899]"/></source>
@@ -2453,7 +2453,7 @@
 </trans-unit>
 <trans-unit id="tu614" restype="x-alt">
 <source xml:lang="en-US">Backstage Logo</source>
-<target xml:lang="ja-JP">バックステージのロゴ</target>
+<target xml:lang="ja-JP">Backstage Logo</target>
 </trans-unit>
 <trans-unit id="tu613">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp901]"/></source>
@@ -2461,7 +2461,7 @@
 </trans-unit>
 <trans-unit id="tu616" restype="x-alt">
 <source xml:lang="en-US">Cilium Logo</source>
-<target xml:lang="ja-JP">繊毛虫のロゴ</target>
+<target xml:lang="ja-JP">Cilium Logo</target>
 </trans-unit>
 <trans-unit id="tu615">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp903]"/></source>
@@ -2469,7 +2469,7 @@
 </trans-unit>
 <trans-unit id="tu618" restype="x-alt">
 <source xml:lang="en-US">Cloud Events Logo</source>
-<target xml:lang="ja-JP">クラウド イベント ロゴ</target>
+<target xml:lang="ja-JP">Cloud Events Logo</target>
 </trans-unit>
 <trans-unit id="tu617">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp905]"/></source>
@@ -2477,7 +2477,7 @@
 </trans-unit>
 <trans-unit id="tu620" restype="x-alt">
 <source xml:lang="en-US">ContainerD Logo</source>
-<target xml:lang="ja-JP">ContainerD ロゴ</target>
+<target xml:lang="ja-JP">ContainerD Logo</target>
 </trans-unit>
 <trans-unit id="tu619">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp907]"/></source>
@@ -2485,7 +2485,7 @@
 </trans-unit>
 <trans-unit id="tu622" restype="x-alt">
 <source xml:lang="en-US">Contour Logo</source>
-<target xml:lang="ja-JP">輪郭のロゴ</target>
+<target xml:lang="ja-JP">Contour Logo</target>
 </trans-unit>
 <trans-unit id="tu621">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp909]"/></source>
@@ -2493,7 +2493,7 @@
 </trans-unit>
 <trans-unit id="tu624" restype="x-alt">
 <source xml:lang="en-US">Crio Logo</source>
-<target xml:lang="ja-JP">クリオ ロゴ</target>
+<target xml:lang="ja-JP">Crio Logo</target>
 </trans-unit>
 <trans-unit id="tu623">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp911]"/></source>
@@ -2501,7 +2501,7 @@
 </trans-unit>
 <trans-unit id="tu626" restype="x-alt">
 <source xml:lang="en-US">Envoy Logo</source>
-<target xml:lang="ja-JP">特使のロゴ</target>
+<target xml:lang="ja-JP">Envoy Logo</target>
 </trans-unit>
 <trans-unit id="tu625">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp913]"/></source>
@@ -2509,7 +2509,7 @@
 </trans-unit>
 <trans-unit id="tu628" restype="x-alt">
 <source xml:lang="en-US">Falco Logo</source>
-<target xml:lang="ja-JP">ファルコ ロゴ</target>
+<target xml:lang="ja-JP">Falco Logo</target>
 </trans-unit>
 <trans-unit id="tu627">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp915]"/></source>
@@ -2517,7 +2517,7 @@
 </trans-unit>
 <trans-unit id="tu630" restype="x-alt">
 <source xml:lang="en-US">Flux Logo</source>
-<target xml:lang="ja-JP">フラックス ロゴ</target>
+<target xml:lang="ja-JP">Flux Logo</target>
 </trans-unit>
 <trans-unit id="tu629">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp917]"/></source>
@@ -2525,7 +2525,7 @@
 </trans-unit>
 <trans-unit id="tu632" restype="x-alt">
 <source xml:lang="en-US">Istio Logo</source>
-<target xml:lang="ja-JP">イスティオのロゴ</target>
+<target xml:lang="ja-JP">Istio Logo</target>
 </trans-unit>
 <trans-unit id="tu631">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp919]"/></source>
@@ -2533,7 +2533,7 @@
 </trans-unit>
 <trans-unit id="tu634" restype="x-alt">
 <source xml:lang="en-US">Keda Logo</source>
-<target xml:lang="ja-JP">ケダ ロゴ</target>
+<target xml:lang="ja-JP">Keda Logo</target>
 </trans-unit>
 <trans-unit id="tu633">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp921]"/></source>
@@ -2541,7 +2541,7 @@
 </trans-unit>
 <trans-unit id="tu636" restype="x-alt">
 <source xml:lang="en-US">Kube Edge Logo</source>
-<target xml:lang="ja-JP">キューブエッジ ロゴ</target>
+<target xml:lang="ja-JP">Kube Edge Logo</target>
 </trans-unit>
 <trans-unit id="tu635">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp923]"/></source>
@@ -2549,7 +2549,7 @@
 </trans-unit>
 <trans-unit id="tu638" restype="x-alt">
 <source xml:lang="en-US">Kubernetes Logo</source>
-<target xml:lang="ja-JP">Kubernetes ロゴ</target>
+<target xml:lang="ja-JP">Kubernetes Logo</target>
 </trans-unit>
 <trans-unit id="tu637">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp925]"/></source>
@@ -2557,7 +2557,7 @@
 </trans-unit>
 <trans-unit id="tu640" restype="x-alt">
 <source xml:lang="en-US">Linkerd Logo</source>
-<target xml:lang="ja-JP">リンカード ロゴ</target>
+<target xml:lang="ja-JP">Linkerd Logo</target>
 </trans-unit>
 <trans-unit id="tu639">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp927]"/></source>
@@ -2565,7 +2565,7 @@
 </trans-unit>
 <trans-unit id="tu642" restype="x-alt">
 <source xml:lang="en-US">TUF Logo</source>
-<target xml:lang="ja-JP">TUF ロゴ</target>
+<target xml:lang="ja-JP">TUF Logo</target>
 </trans-unit>
 <trans-unit id="tu641">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp929]"/></source>
@@ -2573,7 +2573,7 @@
 </trans-unit>
 <trans-unit id="tu644" restype="x-alt">
 <source xml:lang="en-US">Vitess Logo</source>
-<target xml:lang="ja-JP">ビテス ロゴ</target>
+<target xml:lang="ja-JP">Vitess Logo</target>
 </trans-unit>
 <trans-unit id="tu643">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp931]"/></source>
@@ -2581,11 +2581,11 @@
 </trans-unit>
 <trans-unit id="tu645" restype="x-paragraph">
 <source xml:lang="en-US">Improvements At A Glance</source>
-<target xml:lang="ja-JP">改善点の概要</target>
+<target xml:lang="ja-JP">改善ポイント概要</target>
 </trans-unit>
 <trans-unit id="tu647" restype="x-alt">
 <source xml:lang="en-US">Checkmark icon</source>
-<target xml:lang="ja-JP">チェックマーク アイコン</target>
+<target xml:lang="ja-JP">Checkmark icon</target>
 </trans-unit>
 <trans-unit id="tu646">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp935]"/></source>
@@ -2593,11 +2593,11 @@
 </trans-unit>
 <trans-unit id="tu648">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">132</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Security Fixes and Improvements</g></source>
-<target xml:lang="ja-JP">132セキュリティの修正と改善<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">132のセキュリティFIXと改善<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu650" restype="x-alt">
 <source xml:lang="en-US">Flag icon</source>
-<target xml:lang="ja-JP">旗のアイコン</target>
+<target xml:lang="ja-JP">Flag icon</target>
 </trans-unit>
 <trans-unit id="tu649">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp938]"/></source>
@@ -2605,11 +2605,11 @@
 </trans-unit>
 <trans-unit id="tu651">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">45</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">CVE's Reported and Fixed</g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;"> Includes 5 critical and 10 high severity findings fixed </g></source>
-<target xml:lang="ja-JP">45CVE の報告済みおよび修正済み 5 件の重大な発見と 10 件の重大度の高い発見が修正されました<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">45の CVE の報告および修正。ここには5 件のクリティカル案件 10 件の深刻度の高い発見と修正が含まれる<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g><g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu653" restype="x-alt">
 <source xml:lang="en-US">Tool icon</source>
-<target xml:lang="ja-JP">ツールアイコン</target>
+<target xml:lang="ja-JP">Tool icon</target>
 </trans-unit>
 <trans-unit id="tu652">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp941]"/></source>
@@ -2617,11 +2617,11 @@
 </trans-unit>
 <trans-unit id="tu654">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">51</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Security Tools Built</g></source>
-<target xml:lang="ja-JP">51セキュリティ ツールの構築<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">51のセキュリティ ツールの構築<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu656" restype="x-alt">
 <source xml:lang="en-US">Checlist icon</source>
-<target xml:lang="ja-JP">チェックリストのアイコン</target>
+<target xml:lang="ja-JP">Checlist icon</target>
 </trans-unit>
 <trans-unit id="tu655">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp944]"/></source>
@@ -2629,15 +2629,15 @@
 </trans-unit>
 <trans-unit id="tu657">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number small&quot;&gt;">Denial of service, XSS, Path Traversal, Privilege Escalation, RCE</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Types of Vulnerabilities Fixed</g></source>
-<target xml:lang="ja-JP">DoS、XSS、パス トラバーサル、権限昇格、RCE 修正された脆弱性の種類<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number small&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">DoS、XSS、パストラバーサル、権限昇格、RCE といったタイプの脆弱性のFIX<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number small&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu658" restype="x-h2">
 <source xml:lang="en-US">Telcom Advances</source>
-<target xml:lang="ja-JP">通信の進歩</target>
+<target xml:lang="ja-JP">テレコムの進歩</target>
 </trans-unit>
 <trans-unit id="tu659" restype="x-paragraph">
 <source xml:lang="en-US">CNCF's footprint in the Telecom domain increased throughout 2022. In May, the <g id="1" ctype="link" equiv-text="[#$dp949]">Cloud Native Network Function (CNF) Certification Program (beta)</g> was announced to help Communication Service Providers (CSPs) validate how well their vendors' products follow cloud native principles, and to advise vendors on following cloud native best practices. This is supported by CSPs like Vodafone, Deutsche Telekom and DISH Wireless, and guided by best practices from the <g id="2" ctype="link" equiv-text="[#$dp950]">Cloud Native Network Function (CNF) Working Group</g> and runs certification tests on the <g id="3" ctype="link" equiv-text="[#$dp951]">CNF Test Suite</g>.</source>
-<target xml:lang="ja-JP">テレコム ドメインにおける CNCF のフットプリントは、2022 年を通じて増加しました。5 月に、クラウド ネイティブ ネットワーク機能 (CNF) 認定プログラム (ベータ) が発表されました。これは、通信サービス プロバイダー (CSP) がベンダーの製品がクラウド ネイティブの原則にどの程度準拠しているかを検証し、クラウド ネイティブのベスト プラクティスに従うようベンダーにアドバイスするのに役立ちます。これは、Vodafone、Deutsche Telekom、DISH Wireless などの CSP によってサポートされており、クラウド ネイティブ ネットワーク機能 (CNF) ワーキング グループのベスト プラクティスによって導かれ、CNF テスト スイートで認定テストを実行します。<g id="1" ctype="link" equiv-text="[#$dp949]"></g><g id="2" ctype="link" equiv-text="[#$dp950]"></g><g id="3" ctype="link" equiv-text="[#$dp951]"></g></target>
+<target xml:lang="ja-JP">2022年はテレコム 業界でCNCF のフットプリントが増加した年となりました。5 月に、クラウド ネイティブ ネットワーク機能 (CNF) 認定プログラム (ベータ) が発表されました。これは、通信サービス プロバイダー (CSP) がベンダーの製品がクラウド ネイティブの原則にどの程度準拠しているかを検証し、クラウド ネイティブのベスト プラクティスに従うようベンダーにアドバイスするのに役立ちます。これは、Vodafone、Deutsche Telekom、DISH Wireless などの CSP によってサポートされており、クラウド ネイティブ ネットワーク機能 (CNF) ワーキング グループのベスト プラクティスによって導かれ、CNF テスト スイートで認定テストを実行します。<g id="1" ctype="link" equiv-text="[#$dp949]"></g><g id="2" ctype="link" equiv-text="[#$dp950]"></g><g id="3" ctype="link" equiv-text="[#$dp951]"></g></target>
 </trans-unit>
 <trans-unit id="tu660" restype="x-paragraph">
 <source xml:lang="en-US">Highlights</source>
@@ -2729,7 +2729,7 @@
 </trans-unit>
 <trans-unit id="tu683" restype="x-alt">
 <source xml:lang="en-US">Argo Logo</source>
-<target xml:lang="ja-JP">アルゴ ロゴ</target>
+<target xml:lang="ja-JP">Argo Logo</target>
 </trans-unit>
 <trans-unit id="tu682">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp997]"/></source>
@@ -2737,7 +2737,7 @@
 </trans-unit>
 <trans-unit id="tu685" restype="x-alt">
 <source xml:lang="en-US">Flux Logo</source>
-<target xml:lang="ja-JP">フラックス ロゴ</target>
+<target xml:lang="ja-JP">Flux Logo</target>
 </trans-unit>
 <trans-unit id="tu684">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp999]"/></source>
@@ -2769,7 +2769,7 @@
 </trans-unit>
 <trans-unit id="tu693" restype="x-alt">
 <source xml:lang="en-US">Backstage Logo</source>
-<target xml:lang="ja-JP">バックステージのロゴ</target>
+<target xml:lang="ja-JP">Backstage Logo</target>
 </trans-unit>
 <trans-unit id="tu692">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp1009]"/></source>
@@ -2817,7 +2817,7 @@
 </trans-unit>
 <trans-unit id="tu705" restype="x-alt">
 <source xml:lang="en-US">Istio Logo</source>
-<target xml:lang="ja-JP">イスティオのロゴ</target>
+<target xml:lang="ja-JP">Istio Logo</target>
 </trans-unit>
 <trans-unit id="tu704">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp1021]"/></source>

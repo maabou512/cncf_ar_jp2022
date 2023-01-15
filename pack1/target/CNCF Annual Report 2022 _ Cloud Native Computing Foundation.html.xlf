@@ -1721,7 +1721,7 @@
 </trans-unit>
 <trans-unit id="tu430" restype="x-li">
 <source xml:lang="en-US">Agree to ensure the final program schedule is diverse (e.g., not all speakers of one gender, one culture, or age)</source>
-<target xml:lang="ja-JP">最終的なプログラム スケジュールが多様なものとなることについて同意すること（たとえば、すべてのスピーカーが 1 つの性別、単一の文化、または年齢層となっていないこと、など)</target>
+<target xml:lang="ja-JP">最終的なプログラムスケジュールが多様なものとなることについて同意すること（たとえば、すべてのスピーカーが 1 つの性別、単一の文化、または年齢層となっていないこと、など)</target>
 </trans-unit>
 <trans-unit id="tu431" restype="x-li">
 <source xml:lang="en-US">To assure a diverse lineup, you must send a copy of your program to <g id="1" ctype="link" equiv-text="[#$dp626]">kcd@cncf.io</g> for review and approval before publication.</source>
@@ -1741,27 +1741,27 @@
 </trans-unit>
 <trans-unit id="tu435" restype="x-h2">
 <source xml:lang="en-US">Code of Conduct <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Process Improvements</source>
-<target xml:lang="ja-JP">行動規範プロセスの改善<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">Code of Conduct （行動規範）のプロセス改善<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu436" restype="x-paragraph">
 <source xml:lang="en-US">When we returned to having in-person events, both the number and severity of Code of Conduct incidents increased. Our increased focus on Code of Conduct highlighted the need to modernize our processes, which had previously been entirely foundation-managed, by including community representation and providing greater transparency. As a result, this year:</source>
-<target xml:lang="ja-JP">対面イベントの開催に戻ったとき、行動規範インシデントの数と深刻度の両方が増加しました。行動規範への関心が高まったことで、以前は完全に財団が管理していたプロセスを、コミュニティの代表者を含めて透明性を高めることで近代化する必要性が浮き彫りになりました。その結果、今年は次のようになりました。</target>
+<target xml:lang="ja-JP">私たちが対面イベントに戻ったとき、Code of Conduct 関連のインシデントについて発生数と深刻度の両方が増加しました。Code of Conduct への関心が高まったことで、以前はその全体をファンデーション側で管理していたプロセスを、コミュニティの代表者を含めて透明性を高めることでモダナイズする（今に即した形にする）必要性が浮き彫りになりました。その結果、今年以下のような取り組みが行われました。</target>
 </trans-unit>
 <trans-unit id="tu437" restype="x-li">
 <source xml:lang="en-US">We launched a <g id="1" ctype="link" equiv-text="[#$dp643]">Code of Conduct Working Group</g> to develop an updated structure and set of procedures. Their work is ongoing, and anyone in the community is welcome to participate and contribute. <g id="2" ctype="link" equiv-text="[#$dp644]">Visit the working group's repository</g> to participate, view progress, and learn more.</source>
-<target xml:lang="ja-JP">私たちは行動規範ワーキンググループを立ち上げ、最新の構造と一連の手順を開発しました。彼らの仕事は進行中であり、コミュニティの誰でも参加して貢献することができます。ワーキング グループのリポジトリにアクセスして、参加し、進捗状況を確認し、詳細を確認してください。<g id="1" ctype="link" equiv-text="[#$dp643]"></g><g id="2" ctype="link" equiv-text="[#$dp644]"></g></target>
+<target xml:lang="ja-JP">一連の手続きと構造のアップデート版を開発するためにCode of Conduct ワーキンググループを立ち上げました。その取り組みは目下進行中であり、コミュニティの誰にでも参加してコントリビューションする機会があります。ワーキング グループへの参加したり、進捗をチェックやその他詳細情報についてはのリポジトリにアクセスしてみてください。<g id="1" ctype="link" equiv-text="[#$dp643]"></g><g id="2" ctype="link" equiv-text="[#$dp644]"></g></target>
 </trans-unit>
 <trans-unit id="tu438" restype="x-li">
 <source xml:lang="en-US">We also launched an <g id="1" ctype="link" equiv-text="[#$dp647]">Interim Code of Conduct Committee</g> - composed of both community members and staff-to adjudicate incidents while a more permanent structure is under development by the working group. The <g id="2" ctype="link" equiv-text="[#$dp648]">Incident Resolution Procedures</g> that the committee is operating under were published earlier this year and finalized after a public comment period.</source>
-<target xml:lang="ja-JP">また、コミュニティ メンバーとスタッフの両方で構成される暫定行動規範委員会を立ち上げ、インシデントを裁定する一方で、より恒久的な構造がワーキング グループによって開発中です。委員会が運営しているインシデント解決手順は、今年初めに公開され、パブリック コメント期間を経て最終決定されました。<g id="1" ctype="link" equiv-text="[#$dp647]"></g><g id="2" ctype="link" equiv-text="[#$dp648]"></g></target>
+<target xml:lang="ja-JP">また、より恒久的な構造についてワーキング グループによって検討が進む一方で、コミュニティ メンバーとスタッフの両方で構成される 「Interim Code of Conduct Committee （暫定的な行動規範委員会）」を立ち上げることでインシデントに対応するようになりました。委員会が運用している「The Incident Resolution Procedures （インシデント解決手順）」は、今年初めに公開され、パブリック コメント期間を経て最終的なものとなりました。<g id="1" ctype="link" equiv-text="[#$dp647]"></g><g id="2" ctype="link" equiv-text="[#$dp648]"></g></target>
 </trans-unit>
 <trans-unit id="tu439" restype="x-h2">
 <source xml:lang="en-US">KubeCon + <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>CloudNativeCon Europe</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon ヨーロッパ<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">KubeCon + <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>CloudNativeCon Europe</target>
 </trans-unit>
 <trans-unit id="tu440" restype="x-paragraph">
 <source xml:lang="en-US">KubeCon + CloudNativeCon Valencia was the first time we'd gathered #TeamCloudNative in Europe for three years and the atmosphere felt electric. In fact, we had a lot of firsts in Valencia. Boeing joined us as a platinum member - the first aerospace organization to join CNCF. We hosted <g id="1" ctype="link" equiv-text="[#$dp653]">Cloud Native Telco Day</g> for the first time, gathering huge players like Deutsche Telekom and Orange who are advancing the industry. Plus, we hosted our first <g id="2" ctype="link" equiv-text="[#$dp654]">CTO Summit</g> where we discussed how organizations achieve resiliency in multi-cloud strategies.</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon Valencia は、3 年ぶりにヨーロッパで #TeamCloudNative を集めたイベントで、雰囲気は刺激的でした。実際、バレンシアでは多くの初めてのことがありました。ボーイングはプラチナ メンバーとして参加しました。CNCF に参加した最初の航空宇宙組織です。Cloud Native Telco Day を初めて開催し、業界を前進させている Deutsche Telekom や Orange などの大企業を集めました。さらに、最初の CTO サミットを主催し、組織がマルチクラウド戦略で回復力を実現する方法について話し合いました。<g id="1" ctype="link" equiv-text="[#$dp653]"></g><g id="2" ctype="link" equiv-text="[#$dp654]"></g></target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Valencia は、ヨーロッパで #TeamCloudNative を集めた3 年ぶりのイベントとなり、刺激的な雰囲気に満ちた場となりました。実際バレンシアでは、いままで経験したことのない初めてのことがたくさんありました。Boeing（ボーイング）社がプラチナメンバーとして参加しました。CNCF でははじめての航空宇宙業界からの参加です。また、通信業界では「Cloud Native Telco Day」 を初めて開催し、業界を進化させている Deutsche Telekom や Orange などの大手が集まりました。加えて最初の CTO サミットを主催し、組織がマルチクラウド戦略レジリエンスを達成できるやり方について議論されました。<g id="1" ctype="link" equiv-text="[#$dp653]"></g><g id="2" ctype="link" equiv-text="[#$dp654]"></g></target>
 </trans-unit>
 <trans-unit id="tu442" restype="x-alt">
 <source xml:lang="en-US">Welcome to KubeCon + CloudNativeCon Europe 2022</source>
@@ -1773,11 +1773,11 @@
 </trans-unit>
 <trans-unit id="tu443" restype="x-paragraph">
 <source xml:lang="en-US">Attendee Demographics</source>
-<target xml:lang="ja-JP">出席者の人口統計</target>
+<target xml:lang="ja-JP">参加者のデモグラフィック</target>
 </trans-unit>
 <trans-unit id="tu445" restype="x-alt">
 <source xml:lang="en-US">Background flower</source>
-<target xml:lang="ja-JP">背景の花</target>
+<target xml:lang="ja-JP">Background flower</target>
 </trans-unit>
 <trans-unit id="tu444">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp661]"/></source>
@@ -1785,7 +1785,7 @@
 </trans-unit>
 <trans-unit id="tu447" restype="x-alt">
 <source xml:lang="en-US">Showing 18,550 Registered attendees of which 45.2% were men, 6.5% women, 0.4% non-binary/other, and 47.9% preferred not to answer. Of the attendees 7.084 (38%) were in person, 11,466 (62%) were virtual. 65% of visitors were first timers.</source>
-<target xml:lang="ja-JP">18,550 人の登録済み参加者を表示しています。そのうち 45.2% が男性、6.5% が女性、0.4% がノンバイナリー/その他、47.9% が回答しないことを好みました。出席者のうち 7,084 人 (38%) が対面で、11,466 人 (62%) がオンラインでした。訪問者の 65% が初めての訪問者でした。</target>
+<target xml:lang="ja-JP">登録済み参加者18,550 人のうち 45.2% が男性、6.5% が女性、0.4% がノンバイナリー/その他、47.9% が無回答であったことを示しています。参加者のうち7,084 人（38%）が対面参加、11,466 人 （62%） がオンライン参加でした。参加者の 65% が初参加でした。</target>
 </trans-unit>
 <trans-unit id="tu446">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp663]"/></source>
@@ -1797,7 +1797,7 @@
 </trans-unit>
 <trans-unit id="tu450" restype="x-alt">
 <source xml:lang="en-US">Download icon</source>
-<target xml:lang="ja-JP">ダウンロードアイコン</target>
+<target xml:lang="ja-JP">Download icon</target>
 </trans-unit>
 <trans-unit id="tu449">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp667]"/></source>
@@ -1805,7 +1805,7 @@
 </trans-unit>
 <trans-unit id="tu451">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,187</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Submissions</g></source>
-<target xml:lang="ja-JP">1,187件の投稿<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">1,187 件の提案<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu453" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
@@ -1817,11 +1817,11 @@
 </trans-unit>
 <trans-unit id="tu454">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">243</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Speakers</g></source>
-<target xml:lang="ja-JP">243スピーカー<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">243人のスピーカたち<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu455" restype="x-paragraph">
 <source xml:lang="en-US">Top Countries In Attendance</source>
-<target xml:lang="ja-JP">出席率上位の国</target>
+<target xml:lang="ja-JP">参加人数上位国</target>
 </trans-unit>
 <trans-unit id="tu456" restype="x-paragraph">
 <source xml:lang="en-US">Total</source>
@@ -1829,7 +1829,7 @@
 </trans-unit>
 <trans-unit id="tu458" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu457">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp677]"/></source>
@@ -1837,11 +1837,11 @@
 </trans-unit>
 <trans-unit id="tu459">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">3.035</g></source>
-<target xml:lang="ja-JP">アメリカ 3.035<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 3,035人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu461" restype="x-alt">
 <source xml:lang="en-US">German Flag</source>
-<target xml:lang="ja-JP">ドイツの旗</target>
+<target xml:lang="ja-JP">German Flag</target>
 </trans-unit>
 <trans-unit id="tu460">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp680]"/></source>
@@ -1849,11 +1849,11 @@
 </trans-unit>
 <trans-unit id="tu462">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Germany</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">2,463</g></source>
-<target xml:lang="ja-JP">ドイツ 2,463<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">ドイツ 2,463人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu464" restype="x-alt">
 <source xml:lang="en-US">Indian Flag</source>
-<target xml:lang="ja-JP">インドの旗</target>
+<target xml:lang="ja-JP">Indian Flag</target>
 </trans-unit>
 <trans-unit id="tu463">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp683]"/></source>
@@ -1861,15 +1861,15 @@
 </trans-unit>
 <trans-unit id="tu465">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">India</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,798</g></source>
-<target xml:lang="ja-JP">インド 1,798<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">インド 1,798人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu466" restype="x-paragraph">
 <source xml:lang="en-US">In-person</source>
-<target xml:lang="ja-JP">対面</target>
+<target xml:lang="ja-JP">対面参加</target>
 </trans-unit>
 <trans-unit id="tu468" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu467">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp688]"/></source>
@@ -1877,11 +1877,11 @@
 </trans-unit>
 <trans-unit id="tu469">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,309</g></source>
-<target xml:lang="ja-JP">アメリカ 1,309<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 1,309人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu471" restype="x-alt">
 <source xml:lang="en-US">German Flag</source>
-<target xml:lang="ja-JP">ドイツの旗</target>
+<target xml:lang="ja-JP">German Flag</target>
 </trans-unit>
 <trans-unit id="tu470">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp691]"/></source>
@@ -1889,11 +1889,11 @@
 </trans-unit>
 <trans-unit id="tu472">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Germany</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,060</g></source>
-<target xml:lang="ja-JP">ドイツ 1,060<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">ドイツ 1,060人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu474" restype="x-alt">
 <source xml:lang="en-US">UK Flag</source>
-<target xml:lang="ja-JP">英国旗</target>
+<target xml:lang="ja-JP">UK Flag</target>
 </trans-unit>
 <trans-unit id="tu473">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp694]"/></source>
@@ -1901,7 +1901,7 @@
 </trans-unit>
 <trans-unit id="tu475">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">United Kingdom</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">725</g></source>
-<target xml:lang="ja-JP">イギリス 725<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">イギリス 725人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu476" restype="x-paragraph">
 <source xml:lang="en-US">Virtual</source>
@@ -1909,7 +1909,7 @@
 </trans-unit>
 <trans-unit id="tu478" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu477">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp699]"/></source>
@@ -1917,11 +1917,11 @@
 </trans-unit>
 <trans-unit id="tu479">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,725</g></source>
-<target xml:lang="ja-JP">アメリカ 1,725<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 1,725人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu481" restype="x-alt">
 <source xml:lang="en-US">India Flag</source>
-<target xml:lang="ja-JP">インドの国旗</target>
+<target xml:lang="ja-JP">India Flag</target>
 </trans-unit>
 <trans-unit id="tu480">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp702]"/></source>
@@ -1929,11 +1929,11 @@
 </trans-unit>
 <trans-unit id="tu482">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">India</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,702</g></source>
-<target xml:lang="ja-JP">インド 1,702<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">インド 1,702人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu484" restype="x-alt">
 <source xml:lang="en-US">German Flag</source>
-<target xml:lang="ja-JP">ドイツの旗</target>
+<target xml:lang="ja-JP">German Flag</target>
 </trans-unit>
 <trans-unit id="tu483">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp705]"/></source>
@@ -1941,11 +1941,11 @@
 </trans-unit>
 <trans-unit id="tu485">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Germany</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,403</g></source>
-<target xml:lang="ja-JP">ドイツ 1,403<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">ドイツ 1,403人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu486" restype="x-paragraph">
 <source xml:lang="en-US">Have a look at the full details in our transparency report</source>
-<target xml:lang="ja-JP">透明性レポートで詳細をご覧ください</target>
+<target xml:lang="ja-JP">詳細は透明性レポートをご覧ください</target>
 </trans-unit>
 <trans-unit id="tu488" restype="x-title">
 <source xml:lang="en-US">Read the KubeCon + CloudNativeCon Europe 2022 Transparency Report</source>
@@ -1965,23 +1965,23 @@
 </trans-unit>
 <trans-unit id="tu491" restype="x-paragraph">
 <source xml:lang="en-US">Video Highlights</source>
-<target xml:lang="ja-JP">ビデオのハイライト</target>
+<target xml:lang="ja-JP">ハイライト ビデオ</target>
 </trans-unit>
 <trans-unit id="tu492" restype="x-title">
 <source xml:lang="en-US">Play Highlights from KubeCon + CloudNativeCon Europe 2022</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2022 のハイライトを再生</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon Europe 2022 のハイライトを再生する</target>
 </trans-unit>
 <trans-unit id="tu493" restype="x-h2">
 <source xml:lang="en-US">KubeCon + CloudNativeCon <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>North America</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon 北米<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>North America</target>
 </trans-unit>
 <trans-unit id="tu494" restype="x-paragraph">
 <source xml:lang="en-US">KubeCon + CloudNativeCon North America marked the first time we'd gathered in such big numbers in the Midwest, and Detroit was a wonderful host city. We launched a number of new initiatives, including <g id="1" ctype="link" equiv-text="[#$dp721]">Security Slam</g>, in partnership with <g id="2" ctype="link" equiv-text="[#$dp722]">Sonatype</g>. There were also some special surprises at KubeCon + CloudNativeCon, including welcoming our Senior Developer Advocate Ihor Dvoretskyi back in-person, who was granted short-term leave from serving in the Ukraine military.</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America は、中西部でこれほど多くの人が集まった初めてのイベントであり、デトロイトは素晴らしい開催都市でした。Sonatype と提携して、Security Slam を含む多くの新しいイニシアチブを開始しました。KubeCon + CloudNativeCon では、ウクライナ軍での勤務から短期間の休暇を与えられたシニア デベロッパー アドボケイトの Ihor Dvoretskyi 氏を直接歓迎するなど、いくつかの特別なサプライズもありました。<g id="1" ctype="link" equiv-text="[#$dp721]"></g><g id="2" ctype="link" equiv-text="[#$dp722]"></g></target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America は中西部としてこれほど多くの人が集まった初めてのイベントとなり、デトロイトは素晴らしい開催都市となりました。Sonatype とのパートナーシップでは Security Slam を含め、多くの新たなイニシアチブを立ち上げました。KubeCon + CloudNativeCon では、ウクライナ軍従事から短期間の休暇で参加した「Senior Developer Advocate」の Ihor Dvoretskyi を歓迎するなど、いくつか特別なサプライズもありました。<g id="1" ctype="link" equiv-text="[#$dp721]"></g><g id="2" ctype="link" equiv-text="[#$dp722]"></g></target>
 </trans-unit>
 <trans-unit id="tu496" restype="x-alt">
 <source xml:lang="en-US">Presenters on stage at KubeCon + CloudNativeCon North America 2022</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 のステージ上のプレゼンター</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 のステージ上のプレゼンターたち</target>
 </trans-unit>
 <trans-unit id="tu495">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp725]"/></source>
@@ -1989,11 +1989,11 @@
 </trans-unit>
 <trans-unit id="tu497" restype="x-paragraph">
 <source xml:lang="en-US">Attendee Demographics</source>
-<target xml:lang="ja-JP">出席者の人口統計</target>
+<target xml:lang="ja-JP">参加者のデモグラフィック</target>
 </trans-unit>
 <trans-unit id="tu499" restype="x-alt">
 <source xml:lang="en-US">Showing 16,986 registered attendees. 7403 in person attendees. 64% of attendees were first timers.</source>
-<target xml:lang="ja-JP">16,986 人の登録済み出席者を表示しています。7403 人の参加者。参加者の 64% が初めての参加者でした。</target>
+<target xml:lang="ja-JP">登録済みの参加者 16,986 人のうち7403 人が対面で参加 64% が初参加だったことを示しています。</target>
 </trans-unit>
 <trans-unit id="tu498">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp729]"/></source>
@@ -2005,7 +2005,7 @@
 </trans-unit>
 <trans-unit id="tu502" restype="x-alt">
 <source xml:lang="en-US">Download icon</source>
-<target xml:lang="ja-JP">ダウンロードアイコン</target>
+<target xml:lang="ja-JP">Download icon</target>
 </trans-unit>
 <trans-unit id="tu501">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp733]"/></source>
@@ -2013,7 +2013,7 @@
 </trans-unit>
 <trans-unit id="tu503">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,551</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Submissions</g></source>
-<target xml:lang="ja-JP">1,551件の投稿<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">1,551 件の提案<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu505" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
@@ -2025,11 +2025,11 @@
 </trans-unit>
 <trans-unit id="tu506">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">531</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Speakers</g></source>
-<target xml:lang="ja-JP">531スピーカー<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">531人のスピーカたち<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu507" restype="x-paragraph">
 <source xml:lang="en-US">Top Countries In Attendance</source>
-<target xml:lang="ja-JP">出席率上位の国</target>
+<target xml:lang="ja-JP">参加人数上位国</target>
 </trans-unit>
 <trans-unit id="tu508" restype="x-paragraph">
 <source xml:lang="en-US">Total</source>
@@ -2037,7 +2037,7 @@
 </trans-unit>
 <trans-unit id="tu510" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu509">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp743]"/></source>
@@ -2045,11 +2045,11 @@
 </trans-unit>
 <trans-unit id="tu511">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">10,568</g></source>
-<target xml:lang="ja-JP">アメリカ 10,568<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 10,568人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu513" restype="x-alt">
 <source xml:lang="en-US">Indian Flag</source>
-<target xml:lang="ja-JP">インドの旗</target>
+<target xml:lang="ja-JP">Indian Flag</target>
 </trans-unit>
 <trans-unit id="tu512">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp746]"/></source>
@@ -2057,11 +2057,11 @@
 </trans-unit>
 <trans-unit id="tu514">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">India</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,739</g></source>
-<target xml:lang="ja-JP">インド 1,739<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">インド 1,739人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu516" restype="x-alt">
 <source xml:lang="en-US">Canadian Flag</source>
-<target xml:lang="ja-JP">カナダの旗</target>
+<target xml:lang="ja-JP">Canadian Flag</target>
 </trans-unit>
 <trans-unit id="tu515">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp749]"/></source>
@@ -2069,15 +2069,15 @@
 </trans-unit>
 <trans-unit id="tu517">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Canada</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">748</g></source>
-<target xml:lang="ja-JP">カナダ 748<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">カナダ 748人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu518" restype="x-paragraph">
 <source xml:lang="en-US">In-person</source>
-<target xml:lang="ja-JP">対面</target>
+<target xml:lang="ja-JP">対面参加</target>
 </trans-unit>
 <trans-unit id="tu520" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu519">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp754]"/></source>
@@ -2085,11 +2085,11 @@
 </trans-unit>
 <trans-unit id="tu521">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">5,744</g></source>
-<target xml:lang="ja-JP">アメリカ 5,744<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 5,744人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu523" restype="x-alt">
 <source xml:lang="en-US">Canadian Flag</source>
-<target xml:lang="ja-JP">カナダの旗</target>
+<target xml:lang="ja-JP">Canadian Flag</target>
 </trans-unit>
 <trans-unit id="tu522">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp757]"/></source>
@@ -2097,11 +2097,11 @@
 </trans-unit>
 <trans-unit id="tu524">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Canada</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">291</g></source>
-<target xml:lang="ja-JP">カナダ 291<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">カナダ 291人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu526" restype="x-alt">
 <source xml:lang="en-US">Israel Flag</source>
-<target xml:lang="ja-JP">イスラエルの国旗</target>
+<target xml:lang="ja-JP">Israel Flag</target>
 </trans-unit>
 <trans-unit id="tu525">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp760]"/></source>
@@ -2109,7 +2109,7 @@
 </trans-unit>
 <trans-unit id="tu527">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Israel</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">184</g></source>
-<target xml:lang="ja-JP">イスラエル 184<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">イスラエル 184人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu528" restype="x-paragraph">
 <source xml:lang="en-US">Virtual</source>
@@ -2117,7 +2117,7 @@
 </trans-unit>
 <trans-unit id="tu530" restype="x-alt">
 <source xml:lang="en-US">USA Flag</source>
-<target xml:lang="ja-JP">アメリカの国旗</target>
+<target xml:lang="ja-JP">USA Flag</target>
 </trans-unit>
 <trans-unit id="tu529">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp765]"/></source>
@@ -2125,11 +2125,11 @@
 </trans-unit>
 <trans-unit id="tu531">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">USA</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">4,824</g></source>
-<target xml:lang="ja-JP">アメリカ 4,824<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">アメリカ 4,824人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu533" restype="x-alt">
 <source xml:lang="en-US">India Flag</source>
-<target xml:lang="ja-JP">インドの国旗</target>
+<target xml:lang="ja-JP">India Flag</target>
 </trans-unit>
 <trans-unit id="tu532">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp768]"/></source>
@@ -2137,11 +2137,11 @@
 </trans-unit>
 <trans-unit id="tu534">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">India</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,664</g></source>
-<target xml:lang="ja-JP">インド 1,664<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">インド 1,664人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu536" restype="x-alt">
 <source xml:lang="en-US">Canada Flag</source>
-<target xml:lang="ja-JP">カナダの国旗</target>
+<target xml:lang="ja-JP">Canada Flag</target>
 </trans-unit>
 <trans-unit id="tu535">
 <source xml:lang="en-US"><x id="1" ctype="image" equiv-text="[#$dp771]"/></source>
@@ -2149,15 +2149,15 @@
 </trans-unit>
 <trans-unit id="tu537">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">Canada</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">457</g></source>
-<target xml:lang="ja-JP">カナダ 457<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">カナダ 457人<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu538" restype="x-paragraph">
 <source xml:lang="en-US">Have a look at the full details in our transparency report</source>
-<target xml:lang="ja-JP">透明性レポートで詳細をご覧ください</target>
+<target xml:lang="ja-JP">詳細は透明性レポートをご覧ください</target>
 </trans-unit>
 <trans-unit id="tu540" restype="x-title">
 <source xml:lang="en-US">Read the KubeCon + CloudNativeCon North America 2022 Transparency Report</source>
-<target xml:lang="ja-JP">KubeCon + CloudNativeCon 北米 2022 透明性レポートを読む</target>
+<target xml:lang="ja-JP">KubeCon + CloudNativeCon North America 2022 の透明性レポートを読む</target>
 </trans-unit>
 <trans-unit id="tu539">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp776]">View Report</g></source>
@@ -2173,7 +2173,7 @@
 </trans-unit>
 <trans-unit id="tu543" restype="x-paragraph">
 <source xml:lang="en-US">Video Highlights</source>
-<target xml:lang="ja-JP">ビデオのハイライト</target>
+<target xml:lang="ja-JP">ハイライト ビデオ</target>
 </trans-unit>
 <trans-unit id="tu544" restype="x-title">
 <source xml:lang="en-US">Play Highlights from KubeCon + CloudNativeCon North America 2022</source>
@@ -2189,19 +2189,19 @@
 </trans-unit>
 <trans-unit id="tu547" restype="x-paragraph">
 <source xml:lang="en-US">CNCF strengthened our commitment to growing the cloud native ecosystem in 2022 - expanding our globally recognized certifications, boosting employment opportunities and helping more folks to upskill their practical application of cloud native technologies.</source>
-<target xml:lang="ja-JP">CNCF は、2022 年にクラウド ネイティブ エコシステムを成長させるというコミットメントを強化しました。世界的に認められた認定資格を拡大し、雇用機会を増やし、より多くの人々がクラウド ネイティブ テクノロジーの実用的なアプリケーションのスキルアップを支援します。</target>
+<target xml:lang="ja-JP">CNCF は、2022 年にクラウド ネイティブ エコシステムを成長させるというコミットメントを強化しました。世界的に認められた認定資格を広め、雇用機会を増やし、より多くの人々がクラウド ネイティブ テクノロジーの実践的適用ができるスキルの向上を支援します。</target>
 </trans-unit>
 <trans-unit id="tu548" restype="x-paragraph">
 <source xml:lang="en-US">This year we launched the <g id="1" ctype="link" equiv-text="[#$dp790]">Prometheus Certified Associate (PCA)</g> - a certification that demonstrates and engineers foundational knowledge of observability and skills using Prometheus, the open source monitoring and alerting toolkit.<x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>A new set of credentials were also launched this year: <g id="4" ctype="link" equiv-text="[#$dp791]">SkillCreds</g>. These allow learners to gain credentials on specific topics related to their experience. Two of the first SkillCreds include <g id="5" ctype="link" equiv-text="[#$dp792]">Developing Helm Charts (SC104)</g> and <g id="6" ctype="link" equiv-text="[#$dp793]">Open Data Formats: YAML (SC101)</g>. These micro-credentials are short, topic-specific, and cost effective.<x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="8" ctype="x-br" equiv-text="&lt;br&gt;"/>The importance of training and certifications, and the regard that CNCF courses are held in, was highlighted this year in China where foreign nations are able to <g id="9" ctype="link" equiv-text="[#$dp794]">apply for visas for Beijing if they earn a CKA certification</g>.</source>
-<target xml:lang="ja-JP">今年、私たちは Prometheus 認定アソシエイト (PCA) を開始しました。これは、オープンソースの監視およびアラート ツールキットである Prometheus を使用して、オブザーバビリティとスキルに関する基礎知識を証明し、エンジニアリングする認定資格です。これらにより、学習者は自分の経験に関連する特定のトピックに関する資格を取得できます。最初の SkillCreds の 2 つには、Developing Helm Charts (SC104) と Open Data Formats: YAML (SC101) が含まれます。これらのマイクロクレデンシャルは短く、トピック固有で、費用対効果が高いです。トレーニングと認定の重要性、およびCNCFコースが開催されるという点は、外国人が北京のビザを申請できる中国で今年強調されました。彼らは CKA 認定を取得します。<g id="1" ctype="link" equiv-text="[#$dp790]"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="4" ctype="link" equiv-text="[#$dp791]"></g><g id="5" ctype="link" equiv-text="[#$dp792]"></g><g id="6" ctype="link" equiv-text="[#$dp793]"></g><x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="8" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="9" ctype="link" equiv-text="[#$dp794]"></g></target>
+<target xml:lang="ja-JP">今年、私たちは 「Prometheus 認定アソシエイト （PCA:Prometheus Certified Associate ） 」を立ち上げしました。これは、エンジニアのオブザーバビリティとスキルに関する基礎知識、および監視およびアラートのオープンソースのツールキットである Prometheus の活用スキルを証明します。また新しい一連の資格として「SkillCred」も始まりました。これらにより、学習者は自分の経験に関係している、より具体的なトピックに関するスキル証明資格を取得できるようになります。最初の SkillCred には、Developing Helm Charts (SC104) と Open Data Formats: YAML (SC101) の2つが含まれています。これらの「マイクロクレデンシャル」はトピック固有で、短時間の試験で、コスト的にも安価です。トレーニングと認定の重要性、およびCNCFのトレーニングコースが開催されるという話は、今年中国で今年強調されました。外国人はCKA認定を取得する場合、北京のビザを申請できるようになりました。<g id="1" ctype="link" equiv-text="[#$dp790]"></g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="4" ctype="link" equiv-text="[#$dp791]"></g><g id="5" ctype="link" equiv-text="[#$dp792]"></g><g id="6" ctype="link" equiv-text="[#$dp793]"></g><x id="7" ctype="x-br" equiv-text="&lt;br&gt;"/><x id="8" ctype="x-br" equiv-text="&lt;br&gt;"/><g id="9" ctype="link" equiv-text="[#$dp794]"></g></target>
 </trans-unit>
 <trans-unit id="tu549" restype="x-h2">
 <source xml:lang="en-US">2022 Training <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Courses</source>
-<target xml:lang="ja-JP">2022年トレーニングコース<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">2022年のトレーニングコース<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu550" restype="x-paragraph">
 <source xml:lang="en-US">CNCF's training and certification program continued to grow. In 2022, these training courses and exams received considerable interest:</source>
-<target xml:lang="ja-JP">CNCF のトレーニングおよび認定プログラムは成長を続けました。2022 年、これらのトレーニング コースと試験は大きな関心を集めました。</target>
+<target xml:lang="ja-JP">CNCF のトレーニングおよび認定プログラムは成長を続けました。2022 年、これらのトレーニング コースと認定試験は大きな関心を集めました。</target>
 </trans-unit>
 <trans-unit id="tu552" restype="x-alt">
 <source xml:lang="en-US">Cloud native training courses from LF</source>
@@ -2213,71 +2213,71 @@
 </trans-unit>
 <trans-unit id="tu553">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">25%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">25%増<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">25% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu554" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp804]">Kubernetes Massively Open Online Course (MOOC)</g> hit 290,000 enrollments</source>
-<target xml:lang="ja-JP">Kubernetes Massively Open Online Course (MOOC) の登録者数が 290,000 人を突破<g id="1" ctype="link" equiv-text="[#$dp804]"></g></target>
+<target xml:lang="ja-JP">Kubernetes Massively Open Online Course （MOOC） の登録数が 290,000 件を突破<g id="1" ctype="link" equiv-text="[#$dp804]"></g></target>
 </trans-unit>
 <trans-unit id="tu555">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">49%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">49% 増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">49% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu556" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp808]">Certified Kubernetes Administrator (CKA)</g> exam hit 104,000 enrollments</source>
-<target xml:lang="ja-JP">Certified Kubernetes Administrator (CKA) 試験の登録者数は 104,000 人に達しました<g id="1" ctype="link" equiv-text="[#$dp808]"></g></target>
+<target xml:lang="ja-JP">Certified Kubernetes Administrator （CKA)） 試験の登録数が 104,000 件に到達<g id="1" ctype="link" equiv-text="[#$dp808]"></g></target>
 </trans-unit>
 <trans-unit id="tu557">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">44%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">44% 増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">44% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu558" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp812]">Certified Kubernetes Application Developer (CKAD)</g> hit 49,000 exam registrations</source>
-<target xml:lang="ja-JP">Certified Kubernetes Application Developer (CKAD) の試験登録数は 49,000 件に達しました<g id="1" ctype="link" equiv-text="[#$dp812]"></g></target>
+<target xml:lang="ja-JP">Certified Kubernetes Application Developer （CKAD） の試験登録数が 49,000 件に到達<g id="1" ctype="link" equiv-text="[#$dp812]"></g></target>
 </trans-unit>
 <trans-unit id="tu559">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">113%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">113% 増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">113% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu560" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp816]">Certified Kubernetes Security Specialist (CKS)</g> exam hit 18,000 registrations</source>
-<target xml:lang="ja-JP">Certified Kubernetes Security Specialist (CKS) 試験の登録数は 18,000 件に達しました<g id="1" ctype="link" equiv-text="[#$dp816]"></g></target>
+<target xml:lang="ja-JP">Certified Kubernetes Security Specialist （CKS） 試験の登録数が 18,000 件に到達<g id="1" ctype="link" equiv-text="[#$dp816]"></g></target>
 </trans-unit>
 <trans-unit id="tu561">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">4,000</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Registrations</g></source>
-<target xml:lang="ja-JP">4,000件の登録<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">4,000 件の登録<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu562" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp820]">Kubernetes and Cloud Native Associate (KCNA)</g> exam hit 4,000 registrations (since its launch in November 2021)</source>
-<target xml:lang="ja-JP">Kubernetes and Cloud Native Associate (KCNA) 試験の登録数は 4,000 件に達しました (2021 年 11 月の開始以来)<g id="1" ctype="link" equiv-text="[#$dp820]"></g></target>
+<target xml:lang="ja-JP">Kubernetes and Cloud Native Associate （KCNA） 試験の登録数が 4,000 件に到達 （2021年11月の開始以来）<g id="1" ctype="link" equiv-text="[#$dp820]"></g></target>
 </trans-unit>
 <trans-unit id="tu563">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">280+</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Registrations</g></source>
-<target xml:lang="ja-JP">280以上の登録<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">280 件以上の登録<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu564" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp824]">Prometheus Certified Associate (PCA)</g> exam hit 280+ registrations (since its launch on September 8, 2022)</source>
-<target xml:lang="ja-JP">Prometheus 認定アソシエイト (PCA) 試験は 280 件以上の登録を記録しました (2022 年 9 月 8 日の開始以来)<g id="1" ctype="link" equiv-text="[#$dp824]"></g></target>
+<target xml:lang="ja-JP">Prometheus 認定アソシエイト （PCA） 試験は 280 件以上の登録を記録 (2022年9月8日の開始以来）<g id="1" ctype="link" equiv-text="[#$dp824]"></g></target>
 </trans-unit>
 <trans-unit id="tu565">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">14%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">14%増<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">14% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu566" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp828]">Kubernetes Training Partner (KTP)</g> program grew to 57 certified companies</source>
-<target xml:lang="ja-JP">Kubernetes トレーニング パートナー (KTP) プログラムは 57 の認定企業に拡大しました<g id="1" ctype="link" equiv-text="[#$dp828]"></g></target>
+<target xml:lang="ja-JP">Kubernetes トレーニング パートナー （KTP） プログラムは 57 の認定企業に拡大<g id="1" ctype="link" equiv-text="[#$dp828]"></g></target>
 </trans-unit>
 <trans-unit id="tu567">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;">8.5%</g> <g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;">Increase</g></source>
-<target xml:lang="ja-JP">8.5%増<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
+<target xml:lang="ja-JP">8.5% の増加<g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__number&quot;&gt;"></g><g id="2" ctype="x-span" equiv-text="&lt;span class=&quot;course-box__text&quot;&gt;"></g></target>
 </trans-unit>
 <trans-unit id="tu568" restype="x-paragraph">
 <source xml:lang="en-US"><g id="1" ctype="link" equiv-text="[#$dp832]">Kubernetes Certified Service Provider (KCSP)</g> program grew to 254 companies</source>
-<target xml:lang="ja-JP">Kubernetes Certified Service Provider (KCSP) プログラムが 254 社に拡大<g id="1" ctype="link" equiv-text="[#$dp832]"></g></target>
+<target xml:lang="ja-JP">Kubernetes Certified Service Provider （KCSP） プログラムが 254 社に拡大<g id="1" ctype="link" equiv-text="[#$dp832]"></g></target>
 </trans-unit>
 <trans-unit id="tu569" restype="x-h2">
 <source xml:lang="en-US">Project Updates &amp; <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Satisfaction</source>
-<target xml:lang="ja-JP">プロジェクトの最新情報と満足度<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
+<target xml:lang="ja-JP">プロジェクト アップデートと満足度<x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/></target>
 </trans-unit>
 <trans-unit id="tu570">
 <source xml:lang="en-US">4/6</source>

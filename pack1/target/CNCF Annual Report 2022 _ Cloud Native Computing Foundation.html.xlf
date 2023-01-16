@@ -3302,7 +3302,7 @@ CNCF は、2022 年際立ったコントリビューションを行った5人の
 </trans-unit>
 <trans-unit id="tu825">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Events</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">574</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">のイベント</g></target>
 </trans-unit>
 <trans-unit id="tu827" restype="x-alt">
 <source xml:lang="en-US">Chapters icon</source>

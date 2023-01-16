@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g0&gt;574&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;Events&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183919Z" creationid="tani" creationdate="20230116T183919Z">
+        <seg>&lt;g0&gt;574&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;のイベント&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g0&gt;6,500+ attendees&lt;/g0&gt;&lt;x1/&gt; An increase of &lt;g2&gt;85%&lt;/g2&gt; from 2021</seg>
       </tuv>
       <tuv lang="ja-JP" changeid="tani" changedate="20230116T111543Z" creationid="tani" creationdate="20230116T111543Z">

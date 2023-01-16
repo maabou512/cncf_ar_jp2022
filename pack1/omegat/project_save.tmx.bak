@@ -1104,8 +1104,8 @@
       <tuv lang="en-US">
         <seg>&lt;x3/&gt;&lt;x4/&gt;The automation for CNCF Kubernetes Conformance Certification repo has been updated for an &lt;g5&gt;enhanced user experience&lt;/g5&gt; with improved functionality under the hood.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120344Z" creationid="tani" creationdate="20230116T120344Z">
-        <seg>&lt;x3/&gt;&lt;x4/&gt;CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、&lt;g5&gt;ユーザー エクスペリエンスが強化&lt;/g5&gt;されました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183642Z" creationid="tani" creationdate="20230116T120344Z">
+        <seg>&lt;x3/&gt;&lt;x4/&gt;CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、&lt;g5&gt;ユーザーエクスペリエンスが強化&lt;/g5&gt;されました。</seg>
       </tuv>
     </tu>
     <tu>

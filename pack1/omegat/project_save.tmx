@@ -3520,8 +3520,8 @@
       <tuv lang="en-US">
         <seg>Since we were founded in 2015, we've pioneered cloud native technologies - &lt;g0&gt;hosting and growing some of the world's most successful open source projects&lt;/g0&gt; including Kubernetes, Prometheus, Envoy, ContainerD, and &lt;g1&gt;many others&lt;/g1&gt;.&lt;x2/&gt;&lt;x3/&gt;Today we are a powerhouse for visionary projects and people, hosting &lt;g4&gt;157 projects&lt;/g4&gt; with over &lt;g5&gt;178,000 contributors&lt;/g5&gt; representing &lt;g6&gt;189 countries&lt;/g6&gt;, and there are no signs of this growth slowing down.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180131Z" creationid="tani" creationdate="20230116T050613Z">
-        <seg>私たちは、2015 年に設立されて以来、クラウドネイティブ 技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD 、&lt;g1&gt;その他多く&lt;/g1&gt;の &lt;g0&gt;世界で最も成功しているオープンソース プロジェクトをホストし&lt;/g0&gt;、育ててきました。&lt;x2/&gt;&lt;x3/&gt;現時点で &lt;g4&gt;1189 か国&lt;/g4&gt;、&lt;g5&gt;178,000 人&lt;/g5&gt;以上のコントリビューターを含む  &lt;g6&gt;157 のプロジェクト&lt;/g6&gt;をホストした発電所（Powerhouse）となっています。そしてこの成長が鈍化する兆しはありません。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T184237Z" creationid="tani" creationdate="20230116T050613Z">
+        <seg>私たちは、2015 年に設立されて以来、クラウドネイティブ 技術を開拓してきました。Kubernetes、Prometheus、Envoy、ContainerD 、&lt;g1&gt;その他多く&lt;/g1&gt;の &lt;g0&gt;世界で最も成功しているオープンソース プロジェクトをホストし&lt;/g0&gt;、育ててきました。&lt;x2/&gt;&lt;x3/&gt;現時点で &lt;g4&gt;189 か国&lt;/g4&gt;、&lt;g5&gt;178,000 人&lt;/g5&gt;以上のコントリビューターを含む  &lt;g6&gt;157 のプロジェクト&lt;/g6&gt;をホストした発電所（Powerhouse）となっています。そしてこの成長が鈍化する兆しはありません。</seg>
       </tuv>
     </tu>
     <tu>

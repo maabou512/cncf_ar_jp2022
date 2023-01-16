@@ -920,8 +920,8 @@
       <tuv xml:lang="en-US">
         <seg><ph x="3">&lt;x3/&gt;</ph><ph x="4">&lt;x4/&gt;</ph>The automation for CNCF Kubernetes Conformance Certification repo has been updated for an <bpt i="5" x="5">&lt;g5&gt;</bpt>enhanced user experience<ept i="5">&lt;/g5&gt;</ept> with improved functionality under the hood.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T120344Z" creationid="tani" creationdate="20230116T120344Z">
-        <seg><ph x="3">&lt;x3/&gt;</ph><ph x="4">&lt;x4/&gt;</ph>CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、<bpt i="5" x="5">&lt;g5&gt;</bpt>ユーザー エクスペリエンスが強化<ept i="5">&lt;/g5&gt;</ept>されました。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T183642Z" creationid="tani" creationdate="20230116T120344Z">
+        <seg><ph x="3">&lt;x3/&gt;</ph><ph x="4">&lt;x4/&gt;</ph>CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、<bpt i="5" x="5">&lt;g5&gt;</bpt>ユーザーエクスペリエンスが強化<ept i="5">&lt;/g5&gt;</ept>されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@
       <tuv xml:lang="en-US">
         <seg>Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting <bpt i="0" x="0">&lt;g0&gt;</bpt>20 graduated projects<ept i="0">&lt;/g0&gt;</ept>, <bpt i="1" x="1">&lt;g1&gt;</bpt>35 incubating<ept i="1">&lt;/g1&gt;</ept> and <bpt i="2" x="2">&lt;g2&gt;</bpt>102 sandbox projects<ept i="2">&lt;/g2&gt;</ept>, driven by more than <bpt i="3" x="3">&lt;g3&gt;</bpt>178,000 contributors<ept i="3">&lt;/g3&gt;</ept> representing <bpt i="4" x="4">&lt;g4&gt;</bpt>189 countries<ept i="4">&lt;/g4&gt;</ept>.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T181204Z" creationid="tani" creationdate="20230116T114607Z">
-        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する <bpt i="3" x="3">&lt;g3&gt;</bpt>1178,000 人を超えるコントリビューターたち<ept i="3">&lt;/g3&gt;</ept>によって推進された <bpt i="0" x="0">&lt;g0&gt;</bpt>20 の Graduated プロジェクト<ept i="0">&lt;/g0&gt;</ept>、<bpt i="1" x="1">&lt;g1&gt;</bpt>35 の Incubating プロジェクト<ept i="1">&lt;/g1&gt;</ept>、<bpt i="2" x="2">&lt;g2&gt;</bpt>102 の Sandbox プロジェクト<ept i="2">&lt;/g2&gt;</ept>をホストしています。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T183527Z" creationid="tani" creationdate="20230116T114607Z">
+        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する <bpt i="3" x="3">&lt;g3&gt;</bpt>178,000 人を超えるコントリビューターたち<ept i="3">&lt;/g3&gt;</ept>によって推進された <bpt i="0" x="0">&lt;g0&gt;</bpt>20 の Graduated プロジェクト<ept i="0">&lt;/g0&gt;</ept>、<bpt i="1" x="1">&lt;g1&gt;</bpt>35 の Incubating プロジェクト<ept i="1">&lt;/g1&gt;</ept>、<bpt i="2" x="2">&lt;g2&gt;</bpt>102 の Sandbox プロジェクト<ept i="2">&lt;/g2&gt;</ept>をホストしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,8 +3130,8 @@
       <tuv xml:lang="en-US">
         <seg>We anticipate cleaning up the last <bpt i="2" x="2">&lt;g2&gt;</bpt>technical debt<ept i="2">&lt;/g2&gt;</ept> by Kubecon + CloudNativeCon Europe 2023.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T120309Z" creationid="tani" creationdate="20230116T120309Z">
-        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の<bpt i="2" x="2">&lt;g2&gt;</bpt>技術負債<ept i="2">&lt;/g2&gt;</ept> が解消できると期待しています。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T183628Z" creationid="tani" creationdate="20230116T120309Z">
+        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の<bpt i="2" x="2">&lt;g2&gt;</bpt>技術負債<ept i="2">&lt;/g2&gt;</ept>が解消できると期待しています。</seg>
       </tuv>
     </tu>
     <tu>

@@ -920,8 +920,8 @@
       <tuv lang="en-US">
         <seg>The automation for CNCF Kubernetes Conformance Certification repo has been updated for an enhanced user experience with improved functionality under the hood.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120344Z" creationid="tani" creationdate="20230116T120344Z">
-        <seg>CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、ユーザー エクスペリエンスが強化されました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183642Z" creationid="tani" creationdate="20230116T120344Z">
+        <seg>CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、ユーザーエクスペリエンスが強化されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@
       <tuv lang="en-US">
         <seg>Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting 20 graduated projects, 35 incubating and 102 sandbox projects, driven by more than 178,000 contributors representing 189 countries.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181204Z" creationid="tani" creationdate="20230116T114607Z">
-        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する 1178,000 人を超えるコントリビューターたちによって推進された 20 の Graduated プロジェクト、35 の Incubating プロジェクト、102 の Sandbox プロジェクトをホストしています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183527Z" creationid="tani" creationdate="20230116T114607Z">
+        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する 178,000 人を超えるコントリビューターたちによって推進された 20 の Graduated プロジェクト、35 の Incubating プロジェクト、102 の Sandbox プロジェクトをホストしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,8 +3130,8 @@
       <tuv lang="en-US">
         <seg>We anticipate cleaning up the last technical debt by Kubecon + CloudNativeCon Europe 2023.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120309Z" creationid="tani" creationdate="20230116T120309Z">
-        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の技術負債 が解消できると期待しています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183628Z" creationid="tani" creationdate="20230116T120309Z">
+        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の技術負債が解消できると期待しています。</seg>
       </tuv>
     </tu>
     <tu>

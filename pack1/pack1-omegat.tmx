@@ -920,8 +920,8 @@
       <tuv lang="en-US">
         <seg>&lt;x3/&gt;&lt;x4/&gt;The automation for CNCF Kubernetes Conformance Certification repo has been updated for an &lt;g5&gt;enhanced user experience&lt;/g5&gt; with improved functionality under the hood.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120344Z" creationid="tani" creationdate="20230116T120344Z">
-        <seg>&lt;x3/&gt;&lt;x4/&gt;CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、&lt;g5&gt;ユーザー エクスペリエンスが強化&lt;/g5&gt;されました。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183642Z" creationid="tani" creationdate="20230116T120344Z">
+        <seg>&lt;x3/&gt;&lt;x4/&gt;CNCF Kubernetes Conformance Certification リポジトリの自動化がアップデートされ、内部の機能改善が進み、&lt;g5&gt;ユーザーエクスペリエンスが強化&lt;/g5&gt;されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@
       <tuv lang="en-US">
         <seg>Throughout 2022, CNCF underscored our commitment to making cloud native ubiquitous - hosting &lt;g0&gt;20 graduated projects&lt;/g0&gt;, &lt;g1&gt;35 incubating&lt;/g1&gt; and &lt;g2&gt;102 sandbox projects&lt;/g2&gt;, driven by more than &lt;g3&gt;178,000 contributors&lt;/g3&gt; representing &lt;g4&gt;189 countries&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T181204Z" creationid="tani" creationdate="20230116T114607Z">
-        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する &lt;g3&gt;1178,000 人を超えるコントリビューターたち&lt;/g3&gt;によって推進された &lt;g0&gt;20 の Graduated プロジェクト&lt;/g0&gt;、&lt;g1&gt;35 の Incubating プロジェクト&lt;/g1&gt;、&lt;g2&gt;102 の Sandbox プロジェクト&lt;/g2&gt;をホストしています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183527Z" creationid="tani" creationdate="20230116T114607Z">
+        <seg>CNCF は 2022 年を通じ、クラウド ネイティブをユビキタスにするコミットメントを強調しつづけました。CNCFでは 189 か国を代表する &lt;g3&gt;178,000 人を超えるコントリビューターたち&lt;/g3&gt;によって推進された &lt;g0&gt;20 の Graduated プロジェクト&lt;/g0&gt;、&lt;g1&gt;35 の Incubating プロジェクト&lt;/g1&gt;、&lt;g2&gt;102 の Sandbox プロジェクト&lt;/g2&gt;をホストしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,8 +3130,8 @@
       <tuv lang="en-US">
         <seg>We anticipate cleaning up the last &lt;g2&gt;technical debt&lt;/g2&gt; by Kubecon + CloudNativeCon Europe 2023.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120309Z" creationid="tani" creationdate="20230116T120309Z">
-        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の&lt;g2&gt;技術負債&lt;/g2&gt; が解消できると期待しています。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T183628Z" creationid="tani" creationdate="20230116T120309Z">
+        <seg>Kubecon + CloudNativeCon Europe 2023 までには、この最後の&lt;g2&gt;技術負債&lt;/g2&gt;が解消できると期待しています。</seg>
       </tuv>
     </tu>
     <tu>

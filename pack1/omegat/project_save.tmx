@@ -1016,8 +1016,8 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;USA&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;1,309&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T180743Z" creationid="tani" creationdate="20230116T112742Z">
-        <seg>&lt;g0&gt;アメリカ&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; 1,309&lt;/g2&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T184514Z" creationid="tani" creationdate="20230116T112742Z">
+        <seg>&lt;g0&gt;米国&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; 1,309&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>

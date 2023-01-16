@@ -832,8 +832,8 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>USA<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>1,309<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T180743Z" creationid="tani" creationdate="20230116T112742Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>アメリカ<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> 1,309<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T184514Z" creationid="tani" creationdate="20230116T112742Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>米国<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> 1,309<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>

@@ -184,24 +184,24 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;1,187&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;Submissions&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122142Z" creationid="tani" creationdate="20230116T112450Z">
-        <seg>&lt;g0&gt;1,187&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;件の提案&lt;/g2&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123116Z" creationid="tani" creationdate="20230116T112450Z">
+        <seg>&lt;g0&gt;1,187&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; 件の提案&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g0&gt;1,551&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;Submissions&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122337Z" creationid="tani" creationdate="20230116T113134Z">
-        <seg>&lt;g0&gt;1,551&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;件の提案&lt;/g2&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123217Z" creationid="tani" creationdate="20230116T113134Z">
+        <seg>&lt;g0&gt;1,551&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; 件の提案&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g0&gt;100%&lt;/g0&gt;&lt;x1/&gt; would recommend CNCF to other companies (&lt;g2&gt; 2022 End User survey &lt;/g2&gt;)</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T054229Z" creationid="tani" creationdate="20230116T054229Z">
-        <seg>&lt;g0&gt;100%%&lt;/g0&gt;&lt;x1/&gt; が CNCF を他社にも勧めたい （&lt;g2&gt; 2022 年エンドユーザー サーベイ&lt;/g2&gt;）</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122844Z" creationid="tani" creationdate="20230116T054229Z">
+        <seg>&lt;g0&gt;100%&lt;/g0&gt;&lt;x1/&gt; が CNCF を他社にも勧めたい （&lt;g2&gt; 2022 年エンドユーザー サーベイ&lt;/g2&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,8 +240,8 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;157 Projects&lt;/g0&gt;&lt;x1/&gt; Driving worldwide &lt;x2/&gt;transformation</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T050234Z" creationid="tani" creationdate="20230116T050020Z">
-        <seg>&lt;g0&gt;157 のプロジェクト&lt;/g0&gt;&lt;x1/&gt; が世界中の&lt;x2/&gt;トランスフォーメーショんをドライブする</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T122919Z" creationid="tani" creationdate="20230116T050020Z">
+        <seg>&lt;g0&gt;157 のプロジェクト&lt;/g0&gt;&lt;x1/&gt; が世界中の&lt;x2/&gt;トランスフォーメーションをドライブする</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;2&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;Cloud Native Telco Days&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T120011Z" creationid="tani" creationdate="20230116T120011Z">
-        <seg>&lt;g0&gt;2&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; 度のCloud Native Telco Day 開催&lt;/g2&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123520Z" creationid="tani" creationdate="20230116T120011Z">
+        <seg>&lt;g0&gt;2&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt; つの Cloud Native Telco Days 開催&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;4&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;CNF vendor organizations&lt;/g2&gt; &lt;g3&gt;Earned "Certified CNF" status - for &lt;g4&gt;a total of 6 products&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T115952Z" creationid="tani" creationdate="20230116T115952Z">
-        <seg>&lt;g0&gt;4&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;社の CNF ベンダー&lt;/g2&gt; &lt;g3&gt;が&lt;g4&gt;6プロダクトに対し「CNF 認定」ステータスを獲得&lt;/g4&gt;&lt;/g3&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123452Z" creationid="tani" creationdate="20230116T115952Z">
+        <seg>&lt;g0&gt;4&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;つの CNF ベンダー&lt;/g2&gt; &lt;g3&gt;が&lt;g4&gt;6プロダクトに対し「CNF 認定」ステータスを獲得&lt;/g4&gt;&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="en-US">
         <seg>&lt;g0&gt;India&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;1,798&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230116T112714Z" creationid="tani" creationdate="20230116T112714Z">
-        <seg>&lt;g0&gt;インド&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;1 1,798人&lt;/g2&gt;</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123139Z" creationid="tani" creationdate="20230116T112714Z">
+        <seg>&lt;g0&gt;インド&lt;/g0&gt;&lt;x1/&gt; &lt;g2&gt;1,798人&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230112T112011Z" creationid="tani" creationdate="20230104T104450Z">
-        <seg>コントリビュータ</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123014Z" creationid="tani" creationdate="20230104T104450Z">
+        <seg>コントリビューター</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1560,8 @@
       <tuv lang="en-US">
         <seg>Donate a character to the Phippy and Friends family.</seg>
       </tuv>
-      <tuv lang="ja-JP" changeid="tani" changedate="20230115T222732Z" creationid="tani" creationdate="20230104T112829Z">
-        <seg>「Phippy と仲間たち」ファミリーにキャラクターを寄贈する。</seg>
+      <tuv lang="ja-JP" changeid="tani" changedate="20230116T123614Z" creationid="tani" creationdate="20230104T112829Z">
+        <seg>「Phippy と仲間たち」ファミリーにキャラクターを寄贈しましょう。</seg>
       </tuv>
     </tu>
     <tu>

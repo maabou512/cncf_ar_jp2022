@@ -824,7 +824,7 @@
 </trans-unit>
 <trans-unit id="tu206">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">157 Projects</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> Driving worldwide <x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>transformation</source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">157 のプロジェクト</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> が世界中の<x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>トランスフォーメーショんをドライブする</target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">157 のプロジェクト</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> が世界中の<x id="3" ctype="x-br" equiv-text="&lt;br&gt;"/>トランスフォーメーションをドライブする</target>
 </trans-unit>
 <trans-unit id="tu208" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
@@ -1280,7 +1280,7 @@
 </trans-unit>
 <trans-unit id="tu320">
 <source xml:lang="en-US">Contributors</source>
-<target xml:lang="ja-JP">コントリビュータ</target>
+<target xml:lang="ja-JP">コントリビューター</target>
 </trans-unit>
 <trans-unit id="tu321" restype="x-paragraph">
 <source xml:lang="en-US">Member, End User &amp; Project Growth</source>
@@ -1473,7 +1473,7 @@
 </trans-unit>
 <trans-unit id="tu367">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">100%</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> would recommend CNCF to other companies (<g id="3" ctype="link" equiv-text="[#$dp532]"> 2022 End User survey </g>)</source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">100%%</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> が CNCF を他社にも勧めたい （<g id="3" ctype="link" equiv-text="[#$dp532]"> 2022 年エンドユーザー サーベイ</g>）</target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span&gt;">100%</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> が CNCF を他社にも勧めたい （<g id="3" ctype="link" equiv-text="[#$dp532]"> 2022 年エンドユーザー サーベイ</g>）</target>
 </trans-unit>
 <trans-unit id="tu370" restype="x-alt">
 <source xml:lang="en-US">Members icon</source>
@@ -1805,7 +1805,7 @@
 </trans-unit>
 <trans-unit id="tu451">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,187</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Submissions</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,187</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">件の提案</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,187</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"> 件の提案</g></target>
 </trans-unit>
 <trans-unit id="tu453" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
@@ -1861,7 +1861,7 @@
 </trans-unit>
 <trans-unit id="tu465">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">India</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,798</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">インド</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1 1,798人</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;country&quot;&gt;">インド</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,798人</g></target>
 </trans-unit>
 <trans-unit id="tu466" restype="x-paragraph">
 <source xml:lang="en-US">In-person</source>
@@ -2013,7 +2013,7 @@
 </trans-unit>
 <trans-unit id="tu503">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,551</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Submissions</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,551</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">件の提案</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">1,551</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"> 件の提案</g></target>
 </trans-unit>
 <trans-unit id="tu505" restype="x-alt">
 <source xml:lang="en-US">Megaphone icon</source>
@@ -2653,7 +2653,7 @@
 </trans-unit>
 <trans-unit id="tu663">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">4</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">CNF vendor organizations</g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;">Earned &quot;Certified CNF&quot; status - for <g id="5" ctype="link" equiv-text="[#$dp958]">a total of 6 products</g></g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">4</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">社の CNF ベンダー</g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;">が<g id="5" ctype="link" equiv-text="[#$dp958]">6プロダクトに対し「CNF 認定」ステータスを獲得</g></g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">4</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">つの CNF ベンダー</g> <g id="4" ctype="x-span" equiv-text="&lt;span class=&quot;addendum&quot;&gt;">が<g id="5" ctype="link" equiv-text="[#$dp958]">6プロダクトに対し「CNF 認定」ステータスを獲得</g></g></target>
 </trans-unit>
 <trans-unit id="tu665" restype="x-alt">
 <source xml:lang="en-US">Calendar icon</source>
@@ -2665,7 +2665,7 @@
 </trans-unit>
 <trans-unit id="tu666">
 <source xml:lang="en-US"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">2</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;">Cloud Native Telco Days</g></source>
-<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">2</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"> 度のCloud Native Telco Day 開催</g></target>
+<target xml:lang="ja-JP"><g id="1" ctype="x-span" equiv-text="&lt;span class=&quot;number&quot;&gt;">2</g><x id="2" ctype="x-br" equiv-text="&lt;br&gt;"/> <g id="3" ctype="x-span" equiv-text="&lt;span class=&quot;description&quot;&gt;"> つの Cloud Native Telco Days 開催</g></target>
 </trans-unit>
 <trans-unit id="tu667" restype="x-h2">
 <source xml:lang="en-US">Kubernetes API <x id="1" ctype="x-br" equiv-text="&lt;br class=&quot;show-over-1000&quot;&gt;"/>Endpoint Testing</source>
@@ -2909,7 +2909,7 @@
 </trans-unit>
 <trans-unit id="tu727" restype="x-paragraph">
 <source xml:lang="en-US">Do you want to help others better understand the concepts of cloud native computing? Donate a character to the Phippy and Friends family.</source>
-<target xml:lang="ja-JP">多くの人がクラウドネイティブ コンピューティングのコンセプトを理解できるよう、その手助けをしてみませんか?「Phippy と仲間たち」ファミリーにキャラクターを寄贈する。</target>
+<target xml:lang="ja-JP">多くの人がクラウドネイティブ コンピューティングのコンセプトを理解できるよう、その手助けをしてみませんか?「Phippy と仲間たち」ファミリーにキャラクターを寄贈しましょう。</target>
 </trans-unit>
 <trans-unit id="tu729" restype="x-title">
 <source xml:lang="en-US">Donate a character</source>

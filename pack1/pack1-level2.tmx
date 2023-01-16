@@ -184,24 +184,24 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,187<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>Submissions<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T122142Z" creationid="tani" creationdate="20230116T112450Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,187<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>件の提案<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123116Z" creationid="tani" creationdate="20230116T112450Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,187<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> 件の提案<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,551<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>Submissions<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T122337Z" creationid="tani" creationdate="20230116T113134Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,551<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>件の提案<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123217Z" creationid="tani" creationdate="20230116T113134Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>1,551<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> 件の提案<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>100%<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> would recommend CNCF to other companies (<bpt i="2" x="2">&lt;g2&gt;</bpt> 2022 End User survey <ept i="2">&lt;/g2&gt;</ept>)</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T054229Z" creationid="tani" creationdate="20230116T054229Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>100%%<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> が CNCF を他社にも勧めたい （<bpt i="2" x="2">&lt;g2&gt;</bpt> 2022 年エンドユーザー サーベイ<ept i="2">&lt;/g2&gt;</ept>）</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T122844Z" creationid="tani" creationdate="20230116T054229Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>100%<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> が CNCF を他社にも勧めたい （<bpt i="2" x="2">&lt;g2&gt;</bpt> 2022 年エンドユーザー サーベイ<ept i="2">&lt;/g2&gt;</ept>）</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,8 +240,8 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>157 Projects<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> Driving worldwide <ph x="2">&lt;x2/&gt;</ph>transformation</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T050234Z" creationid="tani" creationdate="20230116T050020Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>157 のプロジェクト<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> が世界中の<ph x="2">&lt;x2/&gt;</ph>トランスフォーメーショんをドライブする</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T122919Z" creationid="tani" creationdate="20230116T050020Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>157 のプロジェクト<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> が世界中の<ph x="2">&lt;x2/&gt;</ph>トランスフォーメーションをドライブする</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>2<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>Cloud Native Telco Days<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T120011Z" creationid="tani" creationdate="20230116T120011Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>2<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> 度のCloud Native Telco Day 開催<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123520Z" creationid="tani" creationdate="20230116T120011Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>2<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt> つの Cloud Native Telco Days 開催<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>4<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>CNF vendor organizations<ept i="2">&lt;/g2&gt;</ept> <bpt i="3" x="3">&lt;g3&gt;</bpt>Earned "Certified CNF" status - for <bpt i="4" x="4">&lt;g4&gt;</bpt>a total of 6 products<ept i="4">&lt;/g4&gt;</ept><ept i="3">&lt;/g3&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T115952Z" creationid="tani" creationdate="20230116T115952Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>4<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>社の CNF ベンダー<ept i="2">&lt;/g2&gt;</ept> <bpt i="3" x="3">&lt;g3&gt;</bpt>が<bpt i="4" x="4">&lt;g4&gt;</bpt>6プロダクトに対し「CNF 認定」ステータスを獲得<ept i="4">&lt;/g4&gt;</ept><ept i="3">&lt;/g3&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123452Z" creationid="tani" creationdate="20230116T115952Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>4<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>つの CNF ベンダー<ept i="2">&lt;/g2&gt;</ept> <bpt i="3" x="3">&lt;g3&gt;</bpt>が<bpt i="4" x="4">&lt;g4&gt;</bpt>6プロダクトに対し「CNF 認定」ステータスを獲得<ept i="4">&lt;/g4&gt;</ept><ept i="3">&lt;/g3&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv xml:lang="en-US">
         <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>India<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>1,798<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T112714Z" creationid="tani" creationdate="20230116T112714Z">
-        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>インド<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>1 1,798人<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123139Z" creationid="tani" creationdate="20230116T112714Z">
+        <seg><bpt i="0" x="0">&lt;g0&gt;</bpt>インド<ept i="0">&lt;/g0&gt;</ept><ph x="1">&lt;x1/&gt;</ph> <bpt i="2" x="2">&lt;g2&gt;</bpt>1,798人<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv xml:lang="en-US">
         <seg>Contributors</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230112T112011Z" creationid="tani" creationdate="20230104T104450Z">
-        <seg>コントリビュータ</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123014Z" creationid="tani" creationdate="20230104T104450Z">
+        <seg>コントリビューター</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1560,8 @@
       <tuv xml:lang="en-US">
         <seg>Donate a character to the Phippy and Friends family.</seg>
       </tuv>
-      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230115T222732Z" creationid="tani" creationdate="20230104T112829Z">
-        <seg>「Phippy と仲間たち」ファミリーにキャラクターを寄贈する。</seg>
+      <tuv xml:lang="ja-JP" changeid="tani" changedate="20230116T123614Z" creationid="tani" creationdate="20230104T112829Z">
+        <seg>「Phippy と仲間たち」ファミリーにキャラクターを寄贈しましょう。</seg>
       </tuv>
     </tu>
     <tu>
